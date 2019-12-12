@@ -1,0 +1,4963 @@
+Indicator;Country;Date;value
+Cases;Guinea;29/08/2014;648
+Deaths;Guinea;29/08/2014;430
+Cases;Liberia;29/08/2014;1378
+Deaths;Liberia;29/08/2014;694
+Cases;Nigeria;29/08/2014;19
+Deaths;Nigeria;29/08/2014;7
+Cases;Sierra Leone;29/08/2014;1026
+Deaths;Sierra Leone;29/08/2014;422
+Cases;Guinea;5/09/2014;812
+Deaths;Guinea;5/09/2014;517
+Cases;Liberia;5/09/2014;1871
+Deaths;Liberia;5/09/2014;1089
+Cases;Nigeria;5/09/2014;22
+Deaths;Nigeria;5/09/2014;8
+Cases;Senegal;5/09/2014;1
+Deaths;Senegal;5/09/2014;0
+Cases;Sierra Leone;5/09/2014;1261
+Deaths;Sierra Leone;5/09/2014;491
+Cases;Guinea;8/09/2014;862
+Deaths;Guinea;8/09/2014;555
+Cases;Liberia;8/09/2014;2046
+Deaths;Liberia;8/09/2014;1224
+Cases;Nigeria;8/09/2014;21
+Deaths;Nigeria;8/09/2014;8
+Cases;Senegal;8/09/2014;3
+Deaths;Senegal;8/09/2014;0
+Cases;Sierra Leone;8/09/2014;1361
+Deaths;Sierra Leone;8/09/2014;509
+Cases;Guinea;12/09/2014;861
+Deaths;Guinea;12/09/2014;557
+Cases;Liberia;12/09/2014;2081
+Deaths;Liberia;12/09/2014;1137
+Cases;Nigeria;12/09/2014;21
+Deaths;Nigeria;12/09/2014;8
+Cases;Senegal;12/09/2014;3
+Deaths;Senegal;12/09/2014;0
+Cases;Sierra Leone;12/09/2014;1424
+Deaths;Sierra Leone;12/09/2014;524
+Cases;Guinea;16/09/2014;936
+Deaths;Guinea;16/09/2014;595
+Cases;Liberia;16/09/2014;2407
+Deaths;Liberia;16/09/2014;1296
+Cases;Nigeria;16/09/2014;21
+Deaths;Nigeria;16/09/2014;8
+Cases;Senegal;16/09/2014;1
+Deaths;Senegal;16/09/2014;0
+Cases;Sierra Leone;16/09/2014;1620
+Deaths;Sierra Leone;16/09/2014;562
+Cases;Guinea;18/09/2014;942
+Deaths;Guinea;18/09/2014;601
+Cases;Liberia;18/09/2014;2710
+Deaths;Liberia;18/09/2014;1459
+Cases;Nigeria;18/09/2014;21
+Deaths;Nigeria;18/09/2014;8
+Cases;Senegal;18/09/2014;1
+Deaths;Senegal;18/09/2014;0
+Cases;Sierra Leone;18/09/2014;1673
+Deaths;Sierra Leone;18/09/2014;562
+Cases;Guinea;22/09/2014;1008
+Deaths;Guinea;22/09/2014;632
+Cases;Liberia;22/09/2014;3022
+Deaths;Liberia;22/09/2014;1578
+Cases;Nigeria;22/09/2014;20
+Deaths;Nigeria;22/09/2014;8
+Cases;Senegal;22/09/2014;1
+Deaths;Senegal;22/09/2014;0
+Cases;Sierra Leone;22/09/2014;1813
+Deaths;Sierra Leone;22/09/2014;593
+Cases;Guinea;24/09/2014;1022
+Deaths;Guinea;24/09/2014;635
+Cases;Liberia;24/09/2014;3280
+Deaths;Liberia;24/09/2014;1677
+Cases;Nigeria;24/09/2014;20
+Deaths;Nigeria;24/09/2014;8
+Cases;Senegal;24/09/2014;1
+Deaths;Senegal;24/09/2014;0
+Cases;Sierra Leone;24/09/2014;1940
+Deaths;Sierra Leone;24/09/2014;597
+Cases;Guinea;26/09/2014;1074
+Deaths;Guinea;26/09/2014;648
+Cases;Liberia;26/09/2014;3458
+Deaths;Liberia;26/09/2014;1830
+Cases;Nigeria;26/09/2014;20
+Deaths;Nigeria;26/09/2014;8
+Cases;Senegal;26/09/2014;1
+Deaths;Senegal;26/09/2014;0
+Cases;Sierra Leone;26/09/2014;2021
+Deaths;Sierra Leone;26/09/2014;605
+Cases;Guinea;1/10/2014;1157
+Deaths;Guinea;1/10/2014;710
+Cases;Liberia;1/10/2014;3696
+Deaths;Liberia;1/10/2014;1998
+Cases;Nigeria;1/10/2014;20
+Deaths;Nigeria;1/10/2014;8
+Cases;Senegal;1/10/2014;1
+Deaths;Senegal;1/10/2014;0
+Cases;Sierra Leone;1/10/2014;2304
+Deaths;Sierra Leone;1/10/2014;622
+Cases;Guinea;3/10/2014;1199
+Deaths;Guinea;3/10/2014;739
+Cases;Liberia;3/10/2014;3834
+Deaths;Liberia;3/10/2014;2069
+Cases;Nigeria;3/10/2014;20
+Deaths;Nigeria;3/10/2014;8
+Cases;Senegal;3/10/2014;1
+Deaths;Senegal;3/10/2014;0
+Cases;Sierra Leone;3/10/2014;2437
+Deaths;Sierra Leone;3/10/2014;623
+Cases;United States of America;3/10/2014;1
+Deaths;United States of America;3/10/2014;0
+Cases;Guinea;8/10/2014;1298
+Deaths;Guinea;8/10/2014;768
+Cases;Liberia;8/10/2014;3924
+Deaths;Liberia;8/10/2014;2210
+Cases;Nigeria;8/10/2014;20
+Deaths;Nigeria;8/10/2014;8
+Cases;Senegal;8/10/2014;1
+Deaths;Senegal;8/10/2014;0
+Cases;Sierra Leone;8/10/2014;2789
+Deaths;Sierra Leone;8/10/2014;879
+Cases;United States of America;8/10/2014;1
+Deaths;United States of America;8/10/2014;0
+Cases;Guinea;10/10/2014;1350
+Deaths;Guinea;10/10/2014;778
+Cases;Liberia;10/10/2014;4076
+Deaths;Liberia;10/10/2014;2316
+Cases;Nigeria;10/10/2014;20
+Deaths;Nigeria;10/10/2014;8
+Cases;Senegal;10/10/2014;1
+Deaths;Senegal;10/10/2014;0
+Cases;Sierra Leone;10/10/2014;2950
+Deaths;Sierra Leone;10/10/2014;930
+Cases;Spain;10/10/2014;1
+Deaths;Spain;10/10/2014;0
+Cases;United States of America;10/10/2014;1
+Deaths;United States of America;10/10/2014;0
+Cases;Guinea;15/10/2014;1472
+Deaths;Guinea;15/10/2014;843
+Cases;Liberia;15/10/2014;4249
+Deaths;Liberia;15/10/2014;2458
+Cases;Nigeria;15/10/2014;20
+Deaths;Nigeria;15/10/2014;8
+Cases;Senegal;15/10/2014;1
+Deaths;Senegal;15/10/2014;0
+Cases;Sierra Leone;15/10/2014;3252
+Deaths;Sierra Leone;15/10/2014;1183
+Cases;Spain;15/10/2014;1
+Deaths;Spain;15/10/2014;0
+Cases;United States of America;15/10/2014;2
+Deaths;United States of America;15/10/2014;1
+Cases;Guinea;17/10/2014;1519
+Deaths;Guinea;17/10/2014;862
+Cases;Liberia;17/10/2014;4262
+Deaths;Liberia;17/10/2014;2484
+Cases;Nigeria;17/10/2014;20
+Deaths;Nigeria;17/10/2014;8
+Cases;Senegal;17/10/2014;1
+Deaths;Senegal;17/10/2014;0
+Cases;Sierra Leone;17/10/2014;3410
+Deaths;Sierra Leone;17/10/2014;1200
+Cases;Spain;17/10/2014;1
+Deaths;Spain;17/10/2014;0
+Cases;United States of America;17/10/2014;3
+Deaths;United States of America;17/10/2014;1
+Cases;Guinea;22/10/2014;1540
+Deaths;Guinea;22/10/2014;904
+Cases;Liberia;22/10/2014;4665
+Deaths;Liberia;22/10/2014;2705
+Cases;Nigeria;22/10/2014;20
+Deaths;Nigeria;22/10/2014;8
+Cases;Senegal;22/10/2014;1
+Deaths;Senegal;22/10/2014;0
+Cases;Sierra Leone;22/10/2014;3706
+Deaths;Sierra Leone;22/10/2014;1259
+Cases;Spain;22/10/2014;1
+Deaths;Spain;22/10/2014;0
+Cases;United States of America;22/10/2014;3
+Deaths;United States of America;22/10/2014;1
+Cases;Guinea;25/10/2014;1553
+Deaths;Guinea;25/10/2014;926
+Cases;Liberia;25/10/2014;4665
+Deaths;Liberia;25/10/2014;2705
+Cases;Mali;25/10/2014;1
+Deaths;Mali;25/10/2014;1
+Cases;Nigeria;25/10/2014;20
+Deaths;Nigeria;25/10/2014;8
+Cases;Senegal;25/10/2014;1
+Deaths;Senegal;25/10/2014;0
+Cases;Sierra Leone;25/10/2014;3896
+Deaths;Sierra Leone;25/10/2014;1281
+Cases;Spain;25/10/2014;1
+Deaths;Spain;25/10/2014;0
+Cases;United States of America;25/10/2014;4
+Deaths;United States of America;25/10/2014;1
+Cases;Guinea;29/10/2014;1906
+Deaths;Guinea;29/10/2014;997
+Cases;Liberia;29/10/2014;6535
+Deaths;Liberia;29/10/2014;2413
+Cases;Mali;29/10/2014;1
+Deaths;Mali;29/10/2014;1
+Cases;Nigeria;29/10/2014;20
+Deaths;Nigeria;29/10/2014;8
+Cases;Senegal;29/10/2014;1
+Deaths;Senegal;29/10/2014;0
+Cases;Sierra Leone;29/10/2014;5235
+Deaths;Sierra Leone;29/10/2014;1500
+Cases;Spain;29/10/2014;1
+Deaths;Spain;29/10/2014;0
+Cases;United States of America;29/10/2014;4
+Deaths;United States of America;29/10/2014;1
+Cases;Guinea;31/10/2014;1667
+Deaths;Guinea;31/10/2014;1018
+Cases;Liberia;31/10/2014;6535
+Deaths;Liberia;31/10/2014;2413
+Cases;Mali;31/10/2014;1
+Deaths;Mali;31/10/2014;1
+Cases;Nigeria;31/10/2014;20
+Deaths;Nigeria;31/10/2014;8
+Cases;Senegal;31/10/2014;1
+Deaths;Senegal;31/10/2014;0
+Cases;Sierra Leone;31/10/2014;5338
+Deaths;Sierra Leone;31/10/2014;1510
+Cases;Spain;31/10/2014;1
+Deaths;Spain;31/10/2014;0
+Cases;United States of America;31/10/2014;4
+Deaths;United States of America;31/10/2014;1
+Cases;Guinea;5/11/2014;1731
+Deaths;Guinea;5/11/2014;1041
+Cases;Liberia;5/11/2014;6525
+Deaths;Liberia;5/11/2014;2697
+Cases;Mali;5/11/2014;1
+Deaths;Mali;5/11/2014;1
+Cases;Nigeria;5/11/2014;20
+Deaths;Nigeria;5/11/2014;8
+Cases;Senegal;5/11/2014;1
+Cases;Sierra Leone;5/11/2014;4759
+Deaths;Sierra Leone;5/11/2014;1070
+Cases;Spain;5/11/2014;1
+Deaths;Spain;5/11/2014;0
+Cases;United States of America;5/11/2014;4
+Deaths;United States of America;5/11/2014;1
+Deaths;Senegal;5/11/2014;0
+Cases;Guinea;7/11/2014;1760
+Deaths;Guinea;7/11/2014;1054
+Cases;Liberia;7/11/2014;6619
+Deaths;Liberia;7/11/2014;2766
+Cases;Mali;7/11/2014;1
+Deaths;Mali;7/11/2014;1
+Cases;Nigeria;7/11/2014;20
+Deaths;Nigeria;7/11/2014;8
+Cases;Sierra Leone;7/11/2014;4862
+Deaths;Sierra Leone;7/11/2014;1130
+Cases;Spain;7/11/2014;1
+Deaths;Spain;7/11/2014;0
+Cases;United States of America;7/11/2014;4
+Deaths;United States of America;7/11/2014;1
+Cases;Senegal;7/11/2014;1
+Deaths;Senegal;7/11/2014;0
+Cases;Guinea;12/11/2014;1878
+Deaths;Guinea;12/11/2014;1142
+Cases;Liberia;12/11/2014;6822
+Deaths;Liberia;12/11/2014;2836
+Cases;Mali;12/11/2014;4
+Deaths;Mali;12/11/2014;4
+Cases;Nigeria;12/11/2014;20
+Deaths;Nigeria;12/11/2014;8
+Cases;Sierra Leone;12/11/2014;5368
+Deaths;Sierra Leone;12/11/2014;1169
+Cases;Spain;12/11/2014;1
+Deaths;Spain;12/11/2014;0
+Cases;United States of America;12/11/2014;4
+Deaths;United States of America;12/11/2014;1
+Cases;Senegal;12/11/2014;1
+Deaths;Senegal;12/11/2014;0
+Cases;Guinea;14/11/2014;1919
+Deaths;Guinea;14/11/2014;1166
+Cases;Liberia;14/11/2014;6878
+Deaths;Liberia;14/11/2014;2812
+Cases;Mali;14/11/2014;4
+Deaths;Mali;14/11/2014;3
+Cases;Nigeria;14/11/2014;20
+Deaths;Nigeria;14/11/2014;8
+Cases;Sierra Leone;14/11/2014;5586
+Deaths;Sierra Leone;14/11/2014;1187
+Cases;Spain;14/11/2014;1
+Deaths;Spain;14/11/2014;0
+Cases;United States of America;14/11/2014;4
+Deaths;United States of America;14/11/2014;1
+Cases;Senegal;14/11/2014;1
+Deaths;Senegal;14/11/2014;0
+Cases;Guinea;19/11/2014;1971
+Deaths;Guinea;19/11/2014;1192
+Cases;Liberia;19/11/2014;7069
+Deaths;Liberia;19/11/2014;2964
+Cases;Mali;19/11/2014;6
+Deaths;Mali;19/11/2014;5
+Cases;Nigeria;19/11/2014;20
+Deaths;Nigeria;19/11/2014;8
+Cases;Sierra Leone;19/11/2014;6073
+Deaths;Sierra Leone;19/11/2014;1250
+Cases;Spain;19/11/2014;1
+Deaths;Spain;19/11/2014;0
+Cases;United States of America;19/11/2014;4
+Deaths;United States of America;19/11/2014;1
+Cases;Senegal;19/11/2014;1
+Deaths;Senegal;19/11/2014;0
+Cases;Guinea;21/11/2014;2047
+Deaths;Guinea;21/11/2014;1214
+Cases;Liberia;21/11/2014;7082
+Deaths;Liberia;21/11/2014;2963
+Cases;Mali;21/11/2014;6
+Deaths;Mali;21/11/2014;6
+Cases;Nigeria;21/11/2014;20
+Deaths;Nigeria;21/11/2014;8
+Cases;Sierra Leone;21/11/2014;6190
+Deaths;Sierra Leone;21/11/2014;1267
+Cases;Spain;21/11/2014;1
+Deaths;Spain;21/11/2014;0
+Cases;United States of America;21/11/2014;4
+Deaths;United States of America;21/11/2014;1
+Cases;Senegal;21/11/2014;1
+Deaths;Senegal;21/11/2014;0
+Cases;Guinea;26/11/2014;2134
+Deaths;Guinea;26/11/2014;1260
+Cases;Liberia;26/11/2014;7168
+Deaths;Liberia;26/11/2014;3016
+Cases;Mali;26/11/2014;8
+Deaths;Mali;26/11/2014;6
+Cases;Nigeria;26/11/2014;20
+Deaths;Nigeria;26/11/2014;8
+Cases;Sierra Leone;26/11/2014;6599
+Deaths;Sierra Leone;26/11/2014;1398
+Cases;Spain;26/11/2014;1
+Deaths;Spain;26/11/2014;0
+Cases;United States of America;26/11/2014;4
+Deaths;United States of America;26/11/2014;1
+Cases;Senegal;26/11/2014;1
+Deaths;Senegal;26/11/2014;0
+Cases;Guinea;1/12/2014;2155
+Deaths;Guinea;1/12/2014;1312
+Cases;Liberia;1/12/2014;7635
+Deaths;Liberia;1/12/2014;3145
+Cases;Mali;1/12/2014;8
+Deaths;Mali;1/12/2014;6
+Cases;Nigeria;1/12/2014;20
+Deaths;Nigeria;1/12/2014;8
+Cases;Sierra Leone;1/12/2014;7109
+Deaths;Sierra Leone;1/12/2014;1530
+Cases;Spain;1/12/2014;1
+Deaths;Spain;1/12/2014;0
+Cases;United States of America;1/12/2014;4
+Deaths;United States of America;1/12/2014;1
+Cases;Senegal;1/12/2014;1
+Deaths;Senegal;1/12/2014;0
+Cases;Guinea;3/12/2014;2164
+Deaths;Guinea;3/12/2014;1327
+Cases;Liberia;3/12/2014;7635
+Deaths;Liberia;3/12/2014;3145
+Cases;Mali;3/12/2014;8
+Deaths;Mali;3/12/2014;6
+Cases;Nigeria;3/12/2014;20
+Deaths;Nigeria;3/12/2014;8
+Cases;Sierra Leone;3/12/2014;7312
+Deaths;Sierra Leone;3/12/2014;1583
+Cases;Spain;3/12/2014;1
+Deaths;Spain;3/12/2014;0
+Cases;United States of America;3/12/2014;4
+Deaths;United States of America;3/12/2014;1
+Cases;Senegal;3/12/2014;1
+Deaths;Senegal;3/12/2014;0
+Cases;Guinea;10/12/2014;2292
+Deaths;Guinea;10/12/2014;1428
+Cases;Liberia;10/12/2014;7719
+Deaths;Liberia;10/12/2014;3177
+Cases;Mali;10/12/2014;8
+Deaths;Mali;10/12/2014;6
+Cases;Nigeria;10/12/2014;20
+Deaths;Nigeria;10/12/2014;8
+Cases;Sierra Leone;10/12/2014;7897
+Deaths;Sierra Leone;10/12/2014;1768
+Cases;Spain;10/12/2014;1
+Deaths;Spain;10/12/2014;0
+Cases;United States of America;10/12/2014;4
+Deaths;United States of America;10/12/2014;1
+Cases;Senegal;10/12/2014;1
+Deaths;Senegal;10/12/2014;0
+Cases;Guinea;15/12/2014;2394
+Deaths;Guinea;15/12/2014;1518
+Cases;Liberia;15/12/2014;7797
+Deaths;Liberia;15/12/2014;3290
+Cases;Mali;15/12/2014;8
+Deaths;Mali;15/12/2014;6
+Cases;Nigeria;15/12/2014;20
+Deaths;Nigeria;15/12/2014;8
+Cases;Sierra Leone;15/12/2014;8273
+Deaths;Sierra Leone;15/12/2014;2033
+Cases;Spain;15/12/2014;1
+Deaths;Spain;15/12/2014;0
+Cases;United States of America;15/12/2014;4
+Deaths;United States of America;15/12/2014;1
+Cases;Senegal;15/12/2014;1
+Deaths;Senegal;15/12/2014;0
+Cases;Guinea;17/12/2014;2416
+Deaths;Guinea;17/12/2014;1525
+Cases;Liberia;17/12/2014;7797
+Deaths;Liberia;17/12/2014;3290
+Cases;Mali;17/12/2014;8
+Deaths;Mali;17/12/2014;6
+Cases;Nigeria;17/12/2014;20
+Deaths;Nigeria;17/12/2014;8
+Cases;Sierra Leone;17/12/2014;8356
+Deaths;Sierra Leone;17/12/2014;2085
+Cases;Spain;17/12/2014;1
+Deaths;Spain;17/12/2014;0
+Cases;United States of America;17/12/2014;4
+Deaths;United States of America;17/12/2014;1
+Cases;Senegal;17/12/2014;1
+Deaths;Senegal;17/12/2014;0
+Cases;Guinea;22/12/2014;2571
+Deaths;Guinea;22/12/2014;1586
+Cases;Liberia;22/12/2014;7830
+Deaths;Liberia;22/12/2014;3376
+Cases;Mali;22/12/2014;8
+Deaths;Mali;22/12/2014;6
+Cases;Nigeria;22/12/2014;20
+Deaths;Nigeria;22/12/2014;8
+Cases;Sierra Leone;22/12/2014;8939
+Deaths;Sierra Leone;22/12/2014;2556
+Cases;Spain;22/12/2014;1
+Deaths;Spain;22/12/2014;0
+Cases;United States of America;22/12/2014;4
+Deaths;United States of America;22/12/2014;1
+Cases;Senegal;22/12/2014;1
+Deaths;Senegal;22/12/2014;0
+Cases;Guinea;23/12/2014;2597
+Deaths;Guinea;23/12/2014;1607
+Cases;Liberia;23/12/2014;7830
+Deaths;Liberia;23/12/2014;3376
+Cases;Mali;23/12/2014;8
+Deaths;Mali;23/12/2014;6
+Cases;Nigeria;23/12/2014;20
+Deaths;Nigeria;23/12/2014;8
+Cases;Sierra Leone;23/12/2014;9004
+Deaths;Sierra Leone;23/12/2014;2582
+Cases;Spain;23/12/2014;1
+Deaths;Spain;23/12/2014;0
+Cases;United States of America;23/12/2014;4
+Deaths;United States of America;23/12/2014;1
+Cases;Senegal;23/12/2014;1
+Deaths;Senegal;23/12/2014;0
+Cases;Guinea;24/12/2014;2597
+Deaths;Guinea;24/12/2014;1607
+Cases;Liberia;24/12/2014;7862
+Deaths;Liberia;24/12/2014;3384
+Cases;Mali;24/12/2014;8
+Deaths;Mali;24/12/2014;6
+Cases;Nigeria;24/12/2014;20
+Deaths;Nigeria;24/12/2014;8
+Cases;Sierra Leone;24/12/2014;9004
+Deaths;Sierra Leone;24/12/2014;2582
+Cases;Spain;24/12/2014;1
+Deaths;Spain;24/12/2014;0
+Cases;United States of America;24/12/2014;4
+Deaths;United States of America;24/12/2014;1
+Cases;Senegal;24/12/2014;1
+Deaths;Senegal;24/12/2014;0
+Cases;Guinea;26/12/2014;2630
+Deaths;Guinea;26/12/2014;1654
+Cases;Liberia;26/12/2014;7862
+Deaths;Liberia;26/12/2014;3384
+Cases;Mali;26/12/2014;8
+Deaths;Mali;26/12/2014;6
+Cases;Nigeria;26/12/2014;20
+Deaths;Nigeria;26/12/2014;8
+Cases;Sierra Leone;26/12/2014;9203
+Deaths;Sierra Leone;26/12/2014;2655
+Cases;Spain;26/12/2014;1
+Deaths;Spain;26/12/2014;0
+Cases;United States of America;26/12/2014;4
+Deaths;United States of America;26/12/2014;1
+Cases;Senegal;26/12/2014;1
+Deaths;Senegal;26/12/2014;0
+Cases;Guinea;29/12/2014;2695
+Deaths;Guinea;29/12/2014;1697
+Cases;Liberia;29/12/2014;7977
+Deaths;Liberia;29/12/2014;3413
+Cases;Mali;29/12/2014;8
+Deaths;Mali;29/12/2014;6
+Cases;Nigeria;29/12/2014;20
+Deaths;Nigeria;29/12/2014;8
+Cases;Sierra Leone;29/12/2014;9409
+Deaths;Sierra Leone;29/12/2014;2732
+Cases;Spain;29/12/2014;1
+Deaths;Spain;29/12/2014;0
+Cases;United States of America;29/12/2014;4
+Deaths;United States of America;29/12/2014;1
+Cases;Senegal;29/12/2014;1
+Deaths;Senegal;29/12/2014;0
+Cases;Guinea;30/12/2014;2706
+Deaths;Guinea;30/12/2014;1708
+Cases;Liberia;30/12/2014;7977
+Deaths;Liberia;30/12/2014;3413
+Cases;Mali;30/12/2014;8
+Deaths;Mali;30/12/2014;6
+Cases;Nigeria;30/12/2014;20
+Deaths;Nigeria;30/12/2014;8
+Cases;Sierra Leone;30/12/2014;9446
+Deaths;Sierra Leone;30/12/2014;2758
+Cases;Spain;30/12/2014;1
+Deaths;Spain;30/12/2014;0
+Cases;United States of America;30/12/2014;4
+Deaths;United States of America;30/12/2014;1
+Cases;Senegal;30/12/2014;1
+Deaths;Senegal;30/12/2014;0
+Cases;Guinea;31/12/2014;2707
+Deaths;Guinea;31/12/2014;1709
+Cases;Liberia;31/12/2014;8018
+Deaths;Liberia;31/12/2014;3423
+Cases;Mali;31/12/2014;8
+Deaths;Mali;31/12/2014;6
+Cases;Nigeria;31/12/2014;20
+Deaths;Nigeria;31/12/2014;8
+Cases;Sierra Leone;31/12/2014;9446
+Deaths;Sierra Leone;31/12/2014;2758
+Cases;Spain;31/12/2014;1
+Deaths;Spain;31/12/2014;0
+Cases;United States of America;31/12/2014;4
+Deaths;United States of America;31/12/2014;1
+Cases;Senegal;31/12/2014;1
+Deaths;Senegal;31/12/2014;0
+Cases;Senegal;2/01/2015;1
+Cases;Guinea;2/01/2015;2730
+Deaths;Guinea;2/01/2015;1739
+Cases;Liberia;2/01/2015;8018
+Deaths;Liberia;2/01/2015;3423
+Cases;Mali;2/01/2015;8
+Deaths;Mali;2/01/2015;6
+Cases;Nigeria;2/01/2015;20
+Deaths;Nigeria;2/01/2015;8
+Cases;Sierra Leone;2/01/2015;9633
+Deaths;Sierra Leone;2/01/2015;2827
+Cases;Spain;2/01/2015;1
+Deaths;Spain;2/01/2015;0
+Cases;United Kingdom;2/01/2015;0
+Deaths;United Kingdom;2/01/2015;0
+Cases;United States of America;2/01/2015;4
+Deaths;United States of America;2/01/2015;1
+Deaths;Senegal;2/01/2015;0
+Cases;Senegal;5/01/2015;1
+Cases;Guinea;5/01/2015;2769
+Deaths;Guinea;5/01/2015;1767
+Cases;Liberia;5/01/2015;8115
+Deaths;Liberia;5/01/2015;3471
+Cases;Mali;5/01/2015;8
+Deaths;Mali;5/01/2015;6
+Cases;Nigeria;5/01/2015;20
+Deaths;Nigeria;5/01/2015;8
+Cases;Sierra Leone;5/01/2015;9772
+Deaths;Sierra Leone;5/01/2015;2915
+Cases;Spain;5/01/2015;1
+Deaths;Spain;5/01/2015;0
+Cases;United Kingdom;5/01/2015;0
+Deaths;United Kingdom;5/01/2015;0
+Cases;United States of America;5/01/2015;4
+Deaths;United States of America;5/01/2015;1
+Deaths;Senegal;5/01/2015;0
+Cases;Senegal;6/01/2015;1
+Cases;Guinea;6/01/2015;2775
+Deaths;Guinea;6/01/2015;1781
+Cases;Liberia;6/01/2015;8157
+Deaths;Liberia;6/01/2015;3496
+Cases;Mali;6/01/2015;8
+Deaths;Mali;6/01/2015;6
+Cases;Nigeria;6/01/2015;20
+Deaths;Nigeria;6/01/2015;8
+Cases;Sierra Leone;6/01/2015;9780
+Deaths;Sierra Leone;6/01/2015;2943
+Cases;Spain;6/01/2015;1
+Deaths;Spain;6/01/2015;0
+Cases;United Kingdom;6/01/2015;1
+Deaths;United Kingdom;6/01/2015;0
+Cases;United States of America;6/01/2015;4
+Deaths;United States of America;6/01/2015;1
+Deaths;Senegal;6/01/2015;0
+Cases;Senegal;7/01/2015;1
+Cases;Guinea;7/01/2015;2775
+Deaths;Guinea;7/01/2015;1781
+Cases;Liberia;7/01/2015;8157
+Deaths;Liberia;7/01/2015;3496
+Cases;Mali;7/01/2015;8
+Deaths;Mali;7/01/2015;6
+Cases;Nigeria;7/01/2015;20
+Deaths;Nigeria;7/01/2015;8
+Cases;Sierra Leone;7/01/2015;9780
+Deaths;Sierra Leone;7/01/2015;2943
+Cases;Spain;7/01/2015;1
+Deaths;Spain;7/01/2015;0
+Cases;United Kingdom;7/01/2015;1
+Deaths;United Kingdom;7/01/2015;0
+Cases;United States of America;7/01/2015;4
+Deaths;United States of America;7/01/2015;1
+Deaths;Senegal;7/01/2015;0
+Deaths;Guinea;8/01/2015;1786
+Cases;Guinea;8/01/2015;2776
+Cases;Liberia;8/01/2015;8166
+Deaths;Liberia;8/01/2015;3496
+Deaths;Mali;8/01/2015;6
+Cases;Sierra Leone;8/01/2015;10030
+Deaths;Sierra Leone;8/01/2015;2977
+Deaths;United Kingdom;8/01/2015;0
+Deaths;Guinea;9/01/2015;1797
+Cases;Guinea;9/01/2015;2793
+Cases;Liberia;9/01/2015;8263
+Deaths;Liberia;9/01/2015;3515
+Deaths;Mali;9/01/2015;6
+Cases;Sierra Leone;9/01/2015;10030
+Deaths;Sierra Leone;9/01/2015;2977
+Deaths;United Kingdom;9/01/2015;0
+Deaths;Guinea;12/01/2015;1807
+Cases;Guinea;12/01/2015;2799
+Cases;Liberia;12/01/2015;8278
+Deaths;Liberia;12/01/2015;3515
+Deaths;Mali;12/01/2015;6
+Cases;Sierra Leone;12/01/2015;10094
+Deaths;Sierra Leone;12/01/2015;3049
+Deaths;United Kingdom;12/01/2015;0
+Cases;Guinea;13/01/2015;2799
+Deaths;Guinea;13/01/2015;1807
+Cases;Liberia;13/01/2015;8278
+Deaths;Liberia;13/01/2015;3515
+Deaths;Mali;13/01/2015;6
+Cases;Sierra Leone;13/01/2015;10094
+Deaths;Sierra Leone;13/01/2015;3049
+Deaths;United Kingdom;13/01/2015;0
+Cases;Senegal;14/01/2015;1
+Cases;Guinea;14/01/2015;2806
+Deaths;Guinea;14/01/2015;1814
+Cases;Liberia;14/01/2015;8331
+Deaths;Liberia;14/01/2015;3538
+Deaths;Mali;14/01/2015;6
+Cases;Mali;14/01/2015;8
+Cases;Nigeria;14/01/2015;20
+Deaths;Nigeria;14/01/2015;8
+Cases;Sierra Leone;14/01/2015;10124
+Deaths;Sierra Leone;14/01/2015;3062
+Cases;Spain;14/01/2015;1
+Deaths;Spain;14/01/2015;0
+Deaths;United Kingdom;14/01/2015;0
+Cases;United Kingdom;14/01/2015;1
+Cases;United States of America;14/01/2015;4
+Deaths;United States of America;14/01/2015;1
+Deaths;Senegal;14/01/2015;0
+Cases;Senegal;15/01/2015;1
+Cases;Guinea;15/01/2015;2817
+Deaths;Guinea;15/01/2015;1821
+Cases;Liberia;15/01/2015;8362
+Deaths;Liberia;15/01/2015;3556
+Deaths;Mali;15/01/2015;6
+Cases;Mali;15/01/2015;8
+Cases;Nigeria;15/01/2015;20
+Deaths;Nigeria;15/01/2015;8
+Cases;Sierra Leone;15/01/2015;10150
+Deaths;Sierra Leone;15/01/2015;3067
+Cases;Spain;15/01/2015;1
+Deaths;Spain;15/01/2015;0
+Deaths;United Kingdom;15/01/2015;0
+Cases;United Kingdom;15/01/2015;1
+Cases;United States of America;15/01/2015;4
+Deaths;United States of America;15/01/2015;1
+Deaths;Senegal;15/01/2015;0
+Cases;Senegal;16/01/2015;1
+Cases;Guinea;16/01/2015;2825
+Deaths;Guinea;16/01/2015;1829
+Cases;Liberia;16/01/2015;8362
+Deaths;Liberia;16/01/2015;3556
+Deaths;Mali;16/01/2015;6
+Cases;Mali;16/01/2015;8
+Cases;Nigeria;16/01/2015;20
+Deaths;Nigeria;16/01/2015;8
+Cases;Sierra Leone;16/01/2015;10186
+Deaths;Sierra Leone;16/01/2015;3083
+Cases;Spain;16/01/2015;1
+Deaths;Spain;16/01/2015;0
+Deaths;United Kingdom;16/01/2015;0
+Cases;United Kingdom;16/01/2015;1
+Cases;United States of America;16/01/2015;4
+Deaths;United States of America;16/01/2015;1
+Deaths;Senegal;16/01/2015;0
+Cases;Senegal;19/01/2015;1
+Deaths;Guinea;19/01/2015;1875
+Cases;Guinea;19/01/2015;2873
+Cases;Liberia;19/01/2015;8435
+Deaths;Liberia;19/01/2015;3587
+Deaths;Mali;19/01/2015;6
+Cases;Mali;19/01/2015;8
+Cases;Nigeria;19/01/2015;20
+Deaths;Nigeria;19/01/2015;8
+Cases;Sierra Leone;19/01/2015;10306
+Deaths;Sierra Leone;19/01/2015;3132
+Cases;Spain;19/01/2015;1
+Deaths;Spain;19/01/2015;0
+Deaths;United Kingdom;19/01/2015;0
+Cases;United Kingdom;19/01/2015;1
+Cases;United States of America;19/01/2015;4
+Deaths;United States of America;19/01/2015;1
+Deaths;Senegal;19/01/2015;0
+Cases;Senegal;20/01/2015;1
+Deaths;Guinea;20/01/2015;1876
+Cases;Guinea;20/01/2015;2871
+Cases;Liberia;20/01/2015;8478
+Deaths;Liberia;20/01/2015;3605
+Deaths;Mali;20/01/2015;6
+Cases;Mali;20/01/2015;8
+Cases;Nigeria;20/01/2015;20
+Deaths;Nigeria;20/01/2015;8
+Deaths;Sierra Leone;20/01/2015;3145
+Cases;Sierra Leone;20/01/2015;10340
+Cases;Spain;20/01/2015;1
+Deaths;Spain;20/01/2015;0
+Deaths;United Kingdom;20/01/2015;0
+Cases;United Kingdom;20/01/2015;1
+Cases;United States of America;20/01/2015;4
+Deaths;United States of America;20/01/2015;1
+Deaths;Senegal;20/01/2015;0
+Cases;Senegal;21/01/2015;1
+Cases;Guinea;21/01/2015;2871
+Deaths;Guinea;21/01/2015;1876
+Cases;Liberia;21/01/2015;8478
+Deaths;Liberia;21/01/2015;3605
+Deaths;Mali;21/01/2015;6
+Cases;Mali;21/01/2015;8
+Cases;Nigeria;21/01/2015;20
+Deaths;Nigeria;21/01/2015;8
+Deaths;Sierra Leone;21/01/2015;3145
+Cases;Sierra Leone;21/01/2015;10340
+Cases;Spain;21/01/2015;1
+Deaths;Spain;21/01/2015;0
+Deaths;United Kingdom;21/01/2015;0
+Cases;United Kingdom;21/01/2015;1
+Cases;United States of America;21/01/2015;4
+Deaths;United States of America;21/01/2015;1
+Deaths;Senegal;21/01/2015;0
+Cases;Senegal;22/01/2015;1
+Cases;Guinea;22/01/2015;2873
+Deaths;Guinea;22/01/2015;1879
+Cases;Liberia;22/01/2015;8524
+Deaths;Liberia;22/01/2015;3636
+Deaths;Mali;22/01/2015;6
+Cases;Mali;22/01/2015;8
+Cases;Nigeria;22/01/2015;20
+Deaths;Nigeria;22/01/2015;8
+Cases;Sierra Leone;22/01/2015;10362
+Deaths;Sierra Leone;22/01/2015;3153
+Cases;Spain;22/01/2015;1
+Deaths;Spain;22/01/2015;0
+Deaths;United Kingdom;22/01/2015;0
+Cases;United Kingdom;22/01/2015;1
+Cases;United States of America;22/01/2015;4
+Deaths;United States of America;22/01/2015;1
+Deaths;Senegal;22/01/2015;0
+Cases;Senegal;23/01/2015;1
+Cases;Guinea;23/01/2015;2873
+Deaths;Guinea;23/01/2015;1880
+Cases;Liberia;23/01/2015;8524
+Deaths;Liberia;23/01/2015;3636
+Deaths;Mali;23/01/2015;6
+Cases;Mali;23/01/2015;8
+Cases;Nigeria;23/01/2015;20
+Deaths;Nigeria;23/01/2015;8
+Deaths;Sierra Leone;23/01/2015;3159
+Cases;Sierra Leone;23/01/2015;10400
+Cases;Spain;23/01/2015;1
+Deaths;Spain;23/01/2015;0
+Deaths;United Kingdom;23/01/2015;0
+Cases;United Kingdom;23/01/2015;1
+Cases;United States of America;23/01/2015;4
+Deaths;United States of America;23/01/2015;1
+Deaths;Senegal;23/01/2015;0
+Cases;Senegal;26/01/2015;1
+Cases;Guinea;26/01/2015;2909
+Deaths;Guinea;26/01/2015;1906
+Cases;Liberia;26/01/2015;8524
+Deaths;Liberia;26/01/2015;3636
+Deaths;Mali;26/01/2015;6
+Cases;Mali;26/01/2015;8
+Cases;Nigeria;26/01/2015;20
+Deaths;Nigeria;26/01/2015;8
+Cases;Sierra Leone;26/01/2015;10491
+Deaths;Sierra Leone;26/01/2015;3195
+Cases;Spain;26/01/2015;1
+Deaths;Spain;26/01/2015;0
+Deaths;United Kingdom;26/01/2015;0
+Cases;United Kingdom;26/01/2015;1
+Cases;United States of America;26/01/2015;4
+Deaths;United States of America;26/01/2015;1
+Deaths;Senegal;26/01/2015;0
+Cases;Senegal;27/01/2015;1
+Deaths;Guinea;27/01/2015;1910
+Cases;Guinea;27/01/2015;2917
+Cases;Liberia;27/01/2015;8622
+Deaths;Liberia;27/01/2015;3686
+Deaths;Mali;27/01/2015;6
+Cases;Mali;27/01/2015;8
+Cases;Nigeria;27/01/2015;20
+Deaths;Nigeria;27/01/2015;8
+Deaths;Sierra Leone;27/01/2015;3199
+Cases;Sierra Leone;27/01/2015;10518
+Cases;Spain;27/01/2015;1
+Deaths;Spain;27/01/2015;0
+Deaths;United Kingdom;27/01/2015;0
+Cases;United Kingdom;27/01/2015;1
+Cases;United States of America;27/01/2015;4
+Deaths;United States of America;27/01/2015;1
+Deaths;Senegal;27/01/2015;0
+Cases;Senegal;28/01/2015;1
+Deaths;Guinea;28/01/2015;1910
+Cases;Guinea;28/01/2015;2917
+Cases;Liberia;28/01/2015;8622
+Deaths;Liberia;28/01/2015;3686
+Deaths;Mali;28/01/2015;6
+Cases;Mali;28/01/2015;8
+Cases;Nigeria;28/01/2015;20
+Deaths;Nigeria;28/01/2015;8
+Cases;Sierra Leone;28/01/2015;10518
+Deaths;Sierra Leone;28/01/2015;3199
+Cases;Spain;28/01/2015;1
+Deaths;Spain;28/01/2015;0
+Deaths;United Kingdom;28/01/2015;0
+Cases;United Kingdom;28/01/2015;1
+Cases;United States of America;28/01/2015;4
+Deaths;United States of America;28/01/2015;1
+Deaths;Senegal;28/01/2015;0
+Cases;Senegal;29/01/2015;1
+Cases;Guinea;29/01/2015;2921
+Deaths;Guinea;29/01/2015;1911
+Cases;Liberia;29/01/2015;8643
+Deaths;Liberia;29/01/2015;3700
+Deaths;Mali;29/01/2015;6
+Cases;Mali;29/01/2015;8
+Cases;Nigeria;29/01/2015;20
+Deaths;Nigeria;29/01/2015;8
+Cases;Sierra Leone;29/01/2015;10537
+Deaths;Sierra Leone;29/01/2015;3207
+Cases;Spain;29/01/2015;1
+Deaths;Spain;29/01/2015;0
+Deaths;United Kingdom;29/01/2015;0
+Cases;United Kingdom;29/01/2015;1
+Cases;United States of America;29/01/2015;4
+Deaths;United States of America;29/01/2015;1
+Deaths;Senegal;29/01/2015;0
+Cases;Senegal;30/01/2015;1
+Cases;Guinea;30/01/2015;2920
+Deaths;Guinea;30/01/2015;1913
+Cases;Liberia;30/01/2015;8643
+Deaths;Liberia;30/01/2015;3700
+Deaths;Mali;30/01/2015;6
+Cases;Mali;30/01/2015;8
+Cases;Nigeria;30/01/2015;20
+Deaths;Nigeria;30/01/2015;8
+Cases;Sierra Leone;30/01/2015;10561
+Deaths;Sierra Leone;30/01/2015;3216
+Cases;Spain;30/01/2015;1
+Deaths;Spain;30/01/2015;0
+Deaths;United Kingdom;30/01/2015;0
+Cases;United Kingdom;30/01/2015;1
+Cases;United States of America;30/01/2015;4
+Deaths;United States of America;30/01/2015;1
+Deaths;Senegal;30/01/2015;0
+Cases;Senegal;2/02/2015;1
+Cases;Guinea;2/02/2015;2959
+Deaths;Guinea;2/02/2015;1937
+Cases;Liberia;2/02/2015;8668
+Deaths;Liberia;2/02/2015;3710
+Deaths;Mali;2/02/2015;6
+Cases;Mali;2/02/2015;8
+Cases;Nigeria;2/02/2015;20
+Deaths;Nigeria;2/02/2015;8
+Cases;Sierra Leone;2/02/2015;10707
+Deaths;Sierra Leone;2/02/2015;3274
+Cases;Spain;2/02/2015;1
+Deaths;Spain;2/02/2015;0
+Deaths;United Kingdom;2/02/2015;0
+Cases;United Kingdom;2/02/2015;1
+Cases;United States of America;2/02/2015;4
+Deaths;United States of America;2/02/2015;1
+Deaths;Senegal;2/02/2015;0
+Cases;Senegal;3/02/2015;1
+Cases;Guinea;3/02/2015;2975
+Deaths;Guinea;3/02/2015;1944
+Cases;Liberia;3/02/2015;8729
+Deaths;Liberia;3/02/2015;3739
+Deaths;Mali;3/02/2015;6
+Cases;Mali;3/02/2015;8
+Cases;Nigeria;3/02/2015;20
+Deaths;Nigeria;3/02/2015;8
+Cases;Sierra Leone;3/02/2015;10740
+Deaths;Sierra Leone;3/02/2015;3276
+Cases;Spain;3/02/2015;1
+Deaths;Spain;3/02/2015;0
+Deaths;United Kingdom;3/02/2015;0
+Cases;United Kingdom;3/02/2015;1
+Cases;United States of America;3/02/2015;4
+Deaths;United States of America;3/02/2015;1
+Deaths;Senegal;3/02/2015;0
+Cases;Senegal;4/02/2015;1
+Cases;Guinea;4/02/2015;2975
+Deaths;Guinea;4/02/2015;1944
+Cases;Liberia;4/02/2015;8745
+Deaths;Liberia;4/02/2015;3746
+Deaths;Mali;4/02/2015;6
+Cases;Mali;4/02/2015;8
+Cases;Nigeria;4/02/2015;20
+Deaths;Nigeria;4/02/2015;8
+Cases;Sierra Leone;4/02/2015;10740
+Deaths;Sierra Leone;4/02/2015;3276
+Cases;Spain;4/02/2015;1
+Deaths;Spain;4/02/2015;0
+Deaths;United Kingdom;4/02/2015;0
+Cases;United Kingdom;4/02/2015;1
+Cases;United States of America;4/02/2015;4
+Deaths;United States of America;4/02/2015;1
+Deaths;Senegal;4/02/2015;0
+Cases;Senegal;5/02/2015;1
+Cases;Guinea;5/02/2015;2986
+Deaths;Guinea;5/02/2015;1947
+Cases;Liberia;5/02/2015;8745
+Deaths;Liberia;5/02/2015;3746
+Deaths;Mali;5/02/2015;6
+Cases;Mali;5/02/2015;8
+Cases;Nigeria;5/02/2015;20
+Deaths;Nigeria;5/02/2015;8
+Cases;Sierra Leone;5/02/2015;10756
+Deaths;Sierra Leone;5/02/2015;3286
+Cases;Spain;5/02/2015;1
+Deaths;Spain;5/02/2015;0
+Deaths;United Kingdom;5/02/2015;0
+Cases;United Kingdom;5/02/2015;1
+Cases;United States of America;5/02/2015;4
+Deaths;United States of America;5/02/2015;1
+Deaths;Senegal;5/02/2015;0
+Cases;Senegal;6/02/2015;1
+Cases;Guinea;6/02/2015;2988
+Deaths;Guinea;6/02/2015;1957
+Cases;Liberia;6/02/2015;8745
+Deaths;Liberia;6/02/2015;3746
+Deaths;Mali;6/02/2015;6
+Cases;Mali;6/02/2015;8
+Cases;Nigeria;6/02/2015;20
+Deaths;Nigeria;6/02/2015;8
+Cases;Sierra Leone;6/02/2015;10792
+Deaths;Sierra Leone;6/02/2015;3301
+Cases;Spain;6/02/2015;1
+Deaths;Spain;6/02/2015;0
+Deaths;United Kingdom;6/02/2015;0
+Cases;United Kingdom;6/02/2015;1
+Cases;United States of America;6/02/2015;4
+Deaths;United States of America;6/02/2015;1
+Deaths;Senegal;6/02/2015;0
+Cases;Senegal;10/02/2015;1
+Cases;Guinea;10/02/2015;3044
+Deaths;Guinea;10/02/2015;1995
+Cases;Liberia;10/02/2015;8881
+Deaths;Liberia;10/02/2015;3826
+Deaths;Mali;10/02/2015;6
+Cases;Mali;10/02/2015;8
+Cases;Nigeria;10/02/2015;20
+Deaths;Nigeria;10/02/2015;8
+Cases;Sierra Leone;10/02/2015;10934
+Deaths;Sierra Leone;10/02/2015;3341
+Cases;Spain;10/02/2015;1
+Deaths;Spain;10/02/2015;0
+Deaths;United Kingdom;10/02/2015;0
+Cases;United Kingdom;10/02/2015;1
+Cases;United States of America;10/02/2015;4
+Deaths;United States of America;10/02/2015;1
+Deaths;Senegal;10/02/2015;0
+Cases;Senegal;11/02/2015;1
+Cases;Guinea;11/02/2015;3044
+Deaths;Guinea;11/02/2015;1995
+Cases;Liberia;11/02/2015;8881
+Deaths;Liberia;11/02/2015;3826
+Deaths;Mali;11/02/2015;6
+Cases;Mali;11/02/2015;8
+Cases;Nigeria;11/02/2015;20
+Deaths;Nigeria;11/02/2015;8
+Cases;Sierra Leone;11/02/2015;10934
+Deaths;Sierra Leone;11/02/2015;3341
+Cases;Spain;11/02/2015;1
+Deaths;Spain;11/02/2015;0
+Deaths;United Kingdom;11/02/2015;0
+Cases;United Kingdom;11/02/2015;1
+Cases;United States of America;11/02/2015;4
+Deaths;United States of America;11/02/2015;1
+Deaths;Senegal;11/02/2015;0
+Cases;Senegal;12/02/2015;1
+Cases;Guinea;12/02/2015;3068
+Deaths;Guinea;12/02/2015;2018
+Cases;Liberia;12/02/2015;8881
+Deaths;Liberia;12/02/2015;3826
+Deaths;Mali;12/02/2015;6
+Cases;Mali;12/02/2015;8
+Cases;Nigeria;12/02/2015;20
+Deaths;Nigeria;12/02/2015;8
+Cases;Sierra Leone;12/02/2015;10954
+Deaths;Sierra Leone;12/02/2015;3350
+Cases;Spain;12/02/2015;1
+Deaths;Spain;12/02/2015;0
+Deaths;United Kingdom;12/02/2015;0
+Cases;United Kingdom;12/02/2015;1
+Cases;United States of America;12/02/2015;4
+Deaths;United States of America;12/02/2015;1
+Deaths;Senegal;12/02/2015;0
+Cases;Senegal;13/02/2015;1
+Cases;Guinea;13/02/2015;3081
+Deaths;Guinea;13/02/2015;2032
+Cases;Liberia;13/02/2015;8931
+Deaths;Liberia;13/02/2015;3858
+Deaths;Mali;13/02/2015;6
+Cases;Mali;13/02/2015;8
+Cases;Nigeria;13/02/2015;20
+Deaths;Nigeria;13/02/2015;8
+Cases;Sierra Leone;13/02/2015;10987
+Deaths;Sierra Leone;13/02/2015;3363
+Cases;Spain;13/02/2015;1
+Deaths;Spain;13/02/2015;0
+Deaths;United Kingdom;13/02/2015;0
+Cases;United Kingdom;13/02/2015;1
+Cases;United States of America;13/02/2015;4
+Deaths;United States of America;13/02/2015;1
+Deaths;Senegal;13/02/2015;0
+Cases;Senegal;16/02/2015;1
+Cases;Guinea;16/02/2015;3101
+Deaths;Guinea;16/02/2015;2052
+Cases;Liberia;16/02/2015;9007
+Deaths;Liberia;16/02/2015;3900
+Deaths;Mali;16/02/2015;6
+Cases;Mali;16/02/2015;8
+Cases;Nigeria;16/02/2015;20
+Deaths;Nigeria;16/02/2015;8
+Cases;Sierra Leone;16/02/2015;11074
+Deaths;Sierra Leone;16/02/2015;3401
+Cases;Spain;16/02/2015;1
+Deaths;Spain;16/02/2015;0
+Deaths;United Kingdom;16/02/2015;0
+Cases;United Kingdom;16/02/2015;1
+Cases;United States of America;16/02/2015;4
+Deaths;United States of America;16/02/2015;1
+Deaths;Senegal;16/02/2015;0
+Cases;Senegal;17/02/2015;1
+Cases;Guinea;17/02/2015;3108
+Deaths;Guinea;17/02/2015;2057
+Cases;Liberia;17/02/2015;9007
+Deaths;Liberia;17/02/2015;3900
+Deaths;Mali;17/02/2015;6
+Cases;Mali;17/02/2015;8
+Cases;Nigeria;17/02/2015;20
+Deaths;Nigeria;17/02/2015;8
+Cases;Sierra Leone;17/02/2015;11103
+Deaths;Sierra Leone;17/02/2015;3408
+Cases;Spain;17/02/2015;1
+Deaths;Spain;17/02/2015;0
+Deaths;United Kingdom;17/02/2015;0
+Cases;United Kingdom;17/02/2015;1
+Cases;United States of America;17/02/2015;4
+Deaths;United States of America;17/02/2015;1
+Deaths;Senegal;17/02/2015;0
+Cases;Senegal;18/02/2015;1
+Cases;Guinea;18/02/2015;3108
+Deaths;Guinea;18/02/2015;2057
+Cases;Liberia;18/02/2015;9007
+Deaths;Liberia;18/02/2015;3900
+Deaths;Mali;18/02/2015;6
+Cases;Mali;18/02/2015;8
+Cases;Nigeria;18/02/2015;20
+Deaths;Nigeria;18/02/2015;8
+Deaths;Sierra Leone;18/02/2015;3408
+Cases;Sierra Leone;18/02/2015;11103
+Cases;Spain;18/02/2015;1
+Deaths;Spain;18/02/2015;0
+Deaths;United Kingdom;18/02/2015;0
+Cases;United Kingdom;18/02/2015;1
+Cases;United States of America;18/02/2015;4
+Deaths;United States of America;18/02/2015;1
+Deaths;Senegal;18/02/2015;0
+Cases;Senegal;19/02/2015;1
+Cases;Guinea;19/02/2015;3115
+Deaths;Guinea;19/02/2015;2067
+Cases;Liberia;19/02/2015;9096
+Deaths;Liberia;19/02/2015;3947
+Deaths;Mali;19/02/2015;6
+Cases;Mali;19/02/2015;8
+Cases;Nigeria;19/02/2015;20
+Deaths;Nigeria;19/02/2015;8
+Cases;Sierra Leone;19/02/2015;11155
+Deaths;Sierra Leone;19/02/2015;3423
+Cases;Spain;19/02/2015;1
+Deaths;Spain;19/02/2015;0
+Deaths;United Kingdom;19/02/2015;0
+Cases;United Kingdom;19/02/2015;1
+Cases;United States of America;19/02/2015;4
+Deaths;United States of America;19/02/2015;1
+Deaths;Senegal;19/02/2015;0
+Cases;Senegal;20/02/2015;1
+Cases;Guinea;20/02/2015;3120
+Deaths;Guinea;20/02/2015;2072
+Cases;Liberia;20/02/2015;9096
+Deaths;Liberia;20/02/2015;3947
+Deaths;Mali;20/02/2015;6
+Cases;Mali;20/02/2015;8
+Cases;Nigeria;20/02/2015;20
+Deaths;Nigeria;20/02/2015;8
+Cases;Sierra Leone;20/02/2015;11155
+Deaths;Sierra Leone;20/02/2015;3423
+Cases;Spain;20/02/2015;1
+Deaths;Spain;20/02/2015;0
+Deaths;United Kingdom;20/02/2015;0
+Cases;United Kingdom;20/02/2015;1
+Cases;United States of America;20/02/2015;4
+Deaths;United States of America;20/02/2015;1
+Deaths;Senegal;20/02/2015;0
+Cases;Senegal;23/02/2015;1
+Cases;Guinea;23/02/2015;3155
+Deaths;Guinea;23/02/2015;2086
+Cases;Liberia;23/02/2015;9229
+Deaths;Liberia;23/02/2015;4032
+Deaths;Mali;23/02/2015;6
+Cases;Mali;23/02/2015;8
+Cases;Nigeria;23/02/2015;20
+Deaths;Nigeria;23/02/2015;8
+Cases;Sierra Leone;23/02/2015;11155
+Deaths;Sierra Leone;23/02/2015;3423
+Cases;Spain;23/02/2015;1
+Deaths;Spain;23/02/2015;0
+Deaths;United Kingdom;23/02/2015;0
+Cases;United Kingdom;23/02/2015;1
+Cases;United States of America;23/02/2015;4
+Deaths;United States of America;23/02/2015;1
+Deaths;Senegal;23/02/2015;0
+Cases;Senegal;25/02/2015;1
+Cases;Guinea;25/02/2015;3155
+Deaths;Guinea;25/02/2015;2091
+Cases;Liberia;25/02/2015;9238
+Deaths;Liberia;25/02/2015;4037
+Deaths;Mali;25/02/2015;6
+Cases;Mali;25/02/2015;8
+Cases;Nigeria;25/02/2015;20
+Deaths;Nigeria;25/02/2015;8
+Deaths;Sierra Leone;25/02/2015;3461
+Cases;Sierra Leone;25/02/2015;11301
+Cases;Spain;25/02/2015;1
+Deaths;Spain;25/02/2015;0
+Deaths;United Kingdom;25/02/2015;0
+Cases;United Kingdom;25/02/2015;1
+Cases;United States of America;25/02/2015;4
+Deaths;United States of America;25/02/2015;1
+Deaths;Senegal;25/02/2015;0
+Cases;Senegal;26/02/2015;1
+Cases;Guinea;26/02/2015;3175
+Deaths;Guinea;26/02/2015;2101
+Cases;Liberia;26/02/2015;9265
+Deaths;Liberia;26/02/2015;4057
+Deaths;Mali;26/02/2015;6
+Cases;Mali;26/02/2015;8
+Cases;Nigeria;26/02/2015;20
+Deaths;Nigeria;26/02/2015;8
+Cases;Sierra Leone;26/02/2015;11341
+Deaths;Sierra Leone;26/02/2015;3479
+Cases;Spain;26/02/2015;1
+Deaths;Spain;26/02/2015;0
+Deaths;United Kingdom;26/02/2015;0
+Cases;United Kingdom;26/02/2015;1
+Cases;United States of America;26/02/2015;4
+Deaths;United States of America;26/02/2015;1
+Deaths;Senegal;26/02/2015;0
+Cases;Senegal;27/02/2015;1
+Cases;Guinea;27/02/2015;3190
+Deaths;Guinea;27/02/2015;2113
+Cases;Liberia;27/02/2015;9265
+Deaths;Liberia;27/02/2015;4057
+Deaths;Mali;27/02/2015;6
+Cases;Mali;27/02/2015;8
+Cases;Nigeria;27/02/2015;20
+Deaths;Nigeria;27/02/2015;8
+Cases;Sierra Leone;27/02/2015;11370
+Deaths;Sierra Leone;27/02/2015;3490
+Cases;Spain;27/02/2015;1
+Deaths;Spain;27/02/2015;0
+Deaths;United Kingdom;27/02/2015;0
+Cases;United Kingdom;27/02/2015;1
+Cases;United States of America;27/02/2015;4
+Deaths;United States of America;27/02/2015;1
+Deaths;Senegal;27/02/2015;0
+Cases;Senegal;2/03/2015;1
+Cases;Guinea;2/03/2015;3205
+Deaths;Guinea;2/03/2015;2127
+Cases;Liberia;2/03/2015;9265
+Deaths;Liberia;2/03/2015;4057
+Deaths;Mali;2/03/2015;6
+Cases;Mali;2/03/2015;8
+Cases;Nigeria;2/03/2015;20
+Deaths;Nigeria;2/03/2015;8
+Cases;Sierra Leone;2/03/2015;11443
+Deaths;Sierra Leone;2/03/2015;3530
+Cases;Spain;2/03/2015;1
+Deaths;Spain;2/03/2015;0
+Deaths;United Kingdom;2/03/2015;0
+Cases;United Kingdom;2/03/2015;1
+Cases;United States of America;2/03/2015;4
+Deaths;United States of America;2/03/2015;1
+Deaths;Senegal;2/03/2015;0
+Cases;Senegal;4/03/2015;1
+Cases;Guinea;4/03/2015;3205
+Deaths;Guinea;4/03/2015;2127
+Cases;Liberia;4/03/2015;9265
+Deaths;Liberia;4/03/2015;4057
+Deaths;Mali;4/03/2015;6
+Cases;Mali;4/03/2015;8
+Cases;Nigeria;4/03/2015;20
+Deaths;Nigeria;4/03/2015;8
+Cases;Sierra Leone;4/03/2015;11443
+Deaths;Sierra Leone;4/03/2015;3530
+Cases;Spain;4/03/2015;1
+Deaths;Spain;4/03/2015;0
+Deaths;United Kingdom;4/03/2015;0
+Cases;United Kingdom;4/03/2015;1
+Cases;United States of America;4/03/2015;4
+Deaths;United States of America;4/03/2015;1
+Deaths;Senegal;4/03/2015;0
+Cases;Senegal;5/03/2015;1
+Cases;Guinea;5/03/2015;3237
+Deaths;Guinea;5/03/2015;2141
+Cases;Liberia;5/03/2015;9249
+Deaths;Liberia;5/03/2015;4117
+Deaths;Mali;5/03/2015;6
+Cases;Mali;5/03/2015;8
+Cases;Nigeria;5/03/2015;20
+Deaths;Nigeria;5/03/2015;8
+Cases;Sierra Leone;5/03/2015;11497
+Deaths;Sierra Leone;5/03/2015;3565
+Cases;Spain;5/03/2015;1
+Deaths;Spain;5/03/2015;0
+Deaths;United Kingdom;5/03/2015;0
+Cases;United Kingdom;5/03/2015;1
+Cases;United States of America;5/03/2015;4
+Deaths;United States of America;5/03/2015;1
+Deaths;Senegal;5/03/2015;0
+Cases;Senegal;6/03/2015;1
+Cases;Guinea;6/03/2015;3248
+Deaths;Guinea;6/03/2015;2147
+Cases;Liberia;6/03/2015;9249
+Deaths;Liberia;6/03/2015;4117
+Deaths;Mali;6/03/2015;6
+Cases;Mali;6/03/2015;8
+Cases;Nigeria;6/03/2015;20
+Deaths;Nigeria;6/03/2015;8
+Cases;Sierra Leone;6/03/2015;11517
+Deaths;Sierra Leone;6/03/2015;3576
+Cases;Spain;6/03/2015;1
+Deaths;Spain;6/03/2015;0
+Deaths;United Kingdom;6/03/2015;0
+Cases;United Kingdom;6/03/2015;1
+Cases;United States of America;6/03/2015;4
+Deaths;United States of America;6/03/2015;1
+Deaths;Senegal;6/03/2015;0
+Cases;Senegal;10/03/2015;1
+Cases;Guinea;10/03/2015;3285
+Deaths;Guinea;10/03/2015;2170
+Cases;Liberia;10/03/2015;9343
+Deaths;Liberia;10/03/2015;4162
+Deaths;Mali;10/03/2015;6
+Cases;Mali;10/03/2015;8
+Cases;Nigeria;10/03/2015;20
+Deaths;Nigeria;10/03/2015;8
+Cases;Sierra Leone;10/03/2015;11619
+Deaths;Sierra Leone;10/03/2015;3629
+Cases;Spain;10/03/2015;1
+Deaths;Spain;10/03/2015;0
+Deaths;United Kingdom;10/03/2015;0
+Cases;United Kingdom;10/03/2015;1
+Cases;United States of America;10/03/2015;4
+Deaths;United States of America;10/03/2015;1
+Deaths;Senegal;10/03/2015;0
+Cases;Senegal;11/03/2015;1
+Deaths;Guinea;11/03/2015;2170
+Cases;Guinea;11/03/2015;3285
+Deaths;Liberia;11/03/2015;4162
+Cases;Liberia;11/03/2015;9343
+Deaths;Mali;11/03/2015;6
+Cases;Mali;11/03/2015;8
+Cases;Nigeria;11/03/2015;20
+Deaths;Nigeria;11/03/2015;8
+Cases;Sierra Leone;11/03/2015;11619
+Deaths;Sierra Leone;11/03/2015;3629
+Cases;Spain;11/03/2015;1
+Deaths;Spain;11/03/2015;0
+Deaths;United Kingdom;11/03/2015;0
+Cases;United Kingdom;11/03/2015;1
+Cases;United States of America;11/03/2015;4
+Deaths;United States of America;11/03/2015;1
+Deaths;Senegal;11/03/2015;0
+Cases;Senegal;12/03/2015;1
+Cases;Guinea;12/03/2015;3330
+Deaths;Guinea;12/03/2015;2187
+Cases;Liberia;12/03/2015;9343
+Deaths;Liberia;12/03/2015;4162
+Deaths;Mali;12/03/2015;6
+Cases;Mali;12/03/2015;8
+Cases;Nigeria;12/03/2015;20
+Deaths;Nigeria;12/03/2015;8
+Cases;Sierra Leone;12/03/2015;11677
+Deaths;Sierra Leone;12/03/2015;3655
+Cases;Spain;12/03/2015;1
+Deaths;Spain;12/03/2015;0
+Deaths;United Kingdom;12/03/2015;0
+Cases;United Kingdom;12/03/2015;1
+Cases;United States of America;12/03/2015;4
+Deaths;United States of America;12/03/2015;1
+Deaths;Senegal;12/03/2015;0
+Cases;Senegal;13/03/2015;1
+Cases;Guinea;13/03/2015;3331
+Deaths;Guinea;13/03/2015;2192
+Cases;Liberia;13/03/2015;9482
+Deaths;Liberia;13/03/2015;4241
+Deaths;Mali;13/03/2015;6
+Cases;Mali;13/03/2015;8
+Cases;Nigeria;13/03/2015;20
+Deaths;Nigeria;13/03/2015;8
+Cases;Sierra Leone;13/03/2015;11696
+Deaths;Sierra Leone;13/03/2015;3663
+Cases;Spain;13/03/2015;1
+Deaths;Spain;13/03/2015;0
+Deaths;United Kingdom;13/03/2015;0
+Cases;United Kingdom;13/03/2015;1
+Cases;United States of America;13/03/2015;4
+Deaths;United States of America;13/03/2015;1
+Deaths;Senegal;13/03/2015;0
+Cases;Senegal;16/03/2015;1
+Cases;Guinea;16/03/2015;3373
+Deaths;Guinea;16/03/2015;2216
+Cases;Liberia;16/03/2015;9482
+Deaths;Liberia;16/03/2015;4241
+Deaths;Mali;16/03/2015;6
+Cases;Mali;16/03/2015;8
+Cases;Nigeria;16/03/2015;20
+Deaths;Nigeria;16/03/2015;8
+Cases;Sierra Leone;16/03/2015;11742
+Deaths;Sierra Leone;16/03/2015;3687
+Cases;Spain;16/03/2015;1
+Deaths;Spain;16/03/2015;0
+Deaths;United Kingdom;16/03/2015;0
+Cases;United Kingdom;16/03/2015;1
+Cases;United States of America;16/03/2015;4
+Deaths;United States of America;16/03/2015;1
+Deaths;Senegal;16/03/2015;0
+Cases;Senegal;17/03/2015;1
+Cases;Guinea;17/03/2015;3389
+Deaths;Guinea;17/03/2015;2224
+Cases;Liberia;17/03/2015;9526
+Deaths;Liberia;17/03/2015;4264
+Deaths;Mali;17/03/2015;6
+Cases;Mali;17/03/2015;8
+Cases;Nigeria;17/03/2015;20
+Deaths;Nigeria;17/03/2015;8
+Cases;Sierra Leone;17/03/2015;11751
+Deaths;Sierra Leone;17/03/2015;3691
+Cases;Spain;17/03/2015;1
+Deaths;Spain;17/03/2015;0
+Deaths;United Kingdom;17/03/2015;0
+Cases;United Kingdom;17/03/2015;1
+Cases;United States of America;17/03/2015;4
+Deaths;United States of America;17/03/2015;1
+Deaths;Senegal;17/03/2015;0
+Cases;Senegal;18/03/2015;1
+Cases;Guinea;18/03/2015;3389
+Deaths;Guinea;18/03/2015;2224
+Cases;Liberia;18/03/2015;9526
+Deaths;Liberia;18/03/2015;4264
+Deaths;Mali;18/03/2015;6
+Cases;Mali;18/03/2015;8
+Cases;Nigeria;18/03/2015;20
+Deaths;Nigeria;18/03/2015;8
+Cases;Sierra Leone;18/03/2015;11751
+Deaths;Sierra Leone;18/03/2015;3691
+Cases;Spain;18/03/2015;1
+Deaths;Spain;18/03/2015;0
+Deaths;United Kingdom;18/03/2015;0
+Cases;United Kingdom;18/03/2015;1
+Cases;United States of America;18/03/2015;4
+Deaths;United States of America;18/03/2015;1
+Deaths;Senegal;18/03/2015;0
+Cases;Senegal;20/03/2015;1
+Cases;Guinea;20/03/2015;3404
+Deaths;Guinea;20/03/2015;2241
+Cases;Liberia;20/03/2015;9555
+Deaths;Liberia;20/03/2015;4283
+Deaths;Mali;20/03/2015;6
+Cases;Mali;20/03/2015;8
+Cases;Nigeria;20/03/2015;20
+Deaths;Nigeria;20/03/2015;8
+Cases;Sierra Leone;20/03/2015;11794
+Deaths;Sierra Leone;20/03/2015;3712
+Cases;Spain;20/03/2015;1
+Deaths;Spain;20/03/2015;0
+Deaths;United Kingdom;20/03/2015;0
+Cases;United Kingdom;20/03/2015;1
+Cases;United States of America;20/03/2015;4
+Deaths;United States of America;20/03/2015;1
+Deaths;Senegal;20/03/2015;0
+Cases;Senegal;23/03/2015;1
+Cases;Guinea;23/03/2015;3420
+Deaths;Guinea;23/03/2015;2261
+Cases;Liberia;23/03/2015;9593
+Deaths;Liberia;23/03/2015;4296
+Deaths;Mali;23/03/2015;6
+Cases;Mali;23/03/2015;8
+Cases;Nigeria;23/03/2015;20
+Deaths;Nigeria;23/03/2015;8
+Cases;Sierra Leone;23/03/2015;11829
+Deaths;Sierra Leone;23/03/2015;3742
+Cases;Spain;23/03/2015;1
+Deaths;Spain;23/03/2015;0
+Deaths;United Kingdom;23/03/2015;0
+Cases;United Kingdom;23/03/2015;1
+Cases;United States of America;23/03/2015;4
+Deaths;United States of America;23/03/2015;1
+Deaths;Senegal;23/03/2015;0
+Cases;Senegal;24/03/2015;1
+Cases;Guinea;24/03/2015;3429
+Deaths;Guinea;24/03/2015;2263
+Cases;Liberia;24/03/2015;9602
+Deaths;Liberia;24/03/2015;4301
+Deaths;Mali;24/03/2015;6
+Cases;Mali;24/03/2015;8
+Cases;Nigeria;24/03/2015;20
+Deaths;Nigeria;24/03/2015;8
+Cases;Sierra Leone;24/03/2015;11841
+Deaths;Sierra Leone;24/03/2015;3747
+Cases;Spain;24/03/2015;1
+Deaths;Spain;24/03/2015;0
+Deaths;United Kingdom;24/03/2015;0
+Cases;United Kingdom;24/03/2015;1
+Cases;United States of America;24/03/2015;4
+Deaths;United States of America;24/03/2015;1
+Deaths;Senegal;24/03/2015;0
+Cases;Senegal;25/03/2015;1
+Deaths;Guinea;25/03/2015;2263
+Cases;Guinea;25/03/2015;3429
+Cases;Liberia;25/03/2015;9602
+Deaths;Liberia;25/03/2015;4301
+Deaths;Mali;25/03/2015;6
+Cases;Mali;25/03/2015;8
+Cases;Nigeria;25/03/2015;20
+Deaths;Nigeria;25/03/2015;8
+Cases;Sierra Leone;25/03/2015;11841
+Deaths;Sierra Leone;25/03/2015;3747
+Cases;Spain;25/03/2015;1
+Deaths;Spain;25/03/2015;0
+Deaths;United Kingdom;25/03/2015;0
+Cases;United Kingdom;25/03/2015;1
+Cases;United States of America;25/03/2015;4
+Deaths;United States of America;25/03/2015;1
+Deaths;Senegal;25/03/2015;0
+Cases;Senegal;26/03/2015;1
+Deaths;Guinea;26/03/2015;2273
+Cases;Guinea;26/03/2015;3459
+Deaths;Liberia;26/03/2015;4301
+Cases;Liberia;26/03/2015;9602
+Deaths;Mali;26/03/2015;6
+Cases;Mali;26/03/2015;8
+Cases;Nigeria;26/03/2015;20
+Deaths;Nigeria;26/03/2015;8
+Deaths;Sierra Leone;26/03/2015;3764
+Cases;Sierra Leone;26/03/2015;11866
+Cases;Spain;26/03/2015;1
+Deaths;Spain;26/03/2015;0
+Deaths;United Kingdom;26/03/2015;0
+Cases;United Kingdom;26/03/2015;1
+Cases;United States of America;26/03/2015;4
+Deaths;United States of America;26/03/2015;1
+Deaths;Senegal;26/03/2015;0
+Cases;Senegal;27/03/2015;1
+Cases;Guinea;27/03/2015;3466
+Deaths;Guinea;27/03/2015;2276
+Deaths;Liberia;27/03/2015;4301
+Cases;Liberia;27/03/2015;9602
+Deaths;Mali;27/03/2015;6
+Cases;Mali;27/03/2015;8
+Cases;Nigeria;27/03/2015;20
+Deaths;Nigeria;27/03/2015;8
+Cases;Sierra Leone;27/03/2015;11889
+Deaths;Sierra Leone;27/03/2015;3773
+Cases;Spain;27/03/2015;1
+Deaths;Spain;27/03/2015;0
+Deaths;United Kingdom;27/03/2015;0
+Cases;United Kingdom;27/03/2015;1
+Cases;United States of America;27/03/2015;4
+Deaths;United States of America;27/03/2015;1
+Deaths;Senegal;27/03/2015;0
+Cases;Senegal;7/04/2015;1
+Cases;Guinea;7/04/2015;3515
+Deaths;Guinea;7/04/2015;2333
+Cases;Liberia;7/04/2015;9862
+Deaths;Liberia;7/04/2015;4408
+Deaths;Mali;7/04/2015;6
+Cases;Mali;7/04/2015;8
+Cases;Nigeria;7/04/2015;20
+Deaths;Nigeria;7/04/2015;8
+Cases;Sierra Leone;7/04/2015;12139
+Deaths;Sierra Leone;7/04/2015;3832
+Cases;Spain;7/04/2015;1
+Deaths;Spain;7/04/2015;0
+Deaths;United Kingdom;7/04/2015;0
+Cases;United Kingdom;7/04/2015;1
+Cases;United States of America;7/04/2015;4
+Deaths;United States of America;7/04/2015;1
+Deaths;Senegal;7/04/2015;0
+Cases;Senegal;9/04/2015;1
+Cases;Guinea;9/04/2015;3515
+Deaths;Guinea;9/04/2015;2335
+Cases;Liberia;9/04/2015;9862
+Deaths;Liberia;9/04/2015;4408
+Deaths;Mali;9/04/2015;6
+Cases;Mali;9/04/2015;8
+Cases;Nigeria;9/04/2015;20
+Deaths;Nigeria;9/04/2015;8
+Cases;Sierra Leone;9/04/2015;12155
+Deaths;Sierra Leone;9/04/2015;3841
+Cases;Spain;9/04/2015;1
+Deaths;Spain;9/04/2015;0
+Deaths;United Kingdom;9/04/2015;0
+Cases;United Kingdom;9/04/2015;1
+Cases;United States of America;9/04/2015;4
+Deaths;United States of America;9/04/2015;1
+Deaths;Senegal;9/04/2015;0
+Cases;Senegal;13/04/2015;1
+Cases;Guinea;13/04/2015;3541
+Deaths;Guinea;13/04/2015;2342
+Cases;Liberia;13/04/2015;9862
+Deaths;Liberia;13/04/2015;4408
+Deaths;Mali;13/04/2015;6
+Cases;Mali;13/04/2015;8
+Cases;Nigeria;13/04/2015;20
+Deaths;Nigeria;13/04/2015;8
+Cases;Sierra Leone;13/04/2015;12188
+Deaths;Sierra Leone;13/04/2015;3854
+Cases;Spain;13/04/2015;1
+Deaths;Spain;13/04/2015;0
+Deaths;United Kingdom;13/04/2015;0
+Cases;United Kingdom;13/04/2015;1
+Cases;United States of America;13/04/2015;4
+Deaths;United States of America;13/04/2015;1
+Deaths;Senegal;13/04/2015;0
+Cases;Senegal;14/04/2015;1
+Cases;Guinea;14/04/2015;3548
+Deaths;Guinea;14/04/2015;2346
+Cases;Liberia;14/04/2015;9862
+Deaths;Liberia;14/04/2015;4408
+Deaths;Mali;14/04/2015;6
+Cases;Mali;14/04/2015;8
+Cases;Nigeria;14/04/2015;20
+Deaths;Nigeria;14/04/2015;8
+Cases;Sierra Leone;14/04/2015;12201
+Deaths;Sierra Leone;14/04/2015;3857
+Cases;Spain;14/04/2015;1
+Deaths;Spain;14/04/2015;0
+Deaths;United Kingdom;14/04/2015;0
+Cases;United Kingdom;14/04/2015;1
+Cases;United States of America;14/04/2015;4
+Deaths;United States of America;14/04/2015;1
+Deaths;Senegal;14/04/2015;0
+Cases;Senegal;15/04/2015;1
+Cases;Guinea;15/04/2015;3548
+Deaths;Guinea;15/04/2015;2346
+Cases;Liberia;15/04/2015;10042
+Deaths;Liberia;15/04/2015;4486
+Deaths;Mali;15/04/2015;6
+Cases;Mali;15/04/2015;8
+Cases;Nigeria;15/04/2015;20
+Deaths;Nigeria;15/04/2015;8
+Cases;Sierra Leone;15/04/2015;12201
+Deaths;Sierra Leone;15/04/2015;3857
+Cases;Spain;15/04/2015;1
+Deaths;Spain;15/04/2015;0
+Deaths;United Kingdom;15/04/2015;0
+Cases;United Kingdom;15/04/2015;1
+Cases;United States of America;15/04/2015;4
+Deaths;United States of America;15/04/2015;1
+Deaths;Senegal;15/04/2015;0
+Cases;Senegal;16/04/2015;1
+Cases;Guinea;16/04/2015;3566
+Deaths;Guinea;16/04/2015;2348
+Cases;Liberia;16/04/2015;10042
+Deaths;Liberia;16/04/2015;4486
+Deaths;Mali;16/04/2015;6
+Cases;Mali;16/04/2015;8
+Cases;Nigeria;16/04/2015;20
+Deaths;Nigeria;16/04/2015;8
+Cases;Sierra Leone;16/04/2015;12223
+Deaths;Sierra Leone;16/04/2015;3865
+Cases;Spain;16/04/2015;1
+Deaths;Spain;16/04/2015;0
+Deaths;United Kingdom;16/04/2015;0
+Cases;United Kingdom;16/04/2015;1
+Cases;United States of America;16/04/2015;4
+Deaths;United States of America;16/04/2015;1
+Deaths;Senegal;16/04/2015;0
+Cases;Senegal;17/04/2015;1
+Cases;Guinea;17/04/2015;3569
+Deaths;Guinea;17/04/2015;2351
+Cases;Liberia;17/04/2015;10042
+Deaths;Liberia;17/04/2015;4486
+Deaths;Mali;17/04/2015;6
+Cases;Mali;17/04/2015;8
+Cases;Nigeria;17/04/2015;20
+Deaths;Nigeria;17/04/2015;8
+Cases;Sierra Leone;17/04/2015;12244
+Deaths;Sierra Leone;17/04/2015;3865
+Cases;Spain;17/04/2015;1
+Deaths;Spain;17/04/2015;0
+Deaths;United Kingdom;17/04/2015;0
+Cases;United Kingdom;17/04/2015;1
+Cases;United States of America;17/04/2015;4
+Deaths;United States of America;17/04/2015;1
+Deaths;Senegal;17/04/2015;0
+Cases;Senegal;20/04/2015;1
+Cases;Guinea;20/04/2015;3565
+Deaths;Guinea;20/04/2015;2357
+Cases;Liberia;20/04/2015;10042
+Deaths;Liberia;20/04/2015;4486
+Deaths;Mali;20/04/2015;6
+Cases;Mali;20/04/2015;8
+Cases;Nigeria;20/04/2015;20
+Deaths;Nigeria;20/04/2015;8
+Cases;Sierra Leone;20/04/2015;12256
+Deaths;Sierra Leone;20/04/2015;3872
+Cases;Spain;20/04/2015;1
+Deaths;Spain;20/04/2015;0
+Deaths;United Kingdom;20/04/2015;0
+Cases;United Kingdom;20/04/2015;1
+Cases;United States of America;20/04/2015;4
+Deaths;United States of America;20/04/2015;1
+Deaths;Senegal;20/04/2015;0
+Cases;Senegal;21/04/2015;1
+Cases;Guinea;21/04/2015;3565
+Deaths;Guinea;21/04/2015;2358
+Cases;Liberia;21/04/2015;10042
+Deaths;Liberia;21/04/2015;4486
+Deaths;Mali;21/04/2015;6
+Cases;Mali;21/04/2015;8
+Cases;Nigeria;21/04/2015;20
+Deaths;Nigeria;21/04/2015;8
+Cases;Sierra Leone;21/04/2015;12265
+Deaths;Sierra Leone;21/04/2015;3877
+Cases;Spain;21/04/2015;1
+Deaths;Spain;21/04/2015;0
+Deaths;United Kingdom;21/04/2015;0
+Cases;United Kingdom;21/04/2015;1
+Cases;United States of America;21/04/2015;4
+Deaths;United States of America;21/04/2015;1
+Deaths;Senegal;21/04/2015;0
+Cases;Senegal;22/04/2015;1
+Deaths;Guinea;22/04/2015;2358
+Cases;Guinea;22/04/2015;3565
+Cases;Liberia;22/04/2015;10212
+Deaths;Liberia;22/04/2015;4573
+Deaths;Mali;22/04/2015;6
+Cases;Mali;22/04/2015;8
+Cases;Nigeria;22/04/2015;20
+Deaths;Nigeria;22/04/2015;8
+Deaths;Sierra Leone;22/04/2015;3877
+Cases;Sierra Leone;22/04/2015;12267
+Cases;Spain;22/04/2015;1
+Deaths;Spain;22/04/2015;0
+Deaths;United Kingdom;22/04/2015;0
+Cases;United Kingdom;22/04/2015;1
+Cases;United States of America;22/04/2015;4
+Deaths;United States of America;22/04/2015;1
+Deaths;Senegal;22/04/2015;0
+Cases;Senegal;23/04/2015;1
+Cases;Guinea;23/04/2015;3568
+Deaths;Guinea;23/04/2015;2362
+Cases;Liberia;23/04/2015;10212
+Deaths;Liberia;23/04/2015;4573
+Deaths;Mali;23/04/2015;6
+Cases;Mali;23/04/2015;8
+Cases;Nigeria;23/04/2015;20
+Deaths;Nigeria;23/04/2015;8
+Cases;Sierra Leone;23/04/2015;12294
+Deaths;Sierra Leone;23/04/2015;3885
+Cases;Spain;23/04/2015;1
+Deaths;Spain;23/04/2015;0
+Deaths;United Kingdom;23/04/2015;0
+Cases;United Kingdom;23/04/2015;1
+Cases;United States of America;23/04/2015;4
+Deaths;United States of America;23/04/2015;1
+Deaths;Senegal;23/04/2015;0
+Cases;Senegal;24/04/2015;1
+Cases;Guinea;24/04/2015;3576
+Deaths;Guinea;24/04/2015;2365
+Cases;Liberia;24/04/2015;10212
+Deaths;Liberia;24/04/2015;4573
+Deaths;Mali;24/04/2015;6
+Cases;Mali;24/04/2015;8
+Cases;Nigeria;24/04/2015;20
+Deaths;Nigeria;24/04/2015;8
+Cases;Sierra Leone;24/04/2015;12313
+Deaths;Sierra Leone;24/04/2015;3886
+Cases;Spain;24/04/2015;1
+Deaths;Spain;24/04/2015;0
+Deaths;United Kingdom;24/04/2015;0
+Cases;United Kingdom;24/04/2015;1
+Cases;United States of America;24/04/2015;4
+Deaths;United States of America;24/04/2015;1
+Deaths;Senegal;24/04/2015;0
+Cases;Senegal;27/04/2015;1
+Cases;Guinea;27/04/2015;3585
+Deaths;Guinea;27/04/2015;2374
+Cases;Liberia;27/04/2015;10212
+Deaths;Liberia;27/04/2015;4573
+Deaths;Mali;27/04/2015;6
+Cases;Mali;27/04/2015;8
+Cases;Nigeria;27/04/2015;20
+Deaths;Nigeria;27/04/2015;8
+Cases;Sierra Leone;27/04/2015;12362
+Deaths;Sierra Leone;27/04/2015;3895
+Cases;Spain;27/04/2015;1
+Deaths;Spain;27/04/2015;0
+Deaths;United Kingdom;27/04/2015;0
+Cases;United Kingdom;27/04/2015;1
+Cases;United States of America;27/04/2015;4
+Deaths;United States of America;27/04/2015;1
+Deaths;Senegal;27/04/2015;0
+Cases;Senegal;28/04/2015;1
+Cases;Guinea;28/04/2015;3584
+Deaths;Guinea;28/04/2015;2377
+Cases;Liberia;28/04/2015;10322
+Deaths;Liberia;28/04/2015;4608
+Deaths;Mali;28/04/2015;6
+Cases;Mali;28/04/2015;8
+Cases;Nigeria;28/04/2015;20
+Deaths;Nigeria;28/04/2015;8
+Cases;Sierra Leone;28/04/2015;12371
+Deaths;Sierra Leone;28/04/2015;3899
+Cases;Spain;28/04/2015;1
+Deaths;Spain;28/04/2015;0
+Deaths;United Kingdom;28/04/2015;0
+Cases;United Kingdom;28/04/2015;1
+Cases;United States of America;28/04/2015;4
+Deaths;United States of America;28/04/2015;1
+Deaths;Senegal;28/04/2015;0
+Cases;Senegal;30/04/2015;1
+Cases;Guinea;30/04/2015;3581
+Deaths;Guinea;30/04/2015;2381
+Cases;Liberia;30/04/2015;10322
+Deaths;Liberia;30/04/2015;4608
+Deaths;Mali;30/04/2015;6
+Cases;Mali;30/04/2015;8
+Cases;Nigeria;30/04/2015;20
+Deaths;Nigeria;30/04/2015;8
+Cases;Sierra Leone;30/04/2015;12387
+Deaths;Sierra Leone;30/04/2015;3901
+Cases;Spain;30/04/2015;1
+Deaths;Spain;30/04/2015;0
+Deaths;United Kingdom;30/04/2015;0
+Cases;United Kingdom;30/04/2015;1
+Cases;United States of America;30/04/2015;4
+Deaths;United States of America;30/04/2015;1
+Deaths;Senegal;30/04/2015;0
+Cases;Senegal;1/05/2015;1
+Cases;Guinea;1/05/2015;3578
+Deaths;Guinea;1/05/2015;2383
+Cases;Liberia;1/05/2015;10322
+Deaths;Liberia;1/05/2015;4608
+Deaths;Mali;1/05/2015;6
+Cases;Mali;1/05/2015;8
+Cases;Nigeria;1/05/2015;20
+Deaths;Nigeria;1/05/2015;8
+Cases;Sierra Leone;1/05/2015;12398
+Deaths;Sierra Leone;1/05/2015;3901
+Cases;Spain;1/05/2015;1
+Deaths;Spain;1/05/2015;0
+Deaths;United Kingdom;1/05/2015;0
+Cases;United Kingdom;1/05/2015;1
+Cases;United States of America;1/05/2015;4
+Deaths;United States of America;1/05/2015;1
+Deaths;Senegal;1/05/2015;0
+Cases;Senegal;4/05/2015;1
+Cases;Guinea;4/05/2015;3591
+Deaths;Guinea;4/05/2015;2385
+Cases;Liberia;4/05/2015;10322
+Deaths;Liberia;4/05/2015;4608
+Deaths;Mali;4/05/2015;6
+Cases;Mali;4/05/2015;8
+Cases;Nigeria;4/05/2015;20
+Deaths;Nigeria;4/05/2015;8
+Cases;Sierra Leone;4/05/2015;12426
+Deaths;Sierra Leone;4/05/2015;3902
+Cases;Spain;4/05/2015;1
+Deaths;Spain;4/05/2015;0
+Deaths;United Kingdom;4/05/2015;0
+Cases;United Kingdom;4/05/2015;1
+Cases;United States of America;4/05/2015;4
+Deaths;United States of America;4/05/2015;1
+Deaths;Senegal;4/05/2015;0
+Cases;Senegal;5/05/2015;1
+Cases;Guinea;5/05/2015;3589
+Deaths;Guinea;5/05/2015;2386
+Cases;Liberia;5/05/2015;10507
+Deaths;Liberia;5/05/2015;4691
+Deaths;Mali;5/05/2015;6
+Cases;Mali;5/05/2015;8
+Cases;Nigeria;5/05/2015;20
+Deaths;Nigeria;5/05/2015;8
+Cases;Sierra Leone;5/05/2015;12440
+Deaths;Sierra Leone;5/05/2015;3903
+Cases;Spain;5/05/2015;1
+Deaths;Spain;5/05/2015;0
+Deaths;United Kingdom;5/05/2015;0
+Cases;United Kingdom;5/05/2015;1
+Cases;United States of America;5/05/2015;4
+Deaths;United States of America;5/05/2015;1
+Deaths;Senegal;5/05/2015;0
+Cases;Senegal;6/05/2015;1
+Cases;Guinea;6/05/2015;3589
+Deaths;Guinea;6/05/2015;2386
+Cases;Liberia;6/05/2015;10564
+Deaths;Liberia;6/05/2015;4716
+Deaths;Mali;6/05/2015;6
+Cases;Mali;6/05/2015;8
+Cases;Nigeria;6/05/2015;20
+Deaths;Nigeria;6/05/2015;8
+Cases;Sierra Leone;6/05/2015;12440
+Deaths;Sierra Leone;6/05/2015;3903
+Cases;Spain;6/05/2015;1
+Deaths;Spain;6/05/2015;0
+Deaths;United Kingdom;6/05/2015;0
+Cases;United Kingdom;6/05/2015;1
+Cases;United States of America;6/05/2015;4
+Deaths;United States of America;6/05/2015;1
+Deaths;Senegal;6/05/2015;0
+Cases;Senegal;7/05/2015;1
+Cases;Guinea;7/05/2015;3592
+Deaths;Guinea;7/05/2015;2387
+Cases;Liberia;7/05/2015;10564
+Deaths;Liberia;7/05/2015;4716
+Deaths;Mali;7/05/2015;6
+Cases;Mali;7/05/2015;8
+Cases;Nigeria;7/05/2015;20
+Deaths;Nigeria;7/05/2015;8
+Cases;Sierra Leone;7/05/2015;12470
+Deaths;Sierra Leone;7/05/2015;3904
+Cases;Spain;7/05/2015;1
+Deaths;Spain;7/05/2015;0
+Deaths;United Kingdom;7/05/2015;0
+Cases;United Kingdom;7/05/2015;1
+Cases;United States of America;7/05/2015;4
+Deaths;United States of America;7/05/2015;1
+Deaths;Senegal;7/05/2015;0
+Cases;Senegal;8/05/2015;1
+Cases;Guinea;8/05/2015;3592
+Deaths;Guinea;8/05/2015;2387
+Cases;Liberia;8/05/2015;10564
+Deaths;Liberia;8/05/2015;4716
+Deaths;Mali;8/05/2015;6
+Cases;Mali;8/05/2015;8
+Cases;Nigeria;8/05/2015;20
+Deaths;Nigeria;8/05/2015;8
+Cases;Sierra Leone;8/05/2015;12492
+Deaths;Sierra Leone;8/05/2015;3904
+Cases;Spain;8/05/2015;1
+Deaths;Spain;8/05/2015;0
+Deaths;United Kingdom;8/05/2015;0
+Cases;United Kingdom;8/05/2015;1
+Cases;United States of America;8/05/2015;4
+Deaths;United States of America;8/05/2015;1
+Deaths;Senegal;8/05/2015;0
+Cases;Senegal;11/05/2015;1
+Cases;Guinea;11/05/2015;3599
+Deaths;Guinea;11/05/2015;2391
+Cases;Liberia;11/05/2015;10604
+Deaths;Liberia;11/05/2015;4769
+Deaths;Mali;11/05/2015;6
+Cases;Mali;11/05/2015;8
+Cases;Nigeria;11/05/2015;20
+Deaths;Nigeria;11/05/2015;8
+Cases;Sierra Leone;11/05/2015;12519
+Deaths;Sierra Leone;11/05/2015;3904
+Cases;Spain;11/05/2015;1
+Deaths;Spain;11/05/2015;0
+Deaths;United Kingdom;11/05/2015;0
+Cases;United Kingdom;11/05/2015;1
+Cases;United States of America;11/05/2015;4
+Deaths;United States of America;11/05/2015;1
+Deaths;Senegal;11/05/2015;0
+Cases;Senegal;12/05/2015;1
+Cases;Guinea;12/05/2015;3597
+Deaths;Guinea;12/05/2015;2392
+Cases;Liberia;12/05/2015;10604
+Deaths;Liberia;12/05/2015;4769
+Deaths;Mali;12/05/2015;6
+Cases;Mali;12/05/2015;8
+Cases;Nigeria;12/05/2015;20
+Deaths;Nigeria;12/05/2015;8
+Cases;Sierra Leone;12/05/2015;12523
+Deaths;Sierra Leone;12/05/2015;3904
+Cases;Spain;12/05/2015;1
+Deaths;Spain;12/05/2015;0
+Deaths;United Kingdom;12/05/2015;0
+Cases;United Kingdom;12/05/2015;1
+Cases;United States of America;12/05/2015;4
+Deaths;United States of America;12/05/2015;1
+Deaths;Senegal;12/05/2015;0
+Cases;Senegal;13/05/2015;1
+Cases;Guinea;13/05/2015;3599
+Deaths;Guinea;13/05/2015;2391
+Deaths;Liberia;13/05/2015;4769
+Cases;Liberia;13/05/2015;10604
+Deaths;Mali;13/05/2015;6
+Cases;Mali;13/05/2015;8
+Cases;Nigeria;13/05/2015;20
+Deaths;Nigeria;13/05/2015;8
+Deaths;Sierra Leone;13/05/2015;3904
+Cases;Sierra Leone;13/05/2015;12519
+Cases;Spain;13/05/2015;1
+Deaths;Spain;13/05/2015;0
+Deaths;United Kingdom;13/05/2015;0
+Cases;United Kingdom;13/05/2015;1
+Cases;United States of America;13/05/2015;4
+Deaths;United States of America;13/05/2015;1
+Deaths;Senegal;13/05/2015;0
+Cases;Senegal;14/05/2015;1
+Cases;Guinea;14/05/2015;3615
+Deaths;Guinea;14/05/2015;2399
+Deaths;Italy;14/05/2015;0
+Cases;Italy;14/05/2015;1
+Cases;Liberia;14/05/2015;10604
+Deaths;Liberia;14/05/2015;4769
+Deaths;Mali;14/05/2015;6
+Cases;Mali;14/05/2015;8
+Cases;Nigeria;14/05/2015;20
+Deaths;Nigeria;14/05/2015;8
+Cases;Sierra Leone;14/05/2015;12536
+Deaths;Sierra Leone;14/05/2015;3904
+Cases;Spain;14/05/2015;1
+Deaths;Spain;14/05/2015;0
+Deaths;United Kingdom;14/05/2015;0
+Cases;United Kingdom;14/05/2015;1
+Cases;United States of America;14/05/2015;4
+Deaths;United States of America;14/05/2015;1
+Deaths;Senegal;14/05/2015;0
+Cases;Senegal;15/05/2015;1
+Cases;Guinea;15/05/2015;3619
+Deaths;Guinea;15/05/2015;2401
+Deaths;Italy;15/05/2015;0
+Cases;Italy;15/05/2015;1
+Cases;Liberia;15/05/2015;10604
+Deaths;Liberia;15/05/2015;4769
+Deaths;Mali;15/05/2015;6
+Cases;Mali;15/05/2015;8
+Cases;Nigeria;15/05/2015;20
+Deaths;Nigeria;15/05/2015;8
+Cases;Sierra Leone;15/05/2015;12540
+Deaths;Sierra Leone;15/05/2015;3904
+Cases;Spain;15/05/2015;1
+Deaths;Spain;15/05/2015;0
+Deaths;United Kingdom;15/05/2015;0
+Cases;United Kingdom;15/05/2015;1
+Cases;United States of America;15/05/2015;4
+Deaths;United States of America;15/05/2015;1
+Deaths;Senegal;15/05/2015;0
+Cases;Senegal;18/05/2015;1
+Cases;Guinea;18/05/2015;3626
+Deaths;Guinea;18/05/2015;2405
+Deaths;Italy;18/05/2015;0
+Cases;Italy;18/05/2015;1
+Cases;Liberia;18/05/2015;10666
+Deaths;Liberia;18/05/2015;4806
+Deaths;Mali;18/05/2015;6
+Cases;Mali;18/05/2015;8
+Cases;Nigeria;18/05/2015;20
+Deaths;Nigeria;18/05/2015;8
+Cases;Sierra Leone;18/05/2015;12593
+Deaths;Sierra Leone;18/05/2015;3906
+Cases;Spain;18/05/2015;1
+Deaths;Spain;18/05/2015;0
+Deaths;United Kingdom;18/05/2015;0
+Cases;United Kingdom;18/05/2015;1
+Cases;United States of America;18/05/2015;4
+Deaths;United States of America;18/05/2015;1
+Deaths;Senegal;18/05/2015;0
+Cases;Senegal;19/05/2015;1
+Cases;Guinea;19/05/2015;3635
+Deaths;Guinea;19/05/2015;2407
+Deaths;Italy;19/05/2015;0
+Cases;Italy;19/05/2015;1
+Cases;Liberia;19/05/2015;10666
+Deaths;Liberia;19/05/2015;4806
+Deaths;Mali;19/05/2015;6
+Cases;Mali;19/05/2015;8
+Cases;Nigeria;19/05/2015;20
+Deaths;Nigeria;19/05/2015;8
+Cases;Sierra Leone;19/05/2015;12632
+Deaths;Sierra Leone;19/05/2015;3907
+Cases;Spain;19/05/2015;1
+Deaths;Spain;19/05/2015;0
+Deaths;United Kingdom;19/05/2015;0
+Cases;United Kingdom;19/05/2015;1
+Cases;United States of America;19/05/2015;4
+Deaths;United States of America;19/05/2015;1
+Deaths;Senegal;19/05/2015;0
+Cases;Senegal;20/05/2015;1
+Cases;Guinea;20/05/2015;3635
+Deaths;Guinea;20/05/2015;2407
+Deaths;Italy;20/05/2015;0
+Cases;Italy;20/05/2015;1
+Cases;Liberia;20/05/2015;10666
+Deaths;Liberia;20/05/2015;4806
+Deaths;Mali;20/05/2015;6
+Cases;Mali;20/05/2015;8
+Cases;Nigeria;20/05/2015;20
+Deaths;Nigeria;20/05/2015;8
+Cases;Sierra Leone;20/05/2015;12632
+Deaths;Sierra Leone;20/05/2015;3907
+Cases;Spain;20/05/2015;1
+Deaths;Spain;20/05/2015;0
+Deaths;United Kingdom;20/05/2015;0
+Cases;United Kingdom;20/05/2015;1
+Cases;United States of America;20/05/2015;4
+Deaths;United States of America;20/05/2015;1
+Deaths;Senegal;20/05/2015;0
+Cases;Senegal;21/05/2015;1
+Cases;Guinea;21/05/2015;3649
+Deaths;Guinea;21/05/2015;2409
+Deaths;Italy;21/05/2015;0
+Cases;Italy;21/05/2015;1
+Cases;Liberia;21/05/2015;10666
+Deaths;Liberia;21/05/2015;4806
+Deaths;Mali;21/05/2015;6
+Cases;Mali;21/05/2015;8
+Cases;Nigeria;21/05/2015;20
+Deaths;Nigeria;21/05/2015;8
+Cases;Sierra Leone;21/05/2015;12656
+Deaths;Sierra Leone;21/05/2015;3907
+Cases;Spain;21/05/2015;1
+Deaths;Spain;21/05/2015;0
+Deaths;United Kingdom;21/05/2015;0
+Cases;United Kingdom;21/05/2015;1
+Cases;United States of America;21/05/2015;4
+Deaths;United States of America;21/05/2015;1
+Deaths;Senegal;21/05/2015;0
+Cases;Senegal;22/05/2015;1
+Cases;Guinea;22/05/2015;3647
+Deaths;Guinea;22/05/2015;2412
+Deaths;Italy;22/05/2015;0
+Cases;Italy;22/05/2015;1
+Cases;Liberia;22/05/2015;10666
+Deaths;Liberia;22/05/2015;4806
+Deaths;Mali;22/05/2015;6
+Cases;Mali;22/05/2015;8
+Cases;Nigeria;22/05/2015;20
+Deaths;Nigeria;22/05/2015;8
+Cases;Sierra Leone;22/05/2015;12666
+Deaths;Sierra Leone;22/05/2015;3907
+Cases;Spain;22/05/2015;1
+Deaths;Spain;22/05/2015;0
+Deaths;United Kingdom;22/05/2015;0
+Cases;United Kingdom;22/05/2015;1
+Cases;United States of America;22/05/2015;4
+Deaths;United States of America;22/05/2015;1
+Deaths;Senegal;22/05/2015;0
+Cases;Senegal;25/05/2015;1
+Cases;Guinea;25/05/2015;3640
+Deaths;Guinea;25/05/2015;2418
+Deaths;Italy;25/05/2015;0
+Cases;Italy;25/05/2015;1
+Cases;Liberia;25/05/2015;10666
+Deaths;Liberia;25/05/2015;4806
+Deaths;Mali;25/05/2015;6
+Cases;Mali;25/05/2015;8
+Cases;Nigeria;25/05/2015;20
+Deaths;Nigeria;25/05/2015;8
+Cases;Sierra Leone;25/05/2015;12696
+Deaths;Sierra Leone;25/05/2015;3908
+Cases;Spain;25/05/2015;1
+Deaths;Spain;25/05/2015;0
+Deaths;United Kingdom;25/05/2015;0
+Cases;United Kingdom;25/05/2015;1
+Cases;United States of America;25/05/2015;4
+Deaths;United States of America;25/05/2015;1
+Deaths;Senegal;25/05/2015;0
+Cases;Senegal;26/05/2015;1
+Cases;Guinea;26/05/2015;3641
+Deaths;Guinea;26/05/2015;2420
+Deaths;Italy;26/05/2015;0
+Cases;Italy;26/05/2015;1
+Cases;Liberia;26/05/2015;10666
+Deaths;Liberia;26/05/2015;4806
+Deaths;Mali;26/05/2015;6
+Cases;Mali;26/05/2015;8
+Cases;Nigeria;26/05/2015;20
+Deaths;Nigeria;26/05/2015;8
+Cases;Sierra Leone;26/05/2015;12706
+Deaths;Sierra Leone;26/05/2015;3908
+Cases;Spain;26/05/2015;1
+Deaths;Spain;26/05/2015;0
+Deaths;United Kingdom;26/05/2015;0
+Cases;United Kingdom;26/05/2015;1
+Cases;United States of America;26/05/2015;4
+Deaths;United States of America;26/05/2015;1
+Deaths;Senegal;26/05/2015;0
+Cases;Senegal;27/05/2015;1
+Cases;Guinea;27/05/2015;3641
+Deaths;Guinea;27/05/2015;2420
+Deaths;Italy;27/05/2015;0
+Cases;Italy;27/05/2015;1
+Cases;Liberia;27/05/2015;10666
+Deaths;Liberia;27/05/2015;4806
+Deaths;Mali;27/05/2015;6
+Cases;Mali;27/05/2015;8
+Cases;Nigeria;27/05/2015;20
+Deaths;Nigeria;27/05/2015;8
+Cases;Sierra Leone;27/05/2015;12706
+Deaths;Sierra Leone;27/05/2015;3908
+Cases;Spain;27/05/2015;1
+Deaths;Spain;27/05/2015;0
+Deaths;United Kingdom;27/05/2015;0
+Cases;United Kingdom;27/05/2015;1
+Cases;United States of America;27/05/2015;4
+Deaths;United States of America;27/05/2015;1
+Deaths;Senegal;27/05/2015;0
+Cases;Senegal;28/05/2015;1
+Cases;Guinea;28/05/2015;3639
+Deaths;Guinea;28/05/2015;2423
+Deaths;Italy;28/05/2015;0
+Cases;Italy;28/05/2015;1
+Cases;Liberia;28/05/2015;10666
+Deaths;Liberia;28/05/2015;4806
+Deaths;Mali;28/05/2015;6
+Cases;Mali;28/05/2015;8
+Cases;Nigeria;28/05/2015;20
+Deaths;Nigeria;28/05/2015;8
+Cases;Sierra Leone;28/05/2015;12735
+Deaths;Sierra Leone;28/05/2015;3911
+Cases;Spain;28/05/2015;1
+Deaths;Spain;28/05/2015;0
+Deaths;United Kingdom;28/05/2015;0
+Cases;United Kingdom;28/05/2015;1
+Cases;United States of America;28/05/2015;4
+Deaths;United States of America;28/05/2015;1
+Deaths;Senegal;28/05/2015;0
+Cases;Senegal;29/05/2015;1
+Cases;Guinea;29/05/2015;3644
+Deaths;Guinea;29/05/2015;2425
+Deaths;Italy;29/05/2015;0
+Cases;Italy;29/05/2015;1
+Cases;Liberia;29/05/2015;10666
+Deaths;Liberia;29/05/2015;4806
+Deaths;Mali;29/05/2015;6
+Cases;Mali;29/05/2015;8
+Cases;Nigeria;29/05/2015;20
+Deaths;Nigeria;29/05/2015;8
+Cases;Sierra Leone;29/05/2015;12745
+Deaths;Sierra Leone;29/05/2015;3911
+Cases;Spain;29/05/2015;1
+Deaths;Spain;29/05/2015;0
+Deaths;United Kingdom;29/05/2015;0
+Cases;United Kingdom;29/05/2015;1
+Cases;United States of America;29/05/2015;4
+Deaths;United States of America;29/05/2015;1
+Deaths;Senegal;29/05/2015;0
+Cases;Senegal;1/06/2015;1
+Cases;Guinea;1/06/2015;3653
+Deaths;Guinea;1/06/2015;2428
+Deaths;Italy;1/06/2015;0
+Cases;Italy;1/06/2015;1
+Cases;Liberia;1/06/2015;10666
+Deaths;Liberia;1/06/2015;4806
+Deaths;Mali;1/06/2015;6
+Cases;Mali;1/06/2015;8
+Cases;Nigeria;1/06/2015;20
+Deaths;Nigeria;1/06/2015;8
+Cases;Sierra Leone;1/06/2015;12816
+Deaths;Sierra Leone;1/06/2015;3911
+Cases;Spain;1/06/2015;1
+Deaths;Spain;1/06/2015;0
+Deaths;United Kingdom;1/06/2015;0
+Cases;United Kingdom;1/06/2015;1
+Cases;United States of America;1/06/2015;4
+Deaths;United States of America;1/06/2015;1
+Deaths;Senegal;1/06/2015;0
+Cases;Senegal;2/06/2015;1
+Cases;Guinea;2/06/2015;3652
+Deaths;Guinea;2/06/2015;2429
+Deaths;Italy;2/06/2015;0
+Cases;Italy;2/06/2015;1
+Cases;Liberia;2/06/2015;10666
+Deaths;Liberia;2/06/2015;4806
+Deaths;Mali;2/06/2015;6
+Cases;Mali;2/06/2015;8
+Cases;Nigeria;2/06/2015;20
+Deaths;Nigeria;2/06/2015;8
+Cases;Sierra Leone;2/06/2015;12827
+Deaths;Sierra Leone;2/06/2015;3912
+Cases;Spain;2/06/2015;1
+Deaths;Spain;2/06/2015;0
+Deaths;United Kingdom;2/06/2015;0
+Cases;United Kingdom;2/06/2015;1
+Cases;United States of America;2/06/2015;4
+Deaths;United States of America;2/06/2015;1
+Deaths;Senegal;2/06/2015;0
+Cases;Senegal;3/06/2015;1
+Cases;Guinea;3/06/2015;3652
+Deaths;Guinea;3/06/2015;2429
+Deaths;Italy;3/06/2015;0
+Cases;Italy;3/06/2015;1
+Cases;Liberia;3/06/2015;10666
+Deaths;Liberia;3/06/2015;4806
+Deaths;Mali;3/06/2015;6
+Cases;Mali;3/06/2015;8
+Cases;Nigeria;3/06/2015;20
+Deaths;Nigeria;3/06/2015;8
+Cases;Sierra Leone;3/06/2015;12827
+Deaths;Sierra Leone;3/06/2015;3912
+Cases;Spain;3/06/2015;1
+Deaths;Spain;3/06/2015;0
+Deaths;United Kingdom;3/06/2015;0
+Cases;United Kingdom;3/06/2015;1
+Cases;United States of America;3/06/2015;4
+Deaths;United States of America;3/06/2015;1
+Deaths;Senegal;3/06/2015;0
+Cases;Senegal;4/06/2015;1
+Cases;Guinea;4/06/2015;3657
+Deaths;Guinea;4/06/2015;2431
+Deaths;Italy;4/06/2015;0
+Cases;Italy;4/06/2015;1
+Cases;Liberia;4/06/2015;10666
+Deaths;Liberia;4/06/2015;4806
+Deaths;Mali;4/06/2015;6
+Cases;Mali;4/06/2015;8
+Cases;Nigeria;4/06/2015;20
+Deaths;Nigeria;4/06/2015;8
+Cases;Sierra Leone;4/06/2015;12850
+Deaths;Sierra Leone;4/06/2015;3912
+Cases;Spain;4/06/2015;1
+Deaths;Spain;4/06/2015;0
+Deaths;United Kingdom;4/06/2015;0
+Cases;United Kingdom;4/06/2015;1
+Cases;United States of America;4/06/2015;4
+Deaths;United States of America;4/06/2015;1
+Deaths;Senegal;4/06/2015;0
+Cases;Senegal;5/06/2015;1
+Cases;Guinea;5/06/2015;3664
+Deaths;Guinea;5/06/2015;2431
+Deaths;Italy;5/06/2015;0
+Cases;Italy;5/06/2015;1
+Cases;Liberia;5/06/2015;10666
+Deaths;Liberia;5/06/2015;4806
+Deaths;Mali;5/06/2015;6
+Cases;Mali;5/06/2015;8
+Cases;Nigeria;5/06/2015;20
+Deaths;Nigeria;5/06/2015;8
+Cases;Sierra Leone;5/06/2015;12859
+Deaths;Sierra Leone;5/06/2015;3912
+Cases;Spain;5/06/2015;1
+Deaths;Spain;5/06/2015;0
+Deaths;United Kingdom;5/06/2015;0
+Cases;United Kingdom;5/06/2015;1
+Cases;United States of America;5/06/2015;4
+Deaths;United States of America;5/06/2015;1
+Deaths;Senegal;5/06/2015;0
+Cases;Senegal;8/06/2015;1
+Cases;Guinea;8/06/2015;3669
+Deaths;Guinea;8/06/2015;2435
+Deaths;Italy;8/06/2015;0
+Cases;Italy;8/06/2015;1
+Cases;Liberia;8/06/2015;10666
+Deaths;Liberia;8/06/2015;4806
+Deaths;Mali;8/06/2015;6
+Cases;Mali;8/06/2015;8
+Cases;Nigeria;8/06/2015;20
+Deaths;Nigeria;8/06/2015;8
+Cases;Sierra Leone;8/06/2015;12884
+Deaths;Sierra Leone;8/06/2015;3913
+Cases;Spain;8/06/2015;1
+Deaths;Spain;8/06/2015;0
+Deaths;United Kingdom;8/06/2015;0
+Cases;United Kingdom;8/06/2015;1
+Cases;United States of America;8/06/2015;4
+Deaths;United States of America;8/06/2015;1
+Deaths;Senegal;8/06/2015;0
+Cases;Senegal;9/06/2015;1
+Cases;Guinea;9/06/2015;3670
+Deaths;Guinea;9/06/2015;2437
+Deaths;Italy;9/06/2015;0
+Cases;Italy;9/06/2015;1
+Cases;Liberia;9/06/2015;10666
+Deaths;Liberia;9/06/2015;4806
+Deaths;Mali;9/06/2015;6
+Cases;Mali;9/06/2015;8
+Cases;Nigeria;9/06/2015;20
+Deaths;Nigeria;9/06/2015;8
+Cases;Sierra Leone;9/06/2015;12901
+Deaths;Sierra Leone;9/06/2015;3915
+Cases;Spain;9/06/2015;1
+Deaths;Spain;9/06/2015;0
+Deaths;United Kingdom;9/06/2015;0
+Cases;United Kingdom;9/06/2015;1
+Cases;United States of America;9/06/2015;4
+Deaths;United States of America;9/06/2015;1
+Deaths;Senegal;9/06/2015;0
+Cases;Senegal;10/06/2015;1
+Cases;Guinea;10/06/2015;3670
+Deaths;Guinea;10/06/2015;2437
+Deaths;Italy;10/06/2015;0
+Cases;Italy;10/06/2015;1
+Deaths;Liberia;10/06/2015;4806
+Cases;Liberia;10/06/2015;10666
+Deaths;Mali;10/06/2015;6
+Cases;Mali;10/06/2015;8
+Cases;Nigeria;10/06/2015;20
+Deaths;Nigeria;10/06/2015;8
+Deaths;Sierra Leone;10/06/2015;3915
+Cases;Sierra Leone;10/06/2015;12901
+Cases;Spain;10/06/2015;1
+Deaths;Spain;10/06/2015;0
+Deaths;United Kingdom;10/06/2015;0
+Cases;United Kingdom;10/06/2015;1
+Cases;United States of America;10/06/2015;4
+Deaths;United States of America;10/06/2015;1
+Deaths;Senegal;10/06/2015;0
+Cases;Senegal;11/06/2015;1
+Cases;Guinea;11/06/2015;3674
+Deaths;Guinea;11/06/2015;2440
+Deaths;Italy;11/06/2015;0
+Cases;Italy;11/06/2015;1
+Cases;Liberia;11/06/2015;10666
+Deaths;Liberia;11/06/2015;4806
+Deaths;Mali;11/06/2015;6
+Cases;Mali;11/06/2015;8
+Cases;Nigeria;11/06/2015;20
+Deaths;Nigeria;11/06/2015;8
+Cases;Sierra Leone;11/06/2015;12911
+Deaths;Sierra Leone;11/06/2015;3917
+Cases;Spain;11/06/2015;1
+Deaths;Spain;11/06/2015;0
+Deaths;United Kingdom;11/06/2015;0
+Cases;United Kingdom;11/06/2015;1
+Cases;United States of America;11/06/2015;4
+Deaths;United States of America;11/06/2015;1
+Deaths;Senegal;11/06/2015;0
+Cases;Senegal;12/06/2015;1
+Cases;Guinea;12/06/2015;3677
+Deaths;Guinea;12/06/2015;2440
+Deaths;Italy;12/06/2015;0
+Cases;Italy;12/06/2015;1
+Cases;Liberia;12/06/2015;10666
+Deaths;Liberia;12/06/2015;4806
+Deaths;Mali;12/06/2015;6
+Cases;Mali;12/06/2015;8
+Cases;Nigeria;12/06/2015;20
+Deaths;Nigeria;12/06/2015;8
+Cases;Sierra Leone;12/06/2015;12932
+Deaths;Sierra Leone;12/06/2015;3917
+Cases;Spain;12/06/2015;1
+Deaths;Spain;12/06/2015;0
+Deaths;United Kingdom;12/06/2015;0
+Cases;United Kingdom;12/06/2015;1
+Cases;United States of America;12/06/2015;4
+Deaths;United States of America;12/06/2015;1
+Deaths;Senegal;12/06/2015;0
+Cases;Senegal;15/06/2015;1
+Cases;Guinea;15/06/2015;3677
+Deaths;Guinea;15/06/2015;2443
+Deaths;Italy;15/06/2015;0
+Cases;Italy;15/06/2015;1
+Cases;Liberia;15/06/2015;10666
+Deaths;Liberia;15/06/2015;4806
+Deaths;Mali;15/06/2015;6
+Cases;Mali;15/06/2015;8
+Cases;Nigeria;15/06/2015;20
+Deaths;Nigeria;15/06/2015;8
+Cases;Sierra Leone;15/06/2015;12962
+Deaths;Sierra Leone;15/06/2015;3919
+Cases;Spain;15/06/2015;1
+Deaths;Spain;15/06/2015;0
+Deaths;United Kingdom;15/06/2015;0
+Cases;United Kingdom;15/06/2015;1
+Cases;United States of America;15/06/2015;4
+Deaths;United States of America;15/06/2015;1
+Deaths;Senegal;15/06/2015;0
+Cases;Senegal;16/06/2015;1
+Cases;Guinea;16/06/2015;3678
+Deaths;Guinea;16/06/2015;2444
+Deaths;Italy;16/06/2015;0
+Cases;Italy;16/06/2015;1
+Cases;Liberia;16/06/2015;10666
+Deaths;Liberia;16/06/2015;4806
+Deaths;Mali;16/06/2015;6
+Cases;Mali;16/06/2015;8
+Cases;Nigeria;16/06/2015;20
+Deaths;Nigeria;16/06/2015;8
+Cases;Sierra Leone;16/06/2015;12965
+Deaths;Sierra Leone;16/06/2015;3919
+Cases;Spain;16/06/2015;1
+Deaths;Spain;16/06/2015;0
+Deaths;United Kingdom;16/06/2015;0
+Cases;United Kingdom;16/06/2015;1
+Cases;United States of America;16/06/2015;4
+Deaths;United States of America;16/06/2015;1
+Deaths;Senegal;16/06/2015;0
+Cases;Senegal;17/06/2015;1
+Cases;Guinea;17/06/2015;3674
+Deaths;Guinea;17/06/2015;2444
+Deaths;Italy;17/06/2015;0
+Cases;Italy;17/06/2015;1
+Cases;Liberia;17/06/2015;10666
+Deaths;Liberia;17/06/2015;4806
+Deaths;Mali;17/06/2015;6
+Cases;Mali;17/06/2015;8
+Cases;Nigeria;17/06/2015;20
+Deaths;Nigeria;17/06/2015;8
+Cases;Sierra Leone;17/06/2015;12965
+Deaths;Sierra Leone;17/06/2015;3919
+Cases;Spain;17/06/2015;1
+Deaths;Spain;17/06/2015;0
+Deaths;United Kingdom;17/06/2015;0
+Cases;United Kingdom;17/06/2015;1
+Cases;United States of America;17/06/2015;4
+Deaths;United States of America;17/06/2015;1
+Deaths;Senegal;17/06/2015;0
+Cases;Senegal;18/06/2015;1
+Cases;Guinea;18/06/2015;3675
+Deaths;Guinea;18/06/2015;2445
+Deaths;Italy;18/06/2015;0
+Cases;Italy;18/06/2015;1
+Cases;Liberia;18/06/2015;10666
+Deaths;Liberia;18/06/2015;4806
+Deaths;Mali;18/06/2015;6
+Cases;Mali;18/06/2015;8
+Cases;Nigeria;18/06/2015;20
+Deaths;Nigeria;18/06/2015;8
+Cases;Sierra Leone;18/06/2015;12990
+Deaths;Sierra Leone;18/06/2015;3922
+Cases;Spain;18/06/2015;1
+Deaths;Spain;18/06/2015;0
+Deaths;United Kingdom;18/06/2015;0
+Cases;United Kingdom;18/06/2015;1
+Cases;United States of America;18/06/2015;4
+Deaths;United States of America;18/06/2015;1
+Deaths;Senegal;18/06/2015;0
+Cases;Senegal;19/06/2015;1
+Cases;Guinea;19/06/2015;3674
+Deaths;Guinea;19/06/2015;2446
+Deaths;Italy;19/06/2015;0
+Cases;Italy;19/06/2015;1
+Cases;Liberia;19/06/2015;10666
+Deaths;Liberia;19/06/2015;4806
+Deaths;Mali;19/06/2015;6
+Cases;Mali;19/06/2015;8
+Cases;Nigeria;19/06/2015;20
+Deaths;Nigeria;19/06/2015;8
+Cases;Sierra Leone;19/06/2015;13012
+Deaths;Sierra Leone;19/06/2015;3926
+Cases;Spain;19/06/2015;1
+Deaths;Spain;19/06/2015;0
+Deaths;United Kingdom;19/06/2015;0
+Cases;United Kingdom;19/06/2015;1
+Cases;United States of America;19/06/2015;4
+Deaths;United States of America;19/06/2015;1
+Deaths;Senegal;19/06/2015;0
+Cases;Senegal;22/06/2015;1
+Cases;Guinea;22/06/2015;3698
+Deaths;Guinea;22/06/2015;2456
+Deaths;Italy;22/06/2015;0
+Cases;Italy;22/06/2015;1
+Cases;Liberia;22/06/2015;10666
+Deaths;Liberia;22/06/2015;4806
+Deaths;Mali;22/06/2015;6
+Cases;Mali;22/06/2015;8
+Cases;Nigeria;22/06/2015;20
+Deaths;Nigeria;22/06/2015;8
+Cases;Sierra Leone;22/06/2015;13051
+Deaths;Sierra Leone;22/06/2015;3928
+Cases;Spain;22/06/2015;1
+Deaths;Spain;22/06/2015;0
+Deaths;United Kingdom;22/06/2015;0
+Cases;United Kingdom;22/06/2015;1
+Cases;United States of America;22/06/2015;4
+Deaths;United States of America;22/06/2015;1
+Deaths;Senegal;22/06/2015;0
+Cases;Senegal;23/06/2015;1
+Cases;Guinea;23/06/2015;3718
+Deaths;Guinea;23/06/2015;2473
+Deaths;Italy;23/06/2015;0
+Cases;Italy;23/06/2015;1
+Cases;Liberia;23/06/2015;10666
+Deaths;Liberia;23/06/2015;4806
+Deaths;Mali;23/06/2015;6
+Cases;Mali;23/06/2015;8
+Cases;Nigeria;23/06/2015;20
+Deaths;Nigeria;23/06/2015;8
+Cases;Sierra Leone;23/06/2015;13059
+Deaths;Sierra Leone;23/06/2015;3928
+Cases;Spain;23/06/2015;1
+Deaths;Spain;23/06/2015;0
+Deaths;United Kingdom;23/06/2015;0
+Cases;United Kingdom;23/06/2015;1
+Cases;United States of America;23/06/2015;4
+Deaths;United States of America;23/06/2015;1
+Deaths;Senegal;23/06/2015;0
+Cases;Senegal;24/06/2015;1
+Cases;Guinea;24/06/2015;3718
+Deaths;Guinea;24/06/2015;2473
+Deaths;Italy;24/06/2015;0
+Cases;Italy;24/06/2015;1
+Cases;Liberia;24/06/2015;10666
+Deaths;Liberia;24/06/2015;4806
+Deaths;Mali;24/06/2015;6
+Cases;Mali;24/06/2015;8
+Cases;Nigeria;24/06/2015;20
+Deaths;Nigeria;24/06/2015;8
+Cases;Sierra Leone;24/06/2015;13059
+Deaths;Sierra Leone;24/06/2015;3928
+Cases;Spain;24/06/2015;1
+Deaths;Spain;24/06/2015;0
+Deaths;United Kingdom;24/06/2015;0
+Cases;United Kingdom;24/06/2015;1
+Cases;United States of America;24/06/2015;4
+Deaths;United States of America;24/06/2015;1
+Deaths;Senegal;24/06/2015;0
+Cases;Senegal;25/06/2015;1
+Cases;Guinea;25/06/2015;3718
+Deaths;Guinea;25/06/2015;2480
+Deaths;Italy;25/06/2015;0
+Cases;Italy;25/06/2015;1
+Cases;Liberia;25/06/2015;10666
+Deaths;Liberia;25/06/2015;4806
+Deaths;Mali;25/06/2015;6
+Cases;Mali;25/06/2015;8
+Cases;Nigeria;25/06/2015;20
+Deaths;Nigeria;25/06/2015;8
+Cases;Sierra Leone;25/06/2015;13083
+Deaths;Sierra Leone;25/06/2015;3931
+Cases;Spain;25/06/2015;1
+Deaths;Spain;25/06/2015;0
+Deaths;United Kingdom;25/06/2015;0
+Cases;United Kingdom;25/06/2015;1
+Cases;United States of America;25/06/2015;4
+Deaths;United States of America;25/06/2015;1
+Deaths;Senegal;25/06/2015;0
+Cases;Senegal;26/06/2015;1
+Cases;Guinea;26/06/2015;3720
+Deaths;Guinea;26/06/2015;2480
+Deaths;Italy;26/06/2015;0
+Cases;Italy;26/06/2015;1
+Cases;Liberia;26/06/2015;10666
+Deaths;Liberia;26/06/2015;4806
+Deaths;Mali;26/06/2015;6
+Cases;Mali;26/06/2015;8
+Cases;Nigeria;26/06/2015;20
+Deaths;Nigeria;26/06/2015;8
+Cases;Sierra Leone;26/06/2015;13093
+Deaths;Sierra Leone;26/06/2015;3931
+Cases;Spain;26/06/2015;1
+Deaths;Spain;26/06/2015;0
+Deaths;United Kingdom;26/06/2015;0
+Cases;United Kingdom;26/06/2015;1
+Cases;United States of America;26/06/2015;4
+Deaths;United States of America;26/06/2015;1
+Deaths;Senegal;26/06/2015;0
+Cases;Senegal;29/06/2015;1
+Cases;Guinea;29/06/2015;3724
+Deaths;Guinea;29/06/2015;2482
+Deaths;Italy;29/06/2015;0
+Cases;Italy;29/06/2015;1
+Cases;Liberia;29/06/2015;10666
+Deaths;Liberia;29/06/2015;4806
+Deaths;Mali;29/06/2015;6
+Cases;Mali;29/06/2015;8
+Cases;Nigeria;29/06/2015;20
+Deaths;Nigeria;29/06/2015;8
+Cases;Sierra Leone;29/06/2015;13115
+Deaths;Sierra Leone;29/06/2015;3932
+Cases;Spain;29/06/2015;1
+Deaths;Spain;29/06/2015;0
+Deaths;United Kingdom;29/06/2015;0
+Cases;United Kingdom;29/06/2015;1
+Cases;United States of America;29/06/2015;4
+Deaths;United States of America;29/06/2015;1
+Deaths;Senegal;29/06/2015;0
+Cases;Senegal;30/06/2015;1
+Cases;Guinea;30/06/2015;3729
+Deaths;Guinea;30/06/2015;2482
+Deaths;Italy;30/06/2015;0
+Cases;Italy;30/06/2015;1
+Cases;Liberia;30/06/2015;10666
+Deaths;Liberia;30/06/2015;4806
+Deaths;Mali;30/06/2015;6
+Cases;Mali;30/06/2015;8
+Cases;Nigeria;30/06/2015;20
+Deaths;Nigeria;30/06/2015;8
+Cases;Sierra Leone;30/06/2015;13119
+Deaths;Sierra Leone;30/06/2015;3932
+Cases;Spain;30/06/2015;1
+Deaths;Spain;30/06/2015;0
+Deaths;United Kingdom;30/06/2015;0
+Cases;United Kingdom;30/06/2015;1
+Cases;United States of America;30/06/2015;4
+Deaths;United States of America;30/06/2015;1
+Deaths;Senegal;30/06/2015;0
+Cases;Senegal;1/07/2015;1
+Cases;Guinea;1/07/2015;3729
+Deaths;Guinea;1/07/2015;2482
+Deaths;Italy;1/07/2015;0
+Cases;Italy;1/07/2015;1
+Cases;Liberia;1/07/2015;10666
+Deaths;Liberia;1/07/2015;4806
+Deaths;Mali;1/07/2015;6
+Cases;Mali;1/07/2015;8
+Cases;Nigeria;1/07/2015;20
+Deaths;Nigeria;1/07/2015;8
+Cases;Sierra Leone;1/07/2015;13119
+Deaths;Sierra Leone;1/07/2015;3932
+Cases;Spain;1/07/2015;1
+Deaths;Spain;1/07/2015;0
+Deaths;United Kingdom;1/07/2015;0
+Cases;United Kingdom;1/07/2015;1
+Cases;United States of America;1/07/2015;4
+Deaths;United States of America;1/07/2015;1
+Deaths;Senegal;1/07/2015;0
+Cases;Senegal;2/07/2015;1
+Cases;Guinea;2/07/2015;3745
+Deaths;Guinea;2/07/2015;2490
+Deaths;Italy;2/07/2015;0
+Cases;Italy;2/07/2015;1
+Cases;Liberia;2/07/2015;10666
+Deaths;Liberia;2/07/2015;4806
+Deaths;Mali;2/07/2015;6
+Cases;Mali;2/07/2015;8
+Cases;Nigeria;2/07/2015;20
+Deaths;Nigeria;2/07/2015;8
+Cases;Sierra Leone;2/07/2015;13129
+Deaths;Sierra Leone;2/07/2015;3933
+Cases;Spain;2/07/2015;1
+Deaths;Spain;2/07/2015;0
+Deaths;United Kingdom;2/07/2015;0
+Cases;United Kingdom;2/07/2015;1
+Cases;United States of America;2/07/2015;4
+Deaths;United States of America;2/07/2015;1
+Deaths;Senegal;2/07/2015;0
+Cases;Senegal;3/07/2015;1
+Deaths;Guinea;3/07/2015;2492
+Cases;Guinea;3/07/2015;3750
+Deaths;Italy;3/07/2015;0
+Cases;Italy;3/07/2015;1
+Deaths;Liberia;3/07/2015;4806
+Cases;Liberia;3/07/2015;10666
+Cases;Liberia 2;3/07/2015;40
+Deaths;Liberia 2;3/07/2015;5
+Deaths;Mali;3/07/2015;6
+Cases;Mali;3/07/2015;8
+Cases;Nigeria;3/07/2015;20
+Deaths;Nigeria;3/07/2015;8
+Deaths;Sierra Leone;3/07/2015;3935
+Cases;Sierra Leone;3/07/2015;13135
+Cases;Spain;3/07/2015;1
+Deaths;Spain;3/07/2015;0
+Deaths;United Kingdom;3/07/2015;0
+Cases;United Kingdom;3/07/2015;1
+Cases;United States of America;3/07/2015;4
+Deaths;United States of America;3/07/2015;1
+Deaths;Senegal;3/07/2015;0
+Cases;Senegal;6/07/2015;1
+Cases;Guinea;6/07/2015;3744
+Deaths;Guinea;6/07/2015;2498
+Deaths;Italy;6/07/2015;0
+Cases;Italy;6/07/2015;1
+Cases;Liberia;6/07/2015;10666
+Deaths;Liberia;6/07/2015;4806
+Deaths;Liberia 2;6/07/2015;1
+Cases;Liberia 2;6/07/2015;4
+Deaths;Mali;6/07/2015;6
+Cases;Mali;6/07/2015;8
+Cases;Nigeria;6/07/2015;20
+Deaths;Nigeria;6/07/2015;8
+Cases;Sierra Leone;6/07/2015;13150
+Deaths;Sierra Leone;6/07/2015;3940
+Cases;Spain;6/07/2015;1
+Deaths;Spain;6/07/2015;0
+Deaths;United Kingdom;6/07/2015;0
+Cases;United Kingdom;6/07/2015;1
+Cases;United States of America;6/07/2015;4
+Deaths;United States of America;6/07/2015;1
+Deaths;Senegal;6/07/2015;0
+Cases;Senegal;7/07/2015;1
+Deaths;Guinea;7/07/2015;2499
+Cases;Guinea;7/07/2015;3748
+Deaths;Italy;7/07/2015;0
+Cases;Italy;7/07/2015;1
+Deaths;Liberia;7/07/2015;4806
+Cases;Liberia;7/07/2015;10666
+Deaths;Liberia 2;7/07/2015;1
+Cases;Liberia 2;7/07/2015;4
+Deaths;Mali;7/07/2015;6
+Cases;Mali;7/07/2015;8
+Cases;Nigeria;7/07/2015;20
+Deaths;Nigeria;7/07/2015;8
+Deaths;Sierra Leone;7/07/2015;3940
+Cases;Sierra Leone;7/07/2015;13155
+Cases;Spain;7/07/2015;1
+Deaths;Spain;7/07/2015;0
+Deaths;United Kingdom;7/07/2015;0
+Cases;United Kingdom;7/07/2015;1
+Cases;United States of America;7/07/2015;4
+Deaths;United States of America;7/07/2015;1
+Deaths;Senegal;7/07/2015;0
+Cases;Senegal;8/07/2015;1
+Cases;Guinea;8/07/2015;3748
+Deaths;Guinea;8/07/2015;2499
+Deaths;Italy;8/07/2015;0
+Cases;Italy;8/07/2015;1
+Cases;Liberia;8/07/2015;10666
+Deaths;Liberia;8/07/2015;4806
+Deaths;Liberia 2;8/07/2015;1
+Cases;Liberia 2;8/07/2015;4
+Deaths;Mali;8/07/2015;6
+Cases;Mali;8/07/2015;8
+Cases;Nigeria;8/07/2015;20
+Deaths;Nigeria;8/07/2015;8
+Deaths;Sierra Leone;8/07/2015;3940
+Cases;Sierra Leone;8/07/2015;13155
+Cases;Spain;8/07/2015;1
+Deaths;Spain;8/07/2015;0
+Deaths;United Kingdom;8/07/2015;0
+Cases;United Kingdom;8/07/2015;1
+Cases;United States of America;8/07/2015;4
+Deaths;United States of America;8/07/2015;1
+Deaths;Senegal;8/07/2015;0
+Cases;Senegal;9/07/2015;1
+Cases;Guinea;9/07/2015;3744
+Deaths;Guinea;9/07/2015;2505
+Deaths;Italy;9/07/2015;0
+Cases;Italy;9/07/2015;1
+Cases;Liberia;9/07/2015;10666
+Deaths;Liberia;9/07/2015;4806
+Cases;Liberia 2;9/07/2015;6
+Deaths;Liberia 2;9/07/2015;1
+Deaths;Mali;9/07/2015;6
+Cases;Mali;9/07/2015;8
+Cases;Nigeria;9/07/2015;20
+Deaths;Nigeria;9/07/2015;8
+Cases;Sierra Leone;9/07/2015;13169
+Deaths;Sierra Leone;9/07/2015;3941
+Cases;Spain;9/07/2015;1
+Deaths;Spain;9/07/2015;0
+Deaths;United Kingdom;9/07/2015;0
+Cases;United Kingdom;9/07/2015;1
+Cases;United States of America;9/07/2015;4
+Deaths;United States of America;9/07/2015;1
+Deaths;Senegal;9/07/2015;0
+Cases;Senegal;10/07/2015;1
+Cases;Guinea;10/07/2015;3751
+Deaths;Guinea;10/07/2015;2505
+Deaths;Italy;10/07/2015;0
+Cases;Italy;10/07/2015;1
+Cases;Liberia;10/07/2015;10666
+Deaths;Liberia;10/07/2015;4806
+Cases;Liberia 2;10/07/2015;6
+Deaths;Liberia 2;10/07/2015;1
+Deaths;Mali;10/07/2015;6
+Cases;Mali;10/07/2015;8
+Cases;Nigeria;10/07/2015;20
+Deaths;Nigeria;10/07/2015;8
+Cases;Sierra Leone;10/07/2015;13177
+Deaths;Sierra Leone;10/07/2015;3941
+Cases;Spain;10/07/2015;1
+Deaths;Spain;10/07/2015;0
+Deaths;United Kingdom;10/07/2015;0
+Cases;United Kingdom;10/07/2015;1
+Cases;United States of America;10/07/2015;4
+Deaths;United States of America;10/07/2015;1
+Deaths;Senegal;10/07/2015;0
+Cases;Senegal;13/07/2015;1
+Cases;Guinea;13/07/2015;3754
+Deaths;Guinea;13/07/2015;2506
+Deaths;Italy;13/07/2015;0
+Cases;Italy;13/07/2015;1
+Cases;Liberia;13/07/2015;10666
+Deaths;Liberia;13/07/2015;4806
+Cases;Liberia 2;13/07/2015;6
+Deaths;Liberia 2;13/07/2015;1
+Deaths;Mali;13/07/2015;6
+Cases;Mali;13/07/2015;8
+Cases;Nigeria;13/07/2015;20
+Deaths;Nigeria;13/07/2015;8
+Cases;Sierra Leone;13/07/2015;13201
+Deaths;Sierra Leone;13/07/2015;3946
+Cases;Spain;13/07/2015;1
+Deaths;Spain;13/07/2015;0
+Deaths;United Kingdom;13/07/2015;0
+Cases;United Kingdom;13/07/2015;1
+Cases;United States of America;13/07/2015;4
+Deaths;United States of America;13/07/2015;1
+Deaths;Senegal;13/07/2015;0
+Cases;Senegal;14/07/2015;1
+Cases;Guinea;14/07/2015;3760
+Deaths;Guinea;14/07/2015;2506
+Deaths;Italy;14/07/2015;0
+Cases;Italy;14/07/2015;1
+Cases;Liberia;14/07/2015;10666
+Deaths;Liberia;14/07/2015;4806
+Cases;Liberia 2;14/07/2015;7
+Deaths;Liberia 2;14/07/2015;2
+Deaths;Mali;14/07/2015;6
+Cases;Mali;14/07/2015;8
+Cases;Nigeria;14/07/2015;20
+Deaths;Nigeria;14/07/2015;8
+Cases;Sierra Leone;14/07/2015;13209
+Deaths;Sierra Leone;14/07/2015;3947
+Cases;Spain;14/07/2015;1
+Deaths;Spain;14/07/2015;0
+Deaths;United Kingdom;14/07/2015;0
+Cases;United Kingdom;14/07/2015;1
+Cases;United States of America;14/07/2015;4
+Deaths;United States of America;14/07/2015;1
+Deaths;Senegal;14/07/2015;0
+Cases;Senegal;15/07/2015;1
+Deaths;Guinea;15/07/2015;2506
+Cases;Guinea;15/07/2015;3760
+Deaths;Italy;15/07/2015;0
+Cases;Italy;15/07/2015;1
+Deaths;Liberia;15/07/2015;4806
+Cases;Liberia;15/07/2015;10666
+Cases;Liberia 2;15/07/2015;7
+Deaths;Liberia 2;15/07/2015;2
+Deaths;Mali;15/07/2015;6
+Cases;Mali;15/07/2015;8
+Cases;Nigeria;15/07/2015;20
+Deaths;Nigeria;15/07/2015;8
+Cases;Sierra Leone;15/07/2015;13209
+Deaths;Sierra Leone;15/07/2015;3947
+Cases;Spain;15/07/2015;1
+Deaths;Spain;15/07/2015;0
+Deaths;United Kingdom;15/07/2015;0
+Cases;United Kingdom;15/07/2015;1
+Cases;United States of America;15/07/2015;4
+Deaths;United States of America;15/07/2015;1
+Deaths;Senegal;15/07/2015;0
+Cases;Senegal;16/07/2015;1
+Cases;Guinea;16/07/2015;3762
+Deaths;Guinea;16/07/2015;2506
+Deaths;Italy;16/07/2015;0
+Cases;Italy;16/07/2015;1
+Cases;Liberia;16/07/2015;10666
+Deaths;Liberia;16/07/2015;4806
+Cases;Liberia 2;16/07/2015;6
+Deaths;Liberia 2;16/07/2015;2
+Deaths;Mali;16/07/2015;6
+Cases;Mali;16/07/2015;8
+Cases;Nigeria;16/07/2015;20
+Deaths;Nigeria;16/07/2015;8
+Cases;Sierra Leone;16/07/2015;13209
+Deaths;Sierra Leone;16/07/2015;3947
+Cases;Spain;16/07/2015;1
+Deaths;Spain;16/07/2015;0
+Deaths;United Kingdom;16/07/2015;0
+Cases;United Kingdom;16/07/2015;1
+Cases;United States of America;16/07/2015;4
+Deaths;United States of America;16/07/2015;1
+Deaths;Senegal;16/07/2015;0
+Cases;Senegal;17/07/2015;1
+Cases;Guinea;17/07/2015;3770
+Deaths;Guinea;17/07/2015;2509
+Deaths;Italy;17/07/2015;0
+Cases;Italy;17/07/2015;1
+Cases;Liberia;17/07/2015;10666
+Deaths;Liberia;17/07/2015;4806
+Cases;Liberia 2;17/07/2015;7
+Deaths;Liberia 2;17/07/2015;2
+Deaths;Mali;17/07/2015;6
+Cases;Mali;17/07/2015;8
+Cases;Nigeria;17/07/2015;20
+Deaths;Nigeria;17/07/2015;8
+Cases;Sierra Leone;17/07/2015;13209
+Deaths;Sierra Leone;17/07/2015;3947
+Cases;Spain;17/07/2015;1
+Deaths;Spain;17/07/2015;0
+Deaths;United Kingdom;17/07/2015;0
+Cases;United Kingdom;17/07/2015;1
+Cases;United States of America;17/07/2015;4
+Deaths;United States of America;17/07/2015;1
+Deaths;Senegal;17/07/2015;0
+Cases;Senegal;20/07/2015;1
+Cases;Guinea;20/07/2015;3784
+Deaths;Guinea;20/07/2015;2511
+Deaths;Italy;20/07/2015;0
+Cases;Italy;20/07/2015;1
+Cases;Liberia;20/07/2015;10666
+Deaths;Liberia;20/07/2015;4806
+Cases;Liberia 2;20/07/2015;7
+Deaths;Liberia 2;20/07/2015;2
+Deaths;Mali;20/07/2015;6
+Cases;Mali;20/07/2015;8
+Cases;Nigeria;20/07/2015;20
+Deaths;Nigeria;20/07/2015;8
+Cases;Sierra Leone;20/07/2015;13241
+Deaths;Sierra Leone;20/07/2015;3949
+Cases;Spain;20/07/2015;1
+Deaths;Spain;20/07/2015;0
+Deaths;United Kingdom;20/07/2015;0
+Cases;United Kingdom;20/07/2015;1
+Cases;United States of America;20/07/2015;4
+Deaths;United States of America;20/07/2015;1
+Deaths;Senegal;20/07/2015;0
+Cases;Senegal;21/07/2015;1
+Cases;Guinea;21/07/2015;3783
+Deaths;Guinea;21/07/2015;2512
+Deaths;Italy;21/07/2015;0
+Cases;Italy;21/07/2015;1
+Cases;Liberia;21/07/2015;10666
+Deaths;Liberia;21/07/2015;4806
+Cases;Liberia 2;21/07/2015;7
+Deaths;Liberia 2;21/07/2015;2
+Deaths;Mali;21/07/2015;6
+Cases;Mali;21/07/2015;8
+Cases;Nigeria;21/07/2015;20
+Deaths;Nigeria;21/07/2015;8
+Cases;Sierra Leone;21/07/2015;13250
+Deaths;Sierra Leone;21/07/2015;3949
+Cases;Spain;21/07/2015;1
+Deaths;Spain;21/07/2015;0
+Deaths;United Kingdom;21/07/2015;0
+Cases;United Kingdom;21/07/2015;1
+Cases;United States of America;21/07/2015;4
+Deaths;United States of America;21/07/2015;1
+Deaths;Senegal;21/07/2015;0
+Cases;Senegal;22/07/2015;1
+Cases;Guinea;22/07/2015;3783
+Deaths;Guinea;22/07/2015;2512
+Deaths;Italy;22/07/2015;0
+Cases;Italy;22/07/2015;1
+Cases;Liberia;22/07/2015;10666
+Deaths;Liberia;22/07/2015;4806
+Cases;Liberia 2;22/07/2015;6
+Deaths;Liberia 2;22/07/2015;2
+Deaths;Mali;22/07/2015;6
+Cases;Mali;22/07/2015;8
+Cases;Nigeria;22/07/2015;20
+Deaths;Nigeria;22/07/2015;8
+Cases;Sierra Leone;22/07/2015;13250
+Deaths;Sierra Leone;22/07/2015;3949
+Cases;Spain;22/07/2015;1
+Deaths;Spain;22/07/2015;0
+Deaths;United Kingdom;22/07/2015;0
+Cases;United Kingdom;22/07/2015;1
+Cases;United States of America;22/07/2015;4
+Deaths;United States of America;22/07/2015;1
+Deaths;Senegal;22/07/2015;0
+Cases;Senegal;23/07/2015;1
+Cases;Guinea;23/07/2015;3788
+Deaths;Guinea;23/07/2015;2516
+Deaths;Italy;23/07/2015;0
+Cases;Italy;23/07/2015;1
+Cases;Liberia;23/07/2015;10666
+Deaths;Liberia;23/07/2015;4806
+Cases;Liberia 2;23/07/2015;7
+Deaths;Liberia 2;23/07/2015;2
+Deaths;Mali;23/07/2015;6
+Cases;Mali;23/07/2015;8
+Cases;Nigeria;23/07/2015;20
+Deaths;Nigeria;23/07/2015;8
+Cases;Sierra Leone;23/07/2015;13262
+Deaths;Sierra Leone;23/07/2015;3949
+Cases;Spain;23/07/2015;1
+Deaths;Spain;23/07/2015;0
+Deaths;United Kingdom;23/07/2015;0
+Cases;United Kingdom;23/07/2015;1
+Cases;United States of America;23/07/2015;4
+Deaths;United States of America;23/07/2015;1
+Deaths;Senegal;23/07/2015;0
+Cases;Senegal;24/07/2015;1
+Cases;Guinea;24/07/2015;3787
+Deaths;Guinea;24/07/2015;2517
+Deaths;Italy;24/07/2015;0
+Cases;Italy;24/07/2015;1
+Cases;Liberia;24/07/2015;10666
+Deaths;Liberia;24/07/2015;4806
+Cases;Liberia 2;24/07/2015;7
+Deaths;Liberia 2;24/07/2015;2
+Deaths;Mali;24/07/2015;6
+Cases;Mali;24/07/2015;8
+Cases;Nigeria;24/07/2015;20
+Deaths;Nigeria;24/07/2015;8
+Cases;Sierra Leone;24/07/2015;13264
+Deaths;Sierra Leone;24/07/2015;3949
+Cases;Spain;24/07/2015;1
+Deaths;Spain;24/07/2015;0
+Deaths;United Kingdom;24/07/2015;0
+Cases;United Kingdom;24/07/2015;1
+Cases;United States of America;24/07/2015;4
+Deaths;United States of America;24/07/2015;1
+Deaths;Senegal;24/07/2015;0
+Cases;Senegal;27/07/2015;1
+Cases;Guinea;27/07/2015;3792
+Deaths;Guinea;27/07/2015;2519
+Deaths;Italy;27/07/2015;0
+Cases;Italy;27/07/2015;1
+Cases;Liberia;27/07/2015;10666
+Deaths;Liberia;27/07/2015;4806
+Cases;Liberia 2;27/07/2015;7
+Deaths;Liberia 2;27/07/2015;2
+Deaths;Mali;27/07/2015;6
+Cases;Mali;27/07/2015;8
+Cases;Nigeria;27/07/2015;20
+Deaths;Nigeria;27/07/2015;8
+Deaths;Sierra Leone;27/07/2015;3951
+Cases;Sierra Leone;27/07/2015;13283
+Cases;Spain;27/07/2015;1
+Deaths;Spain;27/07/2015;0
+Deaths;United Kingdom;27/07/2015;0
+Cases;United Kingdom;27/07/2015;1
+Cases;United States of America;27/07/2015;4
+Deaths;United States of America;27/07/2015;1
+Deaths;Senegal;27/07/2015;0
+Cases;Senegal;28/07/2015;1
+Cases;Guinea;28/07/2015;3786
+Deaths;Guinea;28/07/2015;2520
+Deaths;Italy;28/07/2015;0
+Cases;Italy;28/07/2015;1
+Cases;Liberia;28/07/2015;10666
+Deaths;Liberia;28/07/2015;4806
+Cases;Liberia 2;28/07/2015;7
+Deaths;Liberia 2;28/07/2015;2
+Deaths;Mali;28/07/2015;6
+Cases;Mali;28/07/2015;8
+Cases;Nigeria;28/07/2015;20
+Deaths;Nigeria;28/07/2015;8
+Deaths;Sierra Leone;28/07/2015;3951
+Cases;Sierra Leone;28/07/2015;13290
+Cases;Spain;28/07/2015;1
+Deaths;Spain;28/07/2015;0
+Deaths;United Kingdom;28/07/2015;0
+Cases;United Kingdom;28/07/2015;1
+Cases;United States of America;28/07/2015;4
+Deaths;United States of America;28/07/2015;1
+Deaths;Senegal;28/07/2015;0
+Cases;Senegal;29/07/2015;1
+Cases;Guinea;29/07/2015;3786
+Deaths;Guinea;29/07/2015;2520
+Deaths;Italy;29/07/2015;0
+Cases;Italy;29/07/2015;1
+Deaths;Liberia;29/07/2015;4806
+Cases;Liberia;29/07/2015;10666
+Deaths;Liberia 2;29/07/2015;2
+Cases;Liberia 2;29/07/2015;6
+Deaths;Mali;29/07/2015;6
+Cases;Mali;29/07/2015;8
+Cases;Nigeria;29/07/2015;20
+Deaths;Nigeria;29/07/2015;8
+Cases;Sierra Leone;29/07/2015;13290
+Deaths;Sierra Leone;29/07/2015;3951
+Cases;Spain;29/07/2015;1
+Deaths;Spain;29/07/2015;0
+Deaths;United Kingdom;29/07/2015;0
+Cases;United Kingdom;29/07/2015;1
+Cases;United States of America;29/07/2015;4
+Deaths;United States of America;29/07/2015;1
+Deaths;Senegal;29/07/2015;0
+Cases;Senegal;30/07/2015;1
+Cases;Guinea;30/07/2015;3785
+Deaths;Guinea;30/07/2015;2521
+Deaths;Italy;30/07/2015;0
+Cases;Italy;30/07/2015;1
+Deaths;Liberia;30/07/2015;4806
+Cases;Liberia;30/07/2015;10666
+Cases;Liberia 2;30/07/2015;6
+Deaths;Liberia 2;30/07/2015;2
+Deaths;Mali;30/07/2015;6
+Cases;Mali;30/07/2015;8
+Cases;Nigeria;30/07/2015;20
+Deaths;Nigeria;30/07/2015;8
+Cases;Sierra Leone;30/07/2015;13379
+Deaths;Sierra Leone;30/07/2015;3951
+Cases;Spain;30/07/2015;1
+Deaths;Spain;30/07/2015;0
+Deaths;United Kingdom;30/07/2015;0
+Cases;United Kingdom;30/07/2015;1
+Cases;United States of America;30/07/2015;4
+Deaths;United States of America;30/07/2015;1
+Deaths;Senegal;30/07/2015;0
+Cases;Senegal;31/07/2015;1
+Cases;Guinea;31/07/2015;3781
+Deaths;Guinea;31/07/2015;2521
+Deaths;Italy;31/07/2015;0
+Cases;Italy;31/07/2015;1
+Deaths;Liberia;31/07/2015;4806
+Cases;Liberia;31/07/2015;10666
+Cases;Liberia 2;31/07/2015;6
+Deaths;Liberia 2;31/07/2015;2
+Deaths;Mali;31/07/2015;6
+Cases;Mali;31/07/2015;8
+Cases;Nigeria;31/07/2015;20
+Deaths;Nigeria;31/07/2015;8
+Deaths;Sierra Leone;31/07/2015;3951
+Cases;Sierra Leone;31/07/2015;13387
+Cases;Spain;31/07/2015;1
+Deaths;Spain;31/07/2015;0
+Deaths;United Kingdom;31/07/2015;0
+Cases;United Kingdom;31/07/2015;1
+Cases;United States of America;31/07/2015;4
+Deaths;United States of America;31/07/2015;1
+Deaths;Senegal;31/07/2015;0
+Cases;Senegal;3/08/2015;1
+Deaths;Guinea;3/08/2015;2522
+Cases;Guinea;3/08/2015;3786
+Deaths;Italy;3/08/2015;0
+Cases;Italy;3/08/2015;1
+Cases;Liberia;3/08/2015;10666
+Deaths;Liberia;3/08/2015;4806
+Deaths;Liberia 2;3/08/2015;2
+Cases;Liberia 2;3/08/2015;6
+Deaths;Mali;3/08/2015;6
+Cases;Mali;3/08/2015;8
+Cases;Nigeria;3/08/2015;20
+Deaths;Nigeria;3/08/2015;8
+Cases;Sierra Leone;3/08/2015;13402
+Deaths;Sierra Leone;3/08/2015;3951
+Cases;Spain;3/08/2015;1
+Deaths;Spain;3/08/2015;0
+Deaths;United Kingdom;3/08/2015;0
+Cases;United Kingdom;3/08/2015;1
+Cases;United States of America;3/08/2015;4
+Deaths;United States of America;3/08/2015;1
+Deaths;Senegal;3/08/2015;0
+Cases;Senegal;4/08/2015;1
+Deaths;Guinea;4/08/2015;2522
+Cases;Guinea;4/08/2015;3784
+Deaths;Italy;4/08/2015;0
+Cases;Italy;4/08/2015;1
+Deaths;Liberia;4/08/2015;4806
+Cases;Liberia;4/08/2015;10666
+Deaths;Liberia 2;4/08/2015;2
+Cases;Liberia 2;4/08/2015;6
+Deaths;Mali;4/08/2015;6
+Cases;Mali;4/08/2015;8
+Cases;Nigeria;4/08/2015;20
+Deaths;Nigeria;4/08/2015;8
+Deaths;Sierra Leone;4/08/2015;3951
+Cases;Sierra Leone;4/08/2015;13406
+Cases;Spain;4/08/2015;1
+Deaths;Spain;4/08/2015;0
+Deaths;United Kingdom;4/08/2015;0
+Cases;United Kingdom;4/08/2015;1
+Cases;United States of America;4/08/2015;4
+Deaths;United States of America;4/08/2015;1
+Deaths;Senegal;4/08/2015;0
+Cases;Senegal;5/08/2015;1
+Deaths;Guinea;5/08/2015;2522
+Cases;Guinea;5/08/2015;3784
+Deaths;Italy;5/08/2015;0
+Cases;Italy;5/08/2015;1
+Deaths;Liberia;5/08/2015;4806
+Cases;Liberia;5/08/2015;10666
+Cases;Liberia 2;5/08/2015;6
+Deaths;Liberia 2;5/08/2015;2
+Deaths;Mali;5/08/2015;6
+Cases;Mali;5/08/2015;8
+Cases;Nigeria;5/08/2015;20
+Deaths;Nigeria;5/08/2015;8
+Cases;Sierra Leone;5/08/2015;13406
+Deaths;Sierra Leone;5/08/2015;3951
+Cases;Spain;5/08/2015;1
+Deaths;Spain;5/08/2015;0
+Deaths;United Kingdom;5/08/2015;0
+Cases;United Kingdom;5/08/2015;1
+Cases;United States of America;5/08/2015;4
+Deaths;United States of America;5/08/2015;1
+Deaths;Senegal;5/08/2015;0
+Cases;Senegal;6/08/2015;1
+Deaths;Guinea;6/08/2015;2524
+Cases;Guinea;6/08/2015;3792
+Deaths;Italy;6/08/2015;0
+Cases;Italy;6/08/2015;1
+Deaths;Liberia;6/08/2015;4806
+Cases;Liberia;6/08/2015;10666
+Deaths;Liberia 2;6/08/2015;2
+Cases;Liberia 2;6/08/2015;6
+Deaths;Mali;6/08/2015;6
+Cases;Mali;6/08/2015;8
+Cases;Nigeria;6/08/2015;20
+Deaths;Nigeria;6/08/2015;8
+Deaths;Sierra Leone;6/08/2015;3951
+Cases;Sierra Leone;6/08/2015;13426
+Cases;Spain;6/08/2015;1
+Deaths;Spain;6/08/2015;0
+Deaths;United Kingdom;6/08/2015;0
+Cases;United Kingdom;6/08/2015;1
+Cases;United States of America;6/08/2015;4
+Deaths;United States of America;6/08/2015;1
+Deaths;Senegal;6/08/2015;0
+Cases;Senegal;7/08/2015;1
+Cases;Guinea;7/08/2015;3795
+Deaths;Guinea;7/08/2015;2524
+Deaths;Italy;7/08/2015;0
+Cases;Italy;7/08/2015;1
+Cases;Liberia;7/08/2015;10666
+Deaths;Liberia;7/08/2015;4806
+Cases;Liberia 2;7/08/2015;6
+Deaths;Liberia 2;7/08/2015;2
+Deaths;Mali;7/08/2015;6
+Cases;Mali;7/08/2015;8
+Cases;Nigeria;7/08/2015;20
+Deaths;Nigeria;7/08/2015;8
+Cases;Sierra Leone;7/08/2015;13428
+Deaths;Sierra Leone;7/08/2015;3951
+Cases;Spain;7/08/2015;1
+Deaths;Spain;7/08/2015;0
+Deaths;United Kingdom;7/08/2015;0
+Cases;United Kingdom;7/08/2015;1
+Cases;United States of America;7/08/2015;4
+Deaths;United States of America;7/08/2015;1
+Deaths;Senegal;7/08/2015;0
+Cases;Senegal;10/08/2015;1
+Deaths;Guinea;10/08/2015;2524
+Cases;Guinea;10/08/2015;3791
+Deaths;Italy;10/08/2015;0
+Cases;Italy;10/08/2015;1
+Cases;Liberia;10/08/2015;10666
+Deaths;Liberia;10/08/2015;4806
+Deaths;Liberia 2;10/08/2015;2
+Cases;Liberia 2;10/08/2015;6
+Deaths;Mali;10/08/2015;6
+Cases;Mali;10/08/2015;8
+Cases;Nigeria;10/08/2015;20
+Deaths;Nigeria;10/08/2015;8
+Cases;Sierra Leone;10/08/2015;13465
+Deaths;Sierra Leone;10/08/2015;3951
+Cases;Spain;10/08/2015;1
+Deaths;Spain;10/08/2015;0
+Deaths;United Kingdom;10/08/2015;0
+Cases;United Kingdom;10/08/2015;1
+Cases;United States of America;10/08/2015;4
+Deaths;United States of America;10/08/2015;1
+Deaths;Senegal;10/08/2015;0
+Cases;Senegal;11/08/2015;1
+Cases;Guinea;11/08/2015;3787
+Deaths;Guinea;11/08/2015;2524
+Deaths;Italy;11/08/2015;0
+Cases;Italy;11/08/2015;1
+Deaths;Liberia;11/08/2015;4806
+Cases;Liberia;11/08/2015;10666
+Cases;Liberia 2;11/08/2015;6
+Deaths;Liberia 2;11/08/2015;2
+Deaths;Mali;11/08/2015;6
+Cases;Mali;11/08/2015;8
+Cases;Nigeria;11/08/2015;20
+Deaths;Nigeria;11/08/2015;8
+Deaths;Sierra Leone;11/08/2015;3951
+Cases;Sierra Leone;11/08/2015;13470
+Cases;Spain;11/08/2015;1
+Deaths;Spain;11/08/2015;0
+Deaths;United Kingdom;11/08/2015;0
+Cases;United Kingdom;11/08/2015;1
+Cases;United States of America;11/08/2015;4
+Deaths;United States of America;11/08/2015;1
+Deaths;Senegal;11/08/2015;0
+Cases;Senegal;12/08/2015;1
+Deaths;Guinea;12/08/2015;2524
+Cases;Guinea;12/08/2015;3787
+Deaths;Italy;12/08/2015;0
+Cases;Italy;12/08/2015;1
+Cases;Liberia;12/08/2015;10666
+Deaths;Liberia;12/08/2015;4806
+Deaths;Liberia 2;12/08/2015;2
+Cases;Liberia 2;12/08/2015;6
+Deaths;Mali;12/08/2015;6
+Cases;Mali;12/08/2015;8
+Cases;Nigeria;12/08/2015;20
+Deaths;Nigeria;12/08/2015;8
+Deaths;Sierra Leone;12/08/2015;3951
+Cases;Sierra Leone;12/08/2015;13470
+Cases;Spain;12/08/2015;1
+Deaths;Spain;12/08/2015;0
+Deaths;United Kingdom;12/08/2015;0
+Cases;United Kingdom;12/08/2015;1
+Cases;United States of America;12/08/2015;4
+Deaths;United States of America;12/08/2015;1
+Deaths;Senegal;12/08/2015;0
+Cases;Senegal;13/08/2015;1
+Deaths;Guinea;13/08/2015;2524
+Cases;Guinea;13/08/2015;3792
+Deaths;Italy;13/08/2015;0
+Cases;Italy;13/08/2015;1
+Deaths;Liberia;13/08/2015;4806
+Cases;Liberia;13/08/2015;10666
+Deaths;Liberia 2;13/08/2015;2
+Cases;Liberia 2;13/08/2015;6
+Deaths;Mali;13/08/2015;6
+Cases;Mali;13/08/2015;8
+Cases;Nigeria;13/08/2015;20
+Deaths;Nigeria;13/08/2015;8
+Deaths;Sierra Leone;13/08/2015;3951
+Cases;Sierra Leone;13/08/2015;13484
+Cases;Spain;13/08/2015;1
+Deaths;Spain;13/08/2015;0
+Deaths;United Kingdom;13/08/2015;0
+Cases;United Kingdom;13/08/2015;1
+Cases;United States of America;13/08/2015;4
+Deaths;United States of America;13/08/2015;1
+Deaths;Senegal;13/08/2015;0
+Cases;Senegal;14/08/2015;1
+Cases;Guinea;14/08/2015;3791
+Deaths;Guinea;14/08/2015;2524
+Deaths;Italy;14/08/2015;0
+Cases;Italy;14/08/2015;1
+Deaths;Liberia;14/08/2015;4806
+Cases;Liberia;14/08/2015;10666
+Cases;Liberia 2;14/08/2015;6
+Deaths;Liberia 2;14/08/2015;2
+Deaths;Mali;14/08/2015;6
+Cases;Mali;14/08/2015;8
+Cases;Nigeria;14/08/2015;20
+Deaths;Nigeria;14/08/2015;8
+Deaths;Sierra Leone;14/08/2015;3952
+Cases;Sierra Leone;14/08/2015;13485
+Cases;Spain;14/08/2015;1
+Deaths;Spain;14/08/2015;0
+Deaths;United Kingdom;14/08/2015;0
+Cases;United Kingdom;14/08/2015;1
+Cases;United States of America;14/08/2015;4
+Deaths;United States of America;14/08/2015;1
+Deaths;Senegal;14/08/2015;0
+Cases;Senegal;17/08/2015;1
+Deaths;Guinea;17/08/2015;2524
+Cases;Guinea;17/08/2015;3790
+Deaths;Italy;17/08/2015;0
+Cases;Italy;17/08/2015;1
+Deaths;Liberia;17/08/2015;4806
+Cases;Liberia;17/08/2015;10666
+Cases;Liberia 2;17/08/2015;6
+Deaths;Liberia 2;17/08/2015;2
+Deaths;Mali;17/08/2015;6
+Cases;Mali;17/08/2015;8
+Cases;Nigeria;17/08/2015;20
+Deaths;Nigeria;17/08/2015;8
+Deaths;Sierra Leone;17/08/2015;3952
+Cases;Sierra Leone;17/08/2015;13489
+Cases;Spain;17/08/2015;1
+Deaths;Spain;17/08/2015;0
+Deaths;United Kingdom;17/08/2015;0
+Cases;United Kingdom;17/08/2015;1
+Cases;United States of America;17/08/2015;4
+Deaths;United States of America;17/08/2015;1
+Deaths;Senegal;17/08/2015;0
+Cases;Senegal;18/08/2015;1
+Cases;Guinea;18/08/2015;3786
+Deaths;Guinea;18/08/2015;2524
+Deaths;Italy;18/08/2015;0
+Cases;Italy;18/08/2015;1
+Cases;Liberia;18/08/2015;10666
+Deaths;Liberia;18/08/2015;4806
+Cases;Liberia 2;18/08/2015;6
+Deaths;Liberia 2;18/08/2015;2
+Deaths;Mali;18/08/2015;6
+Cases;Mali;18/08/2015;8
+Cases;Nigeria;18/08/2015;20
+Deaths;Nigeria;18/08/2015;8
+Cases;Sierra Leone;18/08/2015;13494
+Deaths;Sierra Leone;18/08/2015;3952
+Cases;Spain;18/08/2015;1
+Deaths;Spain;18/08/2015;0
+Deaths;United Kingdom;18/08/2015;0
+Cases;United Kingdom;18/08/2015;1
+Cases;United States of America;18/08/2015;4
+Deaths;United States of America;18/08/2015;1
+Deaths;Senegal;18/08/2015;0
+Cases;Senegal;19/08/2015;1
+Cases;Guinea;19/08/2015;3786
+Deaths;Guinea;19/08/2015;2524
+Deaths;Italy;19/08/2015;0
+Cases;Italy;19/08/2015;1
+Cases;Liberia;19/08/2015;10666
+Deaths;Liberia;19/08/2015;4806
+Deaths;Liberia 2;19/08/2015;2
+Cases;Liberia 2;19/08/2015;6
+Deaths;Mali;19/08/2015;6
+Cases;Mali;19/08/2015;8
+Cases;Nigeria;19/08/2015;20
+Deaths;Nigeria;19/08/2015;8
+Deaths;Sierra Leone;19/08/2015;3952
+Cases;Sierra Leone;19/08/2015;13494
+Cases;Spain;19/08/2015;1
+Deaths;Spain;19/08/2015;0
+Deaths;United Kingdom;19/08/2015;0
+Cases;United Kingdom;19/08/2015;1
+Cases;United States of America;19/08/2015;4
+Deaths;United States of America;19/08/2015;1
+Deaths;Senegal;19/08/2015;0
+Cases;Senegal;20/08/2015;1
+Deaths;Guinea;20/08/2015;2526
+Cases;Guinea;20/08/2015;3792
+Deaths;Italy;20/08/2015;0
+Cases;Italy;20/08/2015;1
+Cases;Liberia;20/08/2015;10666
+Deaths;Liberia;20/08/2015;4806
+Deaths;Liberia 2;20/08/2015;2
+Cases;Liberia 2;20/08/2015;6
+Deaths;Mali;20/08/2015;6
+Cases;Mali;20/08/2015;8
+Cases;Nigeria;20/08/2015;20
+Deaths;Nigeria;20/08/2015;8
+Cases;Sierra Leone;20/08/2015;13518
+Deaths;Sierra Leone;20/08/2015;3952
+Cases;Spain;20/08/2015;1
+Deaths;Spain;20/08/2015;0
+Deaths;United Kingdom;20/08/2015;0
+Cases;United Kingdom;20/08/2015;1
+Cases;United States of America;20/08/2015;4
+Deaths;United States of America;20/08/2015;1
+Deaths;Senegal;20/08/2015;0
+Cases;Senegal;21/08/2015;1
+Cases;Guinea;21/08/2015;3795
+Deaths;Guinea;21/08/2015;2526
+Deaths;Italy;21/08/2015;0
+Cases;Italy;21/08/2015;1
+Deaths;Liberia;21/08/2015;4806
+Cases;Liberia;21/08/2015;10666
+Cases;Liberia 2;21/08/2015;6
+Deaths;Liberia 2;21/08/2015;2
+Deaths;Mali;21/08/2015;6
+Cases;Mali;21/08/2015;8
+Cases;Nigeria;21/08/2015;20
+Deaths;Nigeria;21/08/2015;8
+Deaths;Sierra Leone;21/08/2015;3952
+Cases;Sierra Leone;21/08/2015;13533
+Cases;Spain;21/08/2015;1
+Deaths;Spain;21/08/2015;0
+Deaths;United Kingdom;21/08/2015;0
+Cases;United Kingdom;21/08/2015;1
+Cases;United States of America;21/08/2015;4
+Deaths;United States of America;21/08/2015;1
+Deaths;Senegal;21/08/2015;0
+Cases;Senegal;24/08/2015;1
+Deaths;Guinea;24/08/2015;2527
+Cases;Guinea;24/08/2015;3790
+Deaths;Italy;24/08/2015;0
+Cases;Italy;24/08/2015;1
+Cases;Liberia;24/08/2015;10666
+Deaths;Liberia;24/08/2015;4806
+Cases;Liberia 2;24/08/2015;6
+Deaths;Liberia 2;24/08/2015;2
+Deaths;Mali;24/08/2015;6
+Cases;Mali;24/08/2015;8
+Cases;Nigeria;24/08/2015;20
+Deaths;Nigeria;24/08/2015;8
+Cases;Sierra Leone;24/08/2015;13538
+Deaths;Sierra Leone;24/08/2015;3952
+Cases;Spain;24/08/2015;1
+Deaths;Spain;24/08/2015;0
+Deaths;United Kingdom;24/08/2015;0
+Cases;United Kingdom;24/08/2015;1
+Cases;United States of America;24/08/2015;4
+Deaths;United States of America;24/08/2015;1
+Deaths;Senegal;24/08/2015;0
+Cases;Senegal;25/08/2015;1
+Deaths;Guinea;25/08/2015;2527
+Cases;Guinea;25/08/2015;3792
+Deaths;Italy;25/08/2015;0
+Cases;Italy;25/08/2015;1
+Deaths;Liberia;25/08/2015;4806
+Cases;Liberia;25/08/2015;10666
+Cases;Liberia 2;25/08/2015;6
+Deaths;Liberia 2;25/08/2015;2
+Deaths;Mali;25/08/2015;6
+Cases;Mali;25/08/2015;8
+Cases;Nigeria;25/08/2015;20
+Deaths;Nigeria;25/08/2015;8
+Deaths;Sierra Leone;25/08/2015;3952
+Cases;Sierra Leone;25/08/2015;13541
+Cases;Spain;25/08/2015;1
+Deaths;Spain;25/08/2015;0
+Deaths;United Kingdom;25/08/2015;0
+Cases;United Kingdom;25/08/2015;1
+Cases;United States of America;25/08/2015;4
+Deaths;United States of America;25/08/2015;1
+Deaths;Senegal;25/08/2015;0
+Cases;Senegal;26/08/2015;1
+Deaths;Guinea;26/08/2015;2527
+Cases;Guinea;26/08/2015;3792
+Deaths;Italy;26/08/2015;0
+Cases;Italy;26/08/2015;1
+Cases;Liberia;26/08/2015;10666
+Deaths;Liberia;26/08/2015;4806
+Cases;Liberia 2;26/08/2015;6
+Deaths;Liberia 2;26/08/2015;2
+Deaths;Mali;26/08/2015;6
+Cases;Mali;26/08/2015;8
+Cases;Nigeria;26/08/2015;20
+Deaths;Nigeria;26/08/2015;8
+Deaths;Sierra Leone;26/08/2015;3952
+Cases;Sierra Leone;26/08/2015;13541
+Cases;Spain;26/08/2015;1
+Deaths;Spain;26/08/2015;0
+Deaths;United Kingdom;26/08/2015;0
+Cases;United Kingdom;26/08/2015;1
+Cases;United States of America;26/08/2015;4
+Deaths;United States of America;26/08/2015;1
+Deaths;Senegal;26/08/2015;0
+Cases;Senegal;27/08/2015;1
+Deaths;Guinea;27/08/2015;2528
+Cases;Guinea;27/08/2015;3797
+Deaths;Italy;27/08/2015;0
+Cases;Italy;27/08/2015;1
+Cases;Liberia;27/08/2015;10666
+Deaths;Liberia;27/08/2015;4806
+Deaths;Liberia 2;27/08/2015;2
+Cases;Liberia 2;27/08/2015;6
+Deaths;Mali;27/08/2015;6
+Cases;Mali;27/08/2015;8
+Cases;Nigeria;27/08/2015;20
+Deaths;Nigeria;27/08/2015;8
+Cases;Sierra Leone;27/08/2015;13582
+Deaths;Sierra Leone;27/08/2015;3952
+Cases;Spain;27/08/2015;1
+Deaths;Spain;27/08/2015;0
+Deaths;United Kingdom;27/08/2015;0
+Cases;United Kingdom;27/08/2015;1
+Cases;United States of America;27/08/2015;4
+Deaths;United States of America;27/08/2015;1
+Deaths;Senegal;27/08/2015;0
+Cases;Senegal;28/08/2015;1
+Deaths;Guinea;28/08/2015;2528
+Cases;Guinea;28/08/2015;3797
+Deaths;Italy;28/08/2015;0
+Cases;Italy;28/08/2015;1
+Cases;Liberia;28/08/2015;10666
+Deaths;Liberia;28/08/2015;4806
+Deaths;Liberia 2;28/08/2015;2
+Cases;Liberia 2;28/08/2015;6
+Deaths;Mali;28/08/2015;6
+Cases;Mali;28/08/2015;8
+Cases;Nigeria;28/08/2015;20
+Deaths;Nigeria;28/08/2015;8
+Deaths;Sierra Leone;28/08/2015;3952
+Cases;Sierra Leone;28/08/2015;13586
+Cases;Spain;28/08/2015;1
+Deaths;Spain;28/08/2015;0
+Deaths;United Kingdom;28/08/2015;0
+Cases;United Kingdom;28/08/2015;1
+Cases;United States of America;28/08/2015;4
+Deaths;United States of America;28/08/2015;1
+Deaths;Senegal;28/08/2015;0
+Cases;Senegal;31/08/2015;1
+Cases;Guinea;31/08/2015;3790
+Deaths;Guinea;31/08/2015;2528
+Deaths;Italy;31/08/2015;0
+Cases;Italy;31/08/2015;1
+Cases;Liberia;31/08/2015;10666
+Deaths;Liberia;31/08/2015;4806
+Cases;Liberia 2;31/08/2015;6
+Deaths;Liberia 2;31/08/2015;2
+Deaths;Mali;31/08/2015;6
+Cases;Mali;31/08/2015;8
+Cases;Nigeria;31/08/2015;20
+Deaths;Nigeria;31/08/2015;8
+Cases;Sierra Leone;31/08/2015;13603
+Deaths;Sierra Leone;31/08/2015;3953
+Cases;Spain;31/08/2015;1
+Deaths;Spain;31/08/2015;0
+Deaths;United Kingdom;31/08/2015;0
+Cases;United Kingdom;31/08/2015;1
+Cases;United States of America;31/08/2015;4
+Deaths;United States of America;31/08/2015;1
+Deaths;Senegal;31/08/2015;0
+Cases;Senegal;1/09/2015;1
+Cases;Guinea;1/09/2015;3792
+Deaths;Guinea;1/09/2015;2529
+Deaths;Italy;1/09/2015;0
+Cases;Italy;1/09/2015;1
+Cases;Liberia;1/09/2015;10666
+Deaths;Liberia;1/09/2015;4806
+Cases;Liberia 2;1/09/2015;6
+Deaths;Liberia 2;1/09/2015;2
+Deaths;Mali;1/09/2015;6
+Cases;Mali;1/09/2015;8
+Cases;Nigeria;1/09/2015;20
+Deaths;Nigeria;1/09/2015;8
+Cases;Sierra Leone;1/09/2015;13609
+Deaths;Sierra Leone;1/09/2015;3953
+Cases;Spain;1/09/2015;1
+Deaths;Spain;1/09/2015;0
+Deaths;United Kingdom;1/09/2015;0
+Cases;United Kingdom;1/09/2015;1
+Cases;United States of America;1/09/2015;4
+Deaths;United States of America;1/09/2015;1
+Deaths;Senegal;1/09/2015;0
+Cases;Senegal;2/09/2015;1
+Cases;Guinea;2/09/2015;3792
+Deaths;Guinea;2/09/2015;2529
+Deaths;Italy;2/09/2015;0
+Cases;Italy;2/09/2015;1
+Cases;Liberia;2/09/2015;10666
+Deaths;Liberia;2/09/2015;4806
+Deaths;Liberia 2;2/09/2015;2
+Cases;Liberia 2;2/09/2015;6
+Deaths;Mali;2/09/2015;6
+Cases;Mali;2/09/2015;8
+Cases;Nigeria;2/09/2015;20
+Deaths;Nigeria;2/09/2015;8
+Deaths;Sierra Leone;2/09/2015;3953
+Cases;Sierra Leone;2/09/2015;13609
+Cases;Spain;2/09/2015;1
+Deaths;Spain;2/09/2015;0
+Deaths;United Kingdom;2/09/2015;0
+Cases;United Kingdom;2/09/2015;1
+Cases;United States of America;2/09/2015;4
+Deaths;United States of America;2/09/2015;1
+Deaths;Senegal;2/09/2015;0
+Cases;Senegal;3/09/2015;1
+Cases;Guinea;3/09/2015;3792
+Deaths;Guinea;3/09/2015;2529
+Deaths;Italy;3/09/2015;0
+Cases;Italy;3/09/2015;1
+Cases;Liberia;3/09/2015;10666
+Deaths;Liberia;3/09/2015;4806
+Cases;Liberia 2;3/09/2015;6
+Deaths;Liberia 2;3/09/2015;2
+Deaths;Mali;3/09/2015;6
+Cases;Mali;3/09/2015;8
+Cases;Nigeria;3/09/2015;20
+Deaths;Nigeria;3/09/2015;8
+Cases;Sierra Leone;3/09/2015;13638
+Deaths;Sierra Leone;3/09/2015;3953
+Cases;Spain;3/09/2015;1
+Deaths;Spain;3/09/2015;0
+Deaths;United Kingdom;3/09/2015;0
+Cases;United Kingdom;3/09/2015;1
+Cases;United States of America;3/09/2015;4
+Deaths;United States of America;3/09/2015;1
+Deaths;Senegal;3/09/2015;0
+Cases;Senegal;4/09/2015;1
+Deaths;Guinea;4/09/2015;2529
+Cases;Guinea;4/09/2015;3792
+Deaths;Italy;4/09/2015;0
+Cases;Italy;4/09/2015;1
+Cases;Liberia;4/09/2015;10666
+Deaths;Liberia;4/09/2015;4806
+Cases;Liberia 2;4/09/2015;6
+Deaths;Liberia 2;4/09/2015;2
+Deaths;Mali;4/09/2015;6
+Cases;Mali;4/09/2015;8
+Cases;Nigeria;4/09/2015;20
+Deaths;Nigeria;4/09/2015;8
+Cases;Sierra Leone;4/09/2015;13639
+Deaths;Sierra Leone;4/09/2015;3953
+Cases;Spain;4/09/2015;1
+Deaths;Spain;4/09/2015;0
+Deaths;United Kingdom;4/09/2015;0
+Cases;United Kingdom;4/09/2015;1
+Cases;United States of America;4/09/2015;4
+Deaths;United States of America;4/09/2015;1
+Deaths;Senegal;4/09/2015;0
+Cases;Senegal;7/09/2015;1
+Deaths;Guinea;7/09/2015;2530
+Cases;Guinea;7/09/2015;3793
+Deaths;Italy;7/09/2015;0
+Cases;Italy;7/09/2015;1
+Deaths;Liberia;7/09/2015;4806
+Cases;Liberia;7/09/2015;10666
+Deaths;Liberia 2;7/09/2015;2
+Cases;Liberia 2;7/09/2015;6
+Deaths;Mali;7/09/2015;6
+Cases;Mali;7/09/2015;8
+Cases;Nigeria;7/09/2015;20
+Deaths;Nigeria;7/09/2015;8
+Deaths;Sierra Leone;7/09/2015;3953
+Cases;Sierra Leone;7/09/2015;13670
+Cases;Spain;7/09/2015;1
+Deaths;Spain;7/09/2015;0
+Deaths;United Kingdom;7/09/2015;0
+Cases;United Kingdom;7/09/2015;1
+Cases;United States of America;7/09/2015;4
+Deaths;United States of America;7/09/2015;1
+Deaths;Senegal;7/09/2015;0
+Cases;Senegal;8/09/2015;1
+Cases;Guinea;8/09/2015;3792
+Deaths;Guinea;8/09/2015;2530
+Deaths;Italy;8/09/2015;0
+Cases;Italy;8/09/2015;1
+Deaths;Liberia;8/09/2015;4806
+Cases;Liberia;8/09/2015;10666
+Cases;Liberia 2;8/09/2015;6
+Deaths;Liberia 2;8/09/2015;2
+Deaths;Mali;8/09/2015;6
+Cases;Mali;8/09/2015;8
+Cases;Nigeria;8/09/2015;20
+Deaths;Nigeria;8/09/2015;8
+Deaths;Sierra Leone;8/09/2015;3953
+Cases;Sierra Leone;8/09/2015;13683
+Cases;Spain;8/09/2015;1
+Deaths;Spain;8/09/2015;0
+Deaths;United Kingdom;8/09/2015;0
+Cases;United Kingdom;8/09/2015;1
+Cases;United States of America;8/09/2015;4
+Deaths;United States of America;8/09/2015;1
+Deaths;Senegal;8/09/2015;0
+Cases;Senegal;9/09/2015;1
+Deaths;Guinea;9/09/2015;2530
+Cases;Guinea;9/09/2015;3792
+Deaths;Italy;9/09/2015;0
+Cases;Italy;9/09/2015;1
+Deaths;Liberia;9/09/2015;4806
+Cases;Liberia;9/09/2015;10666
+Cases;Liberia 2;9/09/2015;6
+Deaths;Liberia 2;9/09/2015;2
+Deaths;Mali;9/09/2015;6
+Cases;Mali;9/09/2015;8
+Cases;Nigeria;9/09/2015;20
+Deaths;Nigeria;9/09/2015;8
+Cases;Sierra Leone;9/09/2015;13683
+Deaths;Sierra Leone;9/09/2015;3953
+Cases;Spain;9/09/2015;1
+Deaths;Spain;9/09/2015;0
+Deaths;United Kingdom;9/09/2015;0
+Cases;United Kingdom;9/09/2015;1
+Cases;United States of America;9/09/2015;4
+Deaths;United States of America;9/09/2015;1
+Deaths;Senegal;9/09/2015;0
+Cases;Senegal;10/09/2015;1
+Deaths;Guinea;10/09/2015;2530
+Cases;Guinea;10/09/2015;3791
+Deaths;Italy;10/09/2015;0
+Cases;Italy;10/09/2015;1
+Cases;Liberia;10/09/2015;10666
+Deaths;Liberia;10/09/2015;4806
+Deaths;Liberia 2;10/09/2015;2
+Cases;Liberia 2;10/09/2015;6
+Deaths;Mali;10/09/2015;6
+Cases;Mali;10/09/2015;8
+Cases;Nigeria;10/09/2015;20
+Deaths;Nigeria;10/09/2015;8
+Cases;Sierra Leone;10/09/2015;13697
+Deaths;Sierra Leone;10/09/2015;3953
+Cases;Spain;10/09/2015;1
+Deaths;Spain;10/09/2015;0
+Deaths;United Kingdom;10/09/2015;0
+Cases;United Kingdom;10/09/2015;1
+Cases;United States of America;10/09/2015;4
+Deaths;United States of America;10/09/2015;1
+Deaths;Senegal;10/09/2015;0
+Cases;Senegal;11/09/2015;1
+Deaths;Guinea;11/09/2015;2530
+Cases;Guinea;11/09/2015;3791
+Deaths;Italy;11/09/2015;0
+Cases;Italy;11/09/2015;1
+Cases;Liberia;11/09/2015;10666
+Deaths;Liberia;11/09/2015;4806
+Cases;Liberia 2;11/09/2015;6
+Deaths;Liberia 2;11/09/2015;2
+Deaths;Mali;11/09/2015;6
+Cases;Mali;11/09/2015;8
+Cases;Nigeria;11/09/2015;20
+Deaths;Nigeria;11/09/2015;8
+Deaths;Sierra Leone;11/09/2015;3953
+Cases;Sierra Leone;11/09/2015;13701
+Cases;Spain;11/09/2015;1
+Deaths;Spain;11/09/2015;0
+Deaths;United Kingdom;11/09/2015;0
+Cases;United Kingdom;11/09/2015;1
+Cases;United States of America;11/09/2015;4
+Deaths;United States of America;11/09/2015;1
+Deaths;Senegal;11/09/2015;0
+Cases;Senegal;14/09/2015;1
+Cases;Guinea;14/09/2015;3793
+Deaths;Guinea;14/09/2015;2530
+Deaths;Italy;14/09/2015;0
+Cases;Italy;14/09/2015;1
+Deaths;Liberia;14/09/2015;4806
+Cases;Liberia;14/09/2015;10666
+Cases;Liberia 2;14/09/2015;6
+Deaths;Liberia 2;14/09/2015;2
+Deaths;Mali;14/09/2015;6
+Cases;Mali;14/09/2015;8
+Cases;Nigeria;14/09/2015;20
+Deaths;Nigeria;14/09/2015;8
+Deaths;Sierra Leone;14/09/2015;3953
+Cases;Sierra Leone;14/09/2015;13747
+Cases;Spain;14/09/2015;1
+Deaths;Spain;14/09/2015;0
+Deaths;United Kingdom;14/09/2015;0
+Cases;United Kingdom;14/09/2015;1
+Cases;United States of America;14/09/2015;4
+Deaths;United States of America;14/09/2015;1
+Deaths;Senegal;14/09/2015;0
+Cases;Senegal;15/09/2015;1
+Deaths;Guinea;15/09/2015;2530
+Cases;Guinea;15/09/2015;3792
+Deaths;Italy;15/09/2015;0
+Cases;Italy;15/09/2015;1
+Deaths;Liberia;15/09/2015;4806
+Cases;Liberia;15/09/2015;10666
+Deaths;Liberia 2;15/09/2015;2
+Cases;Liberia 2;15/09/2015;6
+Deaths;Mali;15/09/2015;6
+Cases;Mali;15/09/2015;8
+Cases;Nigeria;15/09/2015;20
+Deaths;Nigeria;15/09/2015;8
+Deaths;Sierra Leone;15/09/2015;3953
+Cases;Sierra Leone;15/09/2015;13756
+Cases;Spain;15/09/2015;1
+Deaths;Spain;15/09/2015;0
+Deaths;United Kingdom;15/09/2015;0
+Cases;United Kingdom;15/09/2015;1
+Cases;United States of America;15/09/2015;4
+Deaths;United States of America;15/09/2015;1
+Deaths;Senegal;15/09/2015;0
+Cases;Senegal;16/09/2015;1
+Cases;Guinea;16/09/2015;3792
+Deaths;Guinea;16/09/2015;2530
+Deaths;Italy;16/09/2015;0
+Cases;Italy;16/09/2015;1
+Deaths;Liberia;16/09/2015;4806
+Cases;Liberia;16/09/2015;10666
+Cases;Liberia 2;16/09/2015;6
+Deaths;Liberia 2;16/09/2015;2
+Deaths;Mali;16/09/2015;6
+Cases;Mali;16/09/2015;8
+Cases;Nigeria;16/09/2015;20
+Deaths;Nigeria;16/09/2015;8
+Cases;Sierra Leone;16/09/2015;13756
+Deaths;Sierra Leone;16/09/2015;3953
+Cases;Spain;16/09/2015;1
+Deaths;Spain;16/09/2015;0
+Deaths;United Kingdom;16/09/2015;0
+Cases;United Kingdom;16/09/2015;1
+Cases;United States of America;16/09/2015;4
+Deaths;United States of America;16/09/2015;1
+Deaths;Senegal;16/09/2015;0
+Cases;Senegal;17/09/2015;1
+Deaths;Guinea;17/09/2015;2530
+Cases;Guinea;17/09/2015;3794
+Deaths;Italy;17/09/2015;0
+Cases;Italy;17/09/2015;1
+Cases;Liberia;17/09/2015;10666
+Deaths;Liberia;17/09/2015;4806
+Cases;Liberia 2;17/09/2015;6
+Deaths;Liberia 2;17/09/2015;2
+Deaths;Mali;17/09/2015;6
+Cases;Mali;17/09/2015;8
+Cases;Nigeria;17/09/2015;20
+Deaths;Nigeria;17/09/2015;8
+Deaths;Sierra Leone;17/09/2015;3955
+Cases;Sierra Leone;17/09/2015;13779
+Cases;Spain;17/09/2015;1
+Deaths;Spain;17/09/2015;0
+Deaths;United Kingdom;17/09/2015;0
+Cases;United Kingdom;17/09/2015;1
+Cases;United States of America;17/09/2015;4
+Deaths;United States of America;17/09/2015;1
+Deaths;Senegal;17/09/2015;0
+Cases;Senegal;18/09/2015;1
+Cases;Guinea;18/09/2015;3794
+Deaths;Guinea;18/09/2015;2531
+Deaths;Italy;18/09/2015;0
+Cases;Italy;18/09/2015;1
+Cases;Liberia;18/09/2015;10666
+Deaths;Liberia;18/09/2015;4806
+Cases;Liberia 2;18/09/2015;6
+Deaths;Liberia 2;18/09/2015;2
+Deaths;Mali;18/09/2015;6
+Cases;Mali;18/09/2015;8
+Cases;Nigeria;18/09/2015;20
+Deaths;Nigeria;18/09/2015;8
+Cases;Sierra Leone;18/09/2015;13785
+Deaths;Sierra Leone;18/09/2015;3955
+Cases;Spain;18/09/2015;1
+Deaths;Spain;18/09/2015;0
+Deaths;United Kingdom;18/09/2015;0
+Cases;United Kingdom;18/09/2015;1
+Cases;United States of America;18/09/2015;4
+Deaths;United States of America;18/09/2015;1
+Deaths;Senegal;18/09/2015;0
+Cases;Senegal;21/09/2015;1
+Cases;Guinea;21/09/2015;3797
+Deaths;Guinea;21/09/2015;2532
+Deaths;Italy;21/09/2015;0
+Cases;Italy;21/09/2015;1
+Deaths;Liberia;21/09/2015;4806
+Cases;Liberia;21/09/2015;10666
+Cases;Liberia 2;21/09/2015;6
+Deaths;Liberia 2;21/09/2015;2
+Deaths;Mali;21/09/2015;6
+Cases;Mali;21/09/2015;8
+Cases;Nigeria;21/09/2015;20
+Deaths;Nigeria;21/09/2015;8
+Deaths;Sierra Leone;21/09/2015;3955
+Cases;Sierra Leone;21/09/2015;13811
+Cases;Spain;21/09/2015;1
+Deaths;Spain;21/09/2015;0
+Deaths;United Kingdom;21/09/2015;0
+Cases;United Kingdom;21/09/2015;1
+Cases;United States of America;21/09/2015;4
+Deaths;United States of America;21/09/2015;1
+Deaths;Senegal;21/09/2015;0
+Cases;Senegal;22/09/2015;1
+Deaths;Guinea;22/09/2015;2532
+Cases;Guinea;22/09/2015;3800
+Deaths;Italy;22/09/2015;0
+Cases;Italy;22/09/2015;1
+Deaths;Liberia;22/09/2015;4806
+Cases;Liberia;22/09/2015;10666
+Deaths;Liberia 2;22/09/2015;2
+Cases;Liberia 2;22/09/2015;6
+Deaths;Mali;22/09/2015;6
+Cases;Mali;22/09/2015;8
+Cases;Nigeria;22/09/2015;20
+Deaths;Nigeria;22/09/2015;8
+Deaths;Sierra Leone;22/09/2015;3955
+Cases;Sierra Leone;22/09/2015;13823
+Cases;Spain;22/09/2015;1
+Deaths;Spain;22/09/2015;0
+Deaths;United Kingdom;22/09/2015;0
+Cases;United Kingdom;22/09/2015;1
+Cases;United States of America;22/09/2015;4
+Deaths;United States of America;22/09/2015;1
+Deaths;Senegal;22/09/2015;0
+Cases;Senegal;23/09/2015;1
+Deaths;Guinea;23/09/2015;2532
+Cases;Guinea;23/09/2015;3800
+Deaths;Italy;23/09/2015;0
+Cases;Italy;23/09/2015;1
+Cases;Liberia;23/09/2015;10666
+Deaths;Liberia;23/09/2015;4806
+Cases;Liberia 2;23/09/2015;6
+Deaths;Liberia 2;23/09/2015;2
+Deaths;Mali;23/09/2015;6
+Cases;Mali;23/09/2015;8
+Cases;Nigeria;23/09/2015;20
+Deaths;Nigeria;23/09/2015;8
+Deaths;Sierra Leone;23/09/2015;3955
+Cases;Sierra Leone;23/09/2015;13823
+Cases;Spain;23/09/2015;1
+Deaths;Spain;23/09/2015;0
+Deaths;United Kingdom;23/09/2015;0
+Cases;United Kingdom;23/09/2015;1
+Cases;United States of America;23/09/2015;4
+Deaths;United States of America;23/09/2015;1
+Deaths;Senegal;23/09/2015;0
+Cases;Senegal;24/09/2015;1
+Cases;Guinea;24/09/2015;3801
+Deaths;Guinea;24/09/2015;2533
+Deaths;Italy;24/09/2015;0
+Cases;Italy;24/09/2015;1
+Deaths;Liberia;24/09/2015;4806
+Cases;Liberia;24/09/2015;10666
+Cases;Liberia 2;24/09/2015;6
+Deaths;Liberia 2;24/09/2015;2
+Deaths;Mali;24/09/2015;6
+Cases;Mali;24/09/2015;8
+Cases;Nigeria;24/09/2015;20
+Deaths;Nigeria;24/09/2015;8
+Deaths;Sierra Leone;24/09/2015;3955
+Cases;Sierra Leone;24/09/2015;13846
+Cases;Spain;24/09/2015;1
+Deaths;Spain;24/09/2015;0
+Deaths;United Kingdom;24/09/2015;0
+Cases;United Kingdom;24/09/2015;1
+Cases;United States of America;24/09/2015;4
+Deaths;United States of America;24/09/2015;1
+Deaths;Senegal;24/09/2015;0
+Cases;Senegal;25/09/2015;1
+Cases;Guinea;25/09/2015;3797
+Deaths;Guinea;25/09/2015;2533
+Deaths;Italy;25/09/2015;0
+Cases;Italy;25/09/2015;1
+Cases;Liberia;25/09/2015;10666
+Deaths;Liberia;25/09/2015;4806
+Cases;Liberia 2;25/09/2015;6
+Deaths;Liberia 2;25/09/2015;2
+Deaths;Mali;25/09/2015;6
+Cases;Mali;25/09/2015;8
+Cases;Nigeria;25/09/2015;20
+Deaths;Nigeria;25/09/2015;8
+Cases;Sierra Leone;25/09/2015;13855
+Deaths;Sierra Leone;25/09/2015;3955
+Cases;Spain;25/09/2015;1
+Deaths;Spain;25/09/2015;0
+Deaths;United Kingdom;25/09/2015;0
+Cases;United Kingdom;25/09/2015;1
+Cases;United States of America;25/09/2015;4
+Deaths;United States of America;25/09/2015;1
+Deaths;Senegal;25/09/2015;0
+Cases;Senegal;28/09/2015;1
+Deaths;Guinea;28/09/2015;2533
+Cases;Guinea;28/09/2015;3805
+Deaths;Italy;28/09/2015;0
+Cases;Italy;28/09/2015;1
+Cases;Liberia;28/09/2015;10666
+Deaths;Liberia;28/09/2015;4806
+Deaths;Liberia 2;28/09/2015;2
+Cases;Liberia 2;28/09/2015;6
+Deaths;Mali;28/09/2015;6
+Cases;Mali;28/09/2015;8
+Cases;Nigeria;28/09/2015;20
+Deaths;Nigeria;28/09/2015;8
+Cases;Sierra Leone;28/09/2015;13894
+Deaths;Sierra Leone;28/09/2015;3955
+Cases;Spain;28/09/2015;1
+Deaths;Spain;28/09/2015;0
+Deaths;United Kingdom;28/09/2015;0
+Cases;United Kingdom;28/09/2015;1
+Cases;United States of America;28/09/2015;4
+Deaths;United States of America;28/09/2015;1
+Deaths;Senegal;28/09/2015;0
+Cases;Senegal;29/09/2015;1
+Cases;Guinea;29/09/2015;3805
+Deaths;Guinea;29/09/2015;2533
+Deaths;Italy;29/09/2015;0
+Cases;Italy;29/09/2015;1
+Deaths;Liberia;29/09/2015;4806
+Cases;Liberia;29/09/2015;10666
+Cases;Liberia 2;29/09/2015;6
+Deaths;Liberia 2;29/09/2015;2
+Deaths;Mali;29/09/2015;6
+Cases;Mali;29/09/2015;8
+Cases;Nigeria;29/09/2015;20
+Deaths;Nigeria;29/09/2015;8
+Deaths;Sierra Leone;29/09/2015;3955
+Cases;Sierra Leone;29/09/2015;13911
+Cases;Spain;29/09/2015;1
+Deaths;Spain;29/09/2015;0
+Deaths;United Kingdom;29/09/2015;0
+Cases;United Kingdom;29/09/2015;1
+Cases;United States of America;29/09/2015;4
+Deaths;United States of America;29/09/2015;1
+Deaths;Senegal;29/09/2015;0
+Cases;Senegal;30/09/2015;1
+Deaths;Guinea;30/09/2015;2533
+Cases;Guinea;30/09/2015;3805
+Deaths;Italy;30/09/2015;0
+Cases;Italy;30/09/2015;1
+Deaths;Liberia;30/09/2015;4806
+Cases;Liberia;30/09/2015;10666
+Cases;Liberia 2;30/09/2015;6
+Deaths;Liberia 2;30/09/2015;2
+Deaths;Mali;30/09/2015;6
+Cases;Mali;30/09/2015;8
+Cases;Nigeria;30/09/2015;20
+Deaths;Nigeria;30/09/2015;8
+Cases;Sierra Leone;30/09/2015;13911
+Deaths;Sierra Leone;30/09/2015;3955
+Cases;Spain;30/09/2015;1
+Deaths;Spain;30/09/2015;0
+Deaths;United Kingdom;30/09/2015;0
+Cases;United Kingdom;30/09/2015;1
+Cases;United States of America;30/09/2015;4
+Deaths;United States of America;30/09/2015;1
+Deaths;Senegal;30/09/2015;0
+Cases;Senegal;1/10/2015;1
+Cases;Guinea;1/10/2015;3808
+Deaths;Guinea;1/10/2015;2533
+Deaths;Italy;1/10/2015;0
+Cases;Italy;1/10/2015;1
+Deaths;Liberia;1/10/2015;4806
+Cases;Liberia;1/10/2015;10666
+Cases;Liberia 2;1/10/2015;6
+Deaths;Liberia 2;1/10/2015;2
+Deaths;Mali;1/10/2015;6
+Cases;Mali;1/10/2015;8
+Cases;Nigeria;1/10/2015;20
+Deaths;Nigeria;1/10/2015;8
+Cases;Sierra Leone;1/10/2015;13928
+Deaths;Sierra Leone;1/10/2015;3955
+Cases;Spain;1/10/2015;1
+Deaths;Spain;1/10/2015;0
+Deaths;United Kingdom;1/10/2015;0
+Cases;United Kingdom;1/10/2015;1
+Cases;United States of America;1/10/2015;4
+Deaths;United States of America;1/10/2015;1
+Deaths;Senegal;1/10/2015;0
+Cases;Senegal;2/10/2015;1
+Deaths;Guinea;2/10/2015;2533
+Cases;Guinea;2/10/2015;3809
+Deaths;Italy;2/10/2015;0
+Cases;Italy;2/10/2015;1
+Deaths;Liberia;2/10/2015;4806
+Cases;Liberia;2/10/2015;10666
+Deaths;Liberia 2;2/10/2015;2
+Cases;Liberia 2;2/10/2015;6
+Deaths;Mali;2/10/2015;6
+Cases;Mali;2/10/2015;8
+Cases;Nigeria;2/10/2015;20
+Deaths;Nigeria;2/10/2015;8
+Deaths;Sierra Leone;2/10/2015;3955
+Cases;Sierra Leone;2/10/2015;13931
+Cases;Spain;2/10/2015;1
+Deaths;Spain;2/10/2015;0
+Deaths;United Kingdom;2/10/2015;0
+Cases;United Kingdom;2/10/2015;1
+Cases;United States of America;2/10/2015;4
+Deaths;United States of America;2/10/2015;1
+Deaths;Senegal;2/10/2015;0
+Cases;Senegal;5/10/2015;1
+Cases;Guinea;5/10/2015;3804
+Deaths;Guinea;5/10/2015;2534
+Deaths;Italy;5/10/2015;0
+Cases;Italy;5/10/2015;1
+Cases;Liberia;5/10/2015;10666
+Deaths;Liberia;5/10/2015;4806
+Cases;Liberia 2;5/10/2015;6
+Deaths;Liberia 2;5/10/2015;2
+Deaths;Mali;5/10/2015;6
+Cases;Mali;5/10/2015;8
+Cases;Nigeria;5/10/2015;20
+Deaths;Nigeria;5/10/2015;8
+Cases;Sierra Leone;5/10/2015;13941
+Deaths;Sierra Leone;5/10/2015;3955
+Cases;Spain;5/10/2015;1
+Deaths;Spain;5/10/2015;0
+Deaths;United Kingdom;5/10/2015;0
+Cases;United Kingdom;5/10/2015;1
+Cases;United States of America;5/10/2015;4
+Deaths;United States of America;5/10/2015;1
+Deaths;Senegal;5/10/2015;0
+Cases;Senegal;6/10/2015;1
+Cases;Guinea;6/10/2015;3804
+Deaths;Guinea;6/10/2015;2534
+Deaths;Italy;6/10/2015;0
+Cases;Italy;6/10/2015;1
+Cases;Liberia;6/10/2015;10666
+Deaths;Liberia;6/10/2015;4806
+Cases;Liberia 2;6/10/2015;6
+Deaths;Liberia 2;6/10/2015;2
+Deaths;Mali;6/10/2015;6
+Cases;Mali;6/10/2015;8
+Cases;Nigeria;6/10/2015;20
+Deaths;Nigeria;6/10/2015;8
+Cases;Sierra Leone;6/10/2015;13945
+Deaths;Sierra Leone;6/10/2015;3955
+Cases;Spain;6/10/2015;1
+Deaths;Spain;6/10/2015;0
+Deaths;United Kingdom;6/10/2015;0
+Cases;United Kingdom;6/10/2015;1
+Cases;United States of America;6/10/2015;4
+Deaths;United States of America;6/10/2015;1
+Deaths;Senegal;6/10/2015;0
+Cases;Senegal;7/10/2015;1
+Deaths;Guinea;7/10/2015;2534
+Cases;Guinea;7/10/2015;3804
+Deaths;Italy;7/10/2015;0
+Cases;Italy;7/10/2015;1
+Deaths;Liberia;7/10/2015;4806
+Cases;Liberia;7/10/2015;10666
+Cases;Liberia 2;7/10/2015;6
+Deaths;Liberia 2;7/10/2015;2
+Deaths;Mali;7/10/2015;6
+Cases;Mali;7/10/2015;8
+Cases;Nigeria;7/10/2015;20
+Deaths;Nigeria;7/10/2015;8
+Cases;Sierra Leone;7/10/2015;13945
+Deaths;Sierra Leone;7/10/2015;3955
+Cases;Spain;7/10/2015;1
+Deaths;Spain;7/10/2015;0
+Deaths;United Kingdom;7/10/2015;0
+Cases;United Kingdom;7/10/2015;1
+Cases;United States of America;7/10/2015;4
+Deaths;United States of America;7/10/2015;1
+Deaths;Senegal;7/10/2015;0
+Cases;Senegal;8/10/2015;1
+Deaths;Guinea;8/10/2015;2534
+Cases;Guinea;8/10/2015;3799
+Deaths;Italy;8/10/2015;0
+Cases;Italy;8/10/2015;1
+Deaths;Liberia;8/10/2015;4806
+Cases;Liberia;8/10/2015;10666
+Deaths;Liberia 2;8/10/2015;2
+Cases;Liberia 2;8/10/2015;6
+Deaths;Mali;8/10/2015;6
+Cases;Mali;8/10/2015;8
+Cases;Nigeria;8/10/2015;20
+Deaths;Nigeria;8/10/2015;8
+Deaths;Sierra Leone;8/10/2015;3955
+Cases;Sierra Leone;8/10/2015;13956
+Cases;Spain;8/10/2015;1
+Deaths;Spain;8/10/2015;0
+Deaths;United Kingdom;8/10/2015;0
+Cases;United Kingdom;8/10/2015;1
+Cases;United States of America;8/10/2015;4
+Deaths;United States of America;8/10/2015;1
+Deaths;Senegal;8/10/2015;0
+Cases;Senegal;9/10/2015;1
+Cases;Guinea;9/10/2015;3800
+Deaths;Guinea;9/10/2015;2534
+Deaths;Italy;9/10/2015;0
+Cases;Italy;9/10/2015;1
+Cases;Liberia;9/10/2015;10666
+Deaths;Liberia;9/10/2015;4806
+Cases;Liberia 2;9/10/2015;6
+Deaths;Liberia 2;9/10/2015;2
+Deaths;Mali;9/10/2015;6
+Cases;Mali;9/10/2015;8
+Cases;Nigeria;9/10/2015;20
+Deaths;Nigeria;9/10/2015;8
+Deaths;Sierra Leone;9/10/2015;3955
+Cases;Sierra Leone;9/10/2015;13957
+Cases;Spain;9/10/2015;1
+Deaths;Spain;9/10/2015;0
+Deaths;United Kingdom;9/10/2015;0
+Cases;United Kingdom;9/10/2015;1
+Cases;United States of America;9/10/2015;4
+Deaths;United States of America;9/10/2015;1
+Deaths;Senegal;9/10/2015;0
+Cases;Senegal;13/10/2015;1
+Deaths;Guinea;13/10/2015;2534
+Cases;Guinea;13/10/2015;3800
+Deaths;Italy;13/10/2015;0
+Cases;Italy;13/10/2015;1
+Cases;Liberia;13/10/2015;10666
+Deaths;Liberia;13/10/2015;4806
+Deaths;Liberia 2;13/10/2015;2
+Cases;Liberia 2;13/10/2015;6
+Deaths;Mali;13/10/2015;6
+Cases;Mali;13/10/2015;8
+Cases;Nigeria;13/10/2015;20
+Deaths;Nigeria;13/10/2015;8
+Cases;Sierra Leone;13/10/2015;13982
+Deaths;Sierra Leone;13/10/2015;3955
+Cases;Spain;13/10/2015;1
+Deaths;Spain;13/10/2015;0
+Deaths;United Kingdom;13/10/2015;0
+Cases;United Kingdom;13/10/2015;1
+Cases;United States of America;13/10/2015;4
+Deaths;United States of America;13/10/2015;1
+Deaths;Senegal;13/10/2015;0
+Cases;Senegal;15/10/2015;1
+Deaths;Guinea;15/10/2015;2534
+Cases;Guinea;15/10/2015;3802
+Deaths;Italy;15/10/2015;0
+Cases;Italy;15/10/2015;1
+Cases;Liberia;15/10/2015;10666
+Deaths;Liberia;15/10/2015;4806
+Deaths;Liberia 2;15/10/2015;2
+Cases;Liberia 2;15/10/2015;6
+Deaths;Mali;15/10/2015;6
+Cases;Mali;15/10/2015;8
+Cases;Nigeria;15/10/2015;20
+Deaths;Nigeria;15/10/2015;8
+Cases;Sierra Leone;15/10/2015;13992
+Deaths;Sierra Leone;15/10/2015;3955
+Cases;Spain;15/10/2015;1
+Deaths;Spain;15/10/2015;0
+Deaths;United Kingdom;15/10/2015;0
+Cases;United Kingdom;15/10/2015;1
+Cases;United States of America;15/10/2015;4
+Deaths;United States of America;15/10/2015;1
+Deaths;Senegal;15/10/2015;0
+Cases;Senegal;16/10/2015;1
+Cases;Guinea;16/10/2015;3804
+Deaths;Guinea;16/10/2015;2535
+Deaths;Italy;16/10/2015;0
+Cases;Italy;16/10/2015;1
+Cases;Liberia;16/10/2015;10666
+Deaths;Liberia;16/10/2015;4806
+Cases;Liberia 2;16/10/2015;6
+Deaths;Liberia 2;16/10/2015;2
+Deaths;Mali;16/10/2015;6
+Cases;Mali;16/10/2015;8
+Cases;Nigeria;16/10/2015;20
+Deaths;Nigeria;16/10/2015;8
+Cases;Sierra Leone;16/10/2015;13992
+Deaths;Sierra Leone;16/10/2015;3955
+Cases;Spain;16/10/2015;1
+Deaths;Spain;16/10/2015;0
+Deaths;United Kingdom;16/10/2015;0
+Cases;United Kingdom;16/10/2015;1
+Cases;United States of America;16/10/2015;4
+Deaths;United States of America;16/10/2015;1
+Deaths;Senegal;16/10/2015;0
+Cases;Senegal;20/10/2015;1
+Cases;Guinea;20/10/2015;3803
+Deaths;Guinea;20/10/2015;2535
+Deaths;Italy;20/10/2015;0
+Cases;Italy;20/10/2015;1
+Deaths;Liberia;20/10/2015;4806
+Cases;Liberia;20/10/2015;10666
+Cases;Liberia 2;20/10/2015;6
+Deaths;Liberia 2;20/10/2015;2
+Deaths;Mali;20/10/2015;6
+Cases;Mali;20/10/2015;8
+Cases;Nigeria;20/10/2015;20
+Deaths;Nigeria;20/10/2015;8
+Deaths;Sierra Leone;20/10/2015;3955
+Cases;Sierra Leone;20/10/2015;14001
+Cases;Spain;20/10/2015;1
+Deaths;Spain;20/10/2015;0
+Deaths;United Kingdom;20/10/2015;0
+Cases;United Kingdom;20/10/2015;1
+Cases;United States of America;20/10/2015;4
+Deaths;United States of America;20/10/2015;1
+Deaths;Senegal;20/10/2015;0
+Cases;Senegal;22/10/2015;1
+Cases;Guinea;22/10/2015;3801
+Deaths;Guinea;22/10/2015;2535
+Deaths;Italy;22/10/2015;0
+Cases;Italy;22/10/2015;1
+Deaths;Liberia;22/10/2015;4806
+Cases;Liberia;22/10/2015;10666
+Cases;Liberia 2;22/10/2015;6
+Deaths;Liberia 2;22/10/2015;2
+Deaths;Mali;22/10/2015;6
+Cases;Mali;22/10/2015;8
+Cases;Nigeria;22/10/2015;20
+Deaths;Nigeria;22/10/2015;8
+Deaths;Sierra Leone;22/10/2015;3955
+Cases;Sierra Leone;22/10/2015;14031
+Cases;Spain;22/10/2015;1
+Deaths;Spain;22/10/2015;0
+Deaths;United Kingdom;22/10/2015;0
+Cases;United Kingdom;22/10/2015;1
+Cases;United States of America;22/10/2015;4
+Deaths;United States of America;22/10/2015;1
+Deaths;Senegal;22/10/2015;0
+Cases;Senegal;23/10/2015;1
+Deaths;Guinea;23/10/2015;2535
+Cases;Guinea;23/10/2015;3801
+Deaths;Italy;23/10/2015;0
+Cases;Italy;23/10/2015;1
+Cases;Liberia;23/10/2015;10666
+Deaths;Liberia;23/10/2015;4806
+Deaths;Liberia 2;23/10/2015;2
+Cases;Liberia 2;23/10/2015;6
+Deaths;Mali;23/10/2015;6
+Cases;Mali;23/10/2015;8
+Cases;Nigeria;23/10/2015;20
+Deaths;Nigeria;23/10/2015;8
+Deaths;Sierra Leone;23/10/2015;3955
+Cases;Sierra Leone;23/10/2015;14038
+Cases;Spain;23/10/2015;1
+Deaths;Spain;23/10/2015;0
+Deaths;United Kingdom;23/10/2015;0
+Cases;United Kingdom;23/10/2015;1
+Cases;United States of America;23/10/2015;4
+Deaths;United States of America;23/10/2015;1
+Deaths;Senegal;23/10/2015;0
+Cases;Senegal;26/10/2015;1
+Deaths;Guinea;26/10/2015;2535
+Cases;Guinea;26/10/2015;3804
+Deaths;Italy;26/10/2015;0
+Cases;Italy;26/10/2015;1
+Cases;Liberia;26/10/2015;10666
+Deaths;Liberia;26/10/2015;4806
+Deaths;Liberia 2;26/10/2015;2
+Cases;Liberia 2;26/10/2015;6
+Deaths;Mali;26/10/2015;6
+Cases;Mali;26/10/2015;8
+Cases;Nigeria;26/10/2015;20
+Deaths;Nigeria;26/10/2015;8
+Cases;Sierra Leone;26/10/2015;14052
+Deaths;Sierra Leone;26/10/2015;3955
+Cases;Spain;26/10/2015;1
+Deaths;Spain;26/10/2015;0
+Deaths;United Kingdom;26/10/2015;0
+Cases;United Kingdom;26/10/2015;1
+Cases;United States of America;26/10/2015;4
+Deaths;United States of America;26/10/2015;1
+Deaths;Senegal;26/10/2015;0
+Cases;Senegal;27/10/2015;1
+Deaths;Guinea;27/10/2015;2535
+Cases;Guinea;27/10/2015;3806
+Deaths;Italy;27/10/2015;0
+Cases;Italy;27/10/2015;1
+Cases;Liberia;27/10/2015;10666
+Deaths;Liberia;27/10/2015;4806
+Deaths;Liberia 2;27/10/2015;2
+Cases;Liberia 2;27/10/2015;6
+Deaths;Mali;27/10/2015;6
+Cases;Mali;27/10/2015;8
+Cases;Nigeria;27/10/2015;20
+Deaths;Nigeria;27/10/2015;8
+Deaths;Sierra Leone;27/10/2015;3955
+Cases;Sierra Leone;27/10/2015;14061
+Cases;Spain;27/10/2015;1
+Deaths;Spain;27/10/2015;0
+Deaths;United Kingdom;27/10/2015;0
+Cases;United Kingdom;27/10/2015;1
+Cases;United States of America;27/10/2015;4
+Deaths;United States of America;27/10/2015;1
+Deaths;Senegal;27/10/2015;0
+Cases;Senegal;29/10/2015;1
+Cases;Guinea;29/10/2015;3808
+Deaths;Guinea;29/10/2015;2536
+Deaths;Italy;29/10/2015;0
+Cases;Italy;29/10/2015;1
+Deaths;Liberia;29/10/2015;4806
+Cases;Liberia;29/10/2015;10666
+Cases;Liberia 2;29/10/2015;6
+Deaths;Liberia 2;29/10/2015;2
+Deaths;Mali;29/10/2015;6
+Cases;Mali;29/10/2015;8
+Cases;Nigeria;29/10/2015;20
+Deaths;Nigeria;29/10/2015;8
+Deaths;Sierra Leone;29/10/2015;3955
+Cases;Sierra Leone;29/10/2015;14066
+Cases;Spain;29/10/2015;1
+Deaths;Spain;29/10/2015;0
+Deaths;United Kingdom;29/10/2015;0
+Cases;United Kingdom;29/10/2015;1
+Cases;United States of America;29/10/2015;4
+Deaths;United States of America;29/10/2015;1
+Deaths;Senegal;29/10/2015;0
+Cases;Senegal;30/10/2015;1
+Cases;Guinea;30/10/2015;3808
+Deaths;Guinea;30/10/2015;2536
+Deaths;Italy;30/10/2015;0
+Cases;Italy;30/10/2015;1
+Deaths;Liberia;30/10/2015;4806
+Cases;Liberia;30/10/2015;10666
+Cases;Liberia 2;30/10/2015;6
+Deaths;Liberia 2;30/10/2015;2
+Deaths;Mali;30/10/2015;6
+Cases;Mali;30/10/2015;8
+Cases;Nigeria;30/10/2015;20
+Deaths;Nigeria;30/10/2015;8
+Cases;Sierra Leone;30/10/2015;14067
+Deaths;Sierra Leone;30/10/2015;3955
+Cases;Spain;30/10/2015;1
+Deaths;Spain;30/10/2015;0
+Deaths;United Kingdom;30/10/2015;0
+Cases;United Kingdom;30/10/2015;1
+Cases;United States of America;30/10/2015;4
+Deaths;United States of America;30/10/2015;1
+Deaths;Senegal;30/10/2015;0
+Cases;Senegal;3/11/2015;1
+Deaths;Guinea;3/11/2015;2536
+Cases;Guinea;3/11/2015;3810
+Deaths;Italy;3/11/2015;0
+Cases;Italy;3/11/2015;1
+Deaths;Liberia;3/11/2015;4806
+Cases;Liberia;3/11/2015;10666
+Deaths;Liberia 2;3/11/2015;2
+Cases;Liberia 2;3/11/2015;6
+Deaths;Mali;3/11/2015;6
+Cases;Mali;3/11/2015;8
+Cases;Nigeria;3/11/2015;20
+Deaths;Nigeria;3/11/2015;8
+Deaths;Sierra Leone;3/11/2015;3955
+Cases;Sierra Leone;3/11/2015;14089
+Cases;Spain;3/11/2015;1
+Deaths;Spain;3/11/2015;0
+Deaths;United Kingdom;3/11/2015;0
+Cases;United Kingdom;3/11/2015;1
+Cases;United States of America;3/11/2015;4
+Deaths;United States of America;3/11/2015;1
+Deaths;Senegal;3/11/2015;0
+Cases;Senegal;5/11/2015;1
+Deaths;Guinea;5/11/2015;2536
+Cases;Guinea;5/11/2015;3805
+Deaths;Italy;5/11/2015;0
+Cases;Italy;5/11/2015;1
+Cases;Liberia;5/11/2015;10666
+Deaths;Liberia;5/11/2015;4806
+Deaths;Liberia 2;5/11/2015;2
+Cases;Liberia 2;5/11/2015;6
+Deaths;Mali;5/11/2015;6
+Cases;Mali;5/11/2015;8
+Cases;Nigeria;5/11/2015;20
+Deaths;Nigeria;5/11/2015;8
+Cases;Sierra Leone;5/11/2015;14104
+Deaths;Sierra Leone;5/11/2015;3955
+Cases;Spain;5/11/2015;1
+Deaths;Spain;5/11/2015;0
+Deaths;United Kingdom;5/11/2015;0
+Cases;United Kingdom;5/11/2015;1
+Cases;United States of America;5/11/2015;4
+Deaths;United States of America;5/11/2015;1
+Deaths;Senegal;5/11/2015;0
+Cases;Senegal;6/11/2015;1
+Cases;Guinea;6/11/2015;3805
+Deaths;Guinea;6/11/2015;2536
+Deaths;Italy;6/11/2015;0
+Cases;Italy;6/11/2015;1
+Cases;Liberia;6/11/2015;10666
+Deaths;Liberia;6/11/2015;4806
+Cases;Liberia 2;6/11/2015;6
+Deaths;Liberia 2;6/11/2015;2
+Deaths;Mali;6/11/2015;6
+Cases;Mali;6/11/2015;8
+Cases;Nigeria;6/11/2015;20
+Deaths;Nigeria;6/11/2015;8
+Cases;Sierra Leone;6/11/2015;14109
+Deaths;Sierra Leone;6/11/2015;3955
+Cases;Spain;6/11/2015;1
+Deaths;Spain;6/11/2015;0
+Deaths;United Kingdom;6/11/2015;0
+Cases;United Kingdom;6/11/2015;1
+Cases;United States of America;6/11/2015;4
+Deaths;United States of America;6/11/2015;1
+Deaths;Senegal;6/11/2015;0
+Cases;Senegal;10/11/2015;1
+Cases;Guinea;10/11/2015;3805
+Deaths;Guinea;10/11/2015;2536
+Deaths;Italy;10/11/2015;0
+Cases;Italy;10/11/2015;1
+Cases;Liberia;10/11/2015;10666
+Deaths;Liberia;10/11/2015;4806
+Cases;Liberia 2;10/11/2015;6
+Deaths;Liberia 2;10/11/2015;2
+Deaths;Mali;10/11/2015;6
+Cases;Mali;10/11/2015;8
+Cases;Nigeria;10/11/2015;20
+Deaths;Nigeria;10/11/2015;8
+Cases;Sierra Leone;10/11/2015;14122
+Deaths;Sierra Leone;10/11/2015;3955
+Cases;Spain;10/11/2015;1
+Deaths;Spain;10/11/2015;0
+Deaths;United Kingdom;10/11/2015;0
+Cases;United Kingdom;10/11/2015;1
+Cases;United States of America;10/11/2015;4
+Deaths;United States of America;10/11/2015;1
+Deaths;Senegal;10/11/2015;0
+Cases;Senegal;11/11/2015;1
+Cases;Guinea;11/11/2015;3805
+Deaths;Guinea;11/11/2015;2536
+Deaths;Italy;11/11/2015;0
+Cases;Italy;11/11/2015;1
+Deaths;Liberia;11/11/2015;4806
+Cases;Liberia;11/11/2015;10666
+Deaths;Liberia 2;11/11/2015;2
+Cases;Liberia 2;11/11/2015;6
+Deaths;Mali;11/11/2015;6
+Cases;Mali;11/11/2015;8
+Cases;Nigeria;11/11/2015;20
+Deaths;Nigeria;11/11/2015;8
+Cases;Sierra Leone;11/11/2015;14122
+Deaths;Sierra Leone;11/11/2015;3955
+Cases;Spain;11/11/2015;1
+Deaths;Spain;11/11/2015;0
+Deaths;United Kingdom;11/11/2015;0
+Cases;United Kingdom;11/11/2015;1
+Cases;United States of America;11/11/2015;4
+Deaths;United States of America;11/11/2015;1
+Deaths;Senegal;11/11/2015;0
+Cases;Senegal;12/11/2015;1
+Cases;Guinea;12/11/2015;3805
+Deaths;Guinea;12/11/2015;2536
+Deaths;Italy;12/11/2015;0
+Cases;Italy;12/11/2015;1
+Cases;Liberia;12/11/2015;10666
+Deaths;Liberia;12/11/2015;4806
+Cases;Liberia 2;12/11/2015;6
+Deaths;Liberia 2;12/11/2015;2
+Deaths;Mali;12/11/2015;6
+Cases;Mali;12/11/2015;8
+Cases;Nigeria;12/11/2015;20
+Deaths;Nigeria;12/11/2015;8
+Cases;Sierra Leone;12/11/2015;14122
+Deaths;Sierra Leone;12/11/2015;3955
+Cases;Spain;12/11/2015;1
+Deaths;Spain;12/11/2015;0
+Deaths;United Kingdom;12/11/2015;0
+Cases;United Kingdom;12/11/2015;1
+Cases;United States of America;12/11/2015;4
+Deaths;United States of America;12/11/2015;1
+Deaths;Senegal;12/11/2015;0
+Cases;Senegal;16/11/2015;1
+Cases;Guinea;16/11/2015;3805
+Deaths;Guinea;16/11/2015;2536
+Deaths;Italy;16/11/2015;0
+Cases;Italy;16/11/2015;1
+Deaths;Liberia;16/11/2015;4806
+Cases;Liberia;16/11/2015;10666
+Cases;Liberia 2;16/11/2015;6
+Deaths;Liberia 2;16/11/2015;2
+Deaths;Mali;16/11/2015;6
+Cases;Mali;16/11/2015;8
+Cases;Nigeria;16/11/2015;20
+Deaths;Nigeria;16/11/2015;8
+Deaths;Sierra Leone;16/11/2015;3955
+Cases;Sierra Leone;16/11/2015;14122
+Cases;Spain;16/11/2015;1
+Deaths;Spain;16/11/2015;0
+Deaths;United Kingdom;16/11/2015;0
+Cases;United Kingdom;16/11/2015;1
+Cases;United States of America;16/11/2015;4
+Deaths;United States of America;16/11/2015;1
+Deaths;Senegal;16/11/2015;0
+Cases;Senegal;17/11/2015;1
+Cases;Guinea;17/11/2015;3804
+Deaths;Guinea;17/11/2015;2536
+Deaths;Italy;17/11/2015;0
+Cases;Italy;17/11/2015;1
+Deaths;Liberia;17/11/2015;4806
+Cases;Liberia;17/11/2015;10666
+Cases;Liberia 2;17/11/2015;6
+Deaths;Liberia 2;17/11/2015;2
+Deaths;Mali;17/11/2015;6
+Cases;Mali;17/11/2015;8
+Cases;Nigeria;17/11/2015;20
+Deaths;Nigeria;17/11/2015;8
+Deaths;Sierra Leone;17/11/2015;3955
+Cases;Sierra Leone;17/11/2015;14122
+Cases;Spain;17/11/2015;1
+Deaths;Spain;17/11/2015;0
+Deaths;United Kingdom;17/11/2015;0
+Cases;United Kingdom;17/11/2015;1
+Cases;United States of America;17/11/2015;4
+Deaths;United States of America;17/11/2015;1
+Deaths;Senegal;17/11/2015;0
+Cases;Senegal;20/11/2015;1
+Cases;Guinea;20/11/2015;3804
+Deaths;Guinea;20/11/2015;2536
+Deaths;Italy;20/11/2015;0
+Cases;Italy;20/11/2015;1
+Cases;Liberia;20/11/2015;10666
+Deaths;Liberia;20/11/2015;4806
+Cases;Liberia 2;20/11/2015;6
+Deaths;Liberia 2;20/11/2015;2
+Deaths;Mali;20/11/2015;6
+Cases;Mali;20/11/2015;8
+Cases;Nigeria;20/11/2015;20
+Deaths;Nigeria;20/11/2015;8
+Deaths;Sierra Leone;20/11/2015;3955
+Cases;Sierra Leone;20/11/2015;14122
+Cases;Spain;20/11/2015;1
+Deaths;Spain;20/11/2015;0
+Deaths;United Kingdom;20/11/2015;0
+Cases;United Kingdom;20/11/2015;1
+Cases;United States of America;20/11/2015;4
+Deaths;United States of America;20/11/2015;1
+Deaths;Senegal;20/11/2015;0
+Cases;Senegal;24/11/2015;1
+Deaths;Guinea;24/11/2015;2536
+Cases;Guinea;24/11/2015;3804
+Deaths;Italy;24/11/2015;0
+Cases;Italy;24/11/2015;1
+Deaths;Liberia;24/11/2015;4806
+Cases;Liberia;24/11/2015;10666
+Deaths;Liberia 2;24/11/2015;2
+Cases;Liberia 2;24/11/2015;6
+Deaths;Mali;24/11/2015;6
+Cases;Mali;24/11/2015;8
+Cases;Nigeria;24/11/2015;20
+Deaths;Nigeria;24/11/2015;8
+Deaths;Sierra Leone;24/11/2015;3955
+Cases;Sierra Leone;24/11/2015;14122
+Cases;Spain;24/11/2015;1
+Deaths;Spain;24/11/2015;0
+Deaths;United Kingdom;24/11/2015;0
+Cases;United Kingdom;24/11/2015;1
+Cases;United States of America;24/11/2015;4
+Deaths;United States of America;24/11/2015;1
+Deaths;Senegal;24/11/2015;0
+Cases;Senegal;26/11/2015;1
+Deaths;Guinea;26/11/2015;2536
+Cases;Guinea;26/11/2015;3804
+Deaths;Italy;26/11/2015;0
+Cases;Italy;26/11/2015;1
+Cases;Liberia;26/11/2015;10666
+Deaths;Liberia;26/11/2015;4806
+Deaths;Liberia 2;26/11/2015;2
+Cases;Liberia 2;26/11/2015;9
+Deaths;Mali;26/11/2015;6
+Cases;Mali;26/11/2015;8
+Cases;Nigeria;26/11/2015;20
+Deaths;Nigeria;26/11/2015;8
+Deaths;Sierra Leone;26/11/2015;3955
+Cases;Sierra Leone;26/11/2015;14122
+Cases;Spain;26/11/2015;1
+Deaths;Spain;26/11/2015;0
+Deaths;United Kingdom;26/11/2015;0
+Cases;United Kingdom;26/11/2015;1
+Cases;United States of America;26/11/2015;4
+Deaths;United States of America;26/11/2015;1
+Deaths;Senegal;26/11/2015;0
+Cases;Senegal;1/12/2015;1
+Cases;Guinea;1/12/2015;3804
+Deaths;Guinea;1/12/2015;2536
+Deaths;Italy;1/12/2015;0
+Cases;Italy;1/12/2015;1
+Cases;Liberia;1/12/2015;10666
+Deaths;Liberia;1/12/2015;4806
+Cases;Liberia 2;1/12/2015;9
+Deaths;Liberia 2;1/12/2015;2
+Deaths;Mali;1/12/2015;6
+Cases;Mali;1/12/2015;8
+Cases;Nigeria;1/12/2015;20
+Deaths;Nigeria;1/12/2015;8
+Cases;Sierra Leone;1/12/2015;14122
+Deaths;Sierra Leone;1/12/2015;3955
+Cases;Spain;1/12/2015;1
+Deaths;Spain;1/12/2015;0
+Deaths;United Kingdom;1/12/2015;0
+Cases;United Kingdom;1/12/2015;1
+Cases;United States of America;1/12/2015;4
+Deaths;United States of America;1/12/2015;1
+Deaths;Senegal;1/12/2015;0
+Cases;Senegal;2/12/2015;1
+Deaths;Guinea;2/12/2015;2536
+Cases;Guinea;2/12/2015;3804
+Deaths;Italy;2/12/2015;0
+Cases;Italy;2/12/2015;1
+Deaths;Liberia;2/12/2015;4806
+Cases;Liberia;2/12/2015;10666
+Cases;Liberia 2;2/12/2015;9
+Deaths;Liberia 2;2/12/2015;3
+Deaths;Mali;2/12/2015;6
+Cases;Mali;2/12/2015;8
+Cases;Nigeria;2/12/2015;20
+Deaths;Nigeria;2/12/2015;8
+Deaths;Sierra Leone;2/12/2015;3955
+Cases;Sierra Leone;2/12/2015;14122
+Cases;Spain;2/12/2015;1
+Deaths;Spain;2/12/2015;0
+Deaths;United Kingdom;2/12/2015;0
+Cases;United Kingdom;2/12/2015;1
+Cases;United States of America;2/12/2015;4
+Deaths;United States of America;2/12/2015;1
+Deaths;Senegal;2/12/2015;0
+Cases;Senegal;3/12/2015;1
+Cases;Guinea;3/12/2015;3805
+Deaths;Guinea;3/12/2015;2536
+Deaths;Italy;3/12/2015;0
+Cases;Italy;3/12/2015;1
+Deaths;Liberia;3/12/2015;4806
+Cases;Liberia;3/12/2015;10666
+Cases;Liberia 2;3/12/2015;9
+Deaths;Liberia 2;3/12/2015;3
+Deaths;Mali;3/12/2015;6
+Cases;Mali;3/12/2015;8
+Cases;Nigeria;3/12/2015;20
+Deaths;Nigeria;3/12/2015;8
+Deaths;Sierra Leone;3/12/2015;3955
+Cases;Sierra Leone;3/12/2015;14122
+Cases;Spain;3/12/2015;1
+Deaths;Spain;3/12/2015;0
+Deaths;United Kingdom;3/12/2015;0
+Cases;United Kingdom;3/12/2015;1
+Cases;United States of America;3/12/2015;4
+Deaths;United States of America;3/12/2015;1
+Deaths;Senegal;3/12/2015;0
+Cases;Senegal;9/12/2015;1
+Deaths;Guinea;9/12/2015;2536
+Cases;Guinea;9/12/2015;3804
+Deaths;Italy;9/12/2015;0
+Cases;Italy;9/12/2015;1
+Cases;Liberia;9/12/2015;10666
+Deaths;Liberia;9/12/2015;4806
+Cases;Liberia 2;9/12/2015;9
+Deaths;Liberia 2;9/12/2015;3
+Deaths;Mali;9/12/2015;6
+Cases;Mali;9/12/2015;8
+Cases;Nigeria;9/12/2015;20
+Deaths;Nigeria;9/12/2015;8
+Cases;Sierra Leone;9/12/2015;14122
+Deaths;Sierra Leone;9/12/2015;3955
+Cases;Spain;9/12/2015;1
+Deaths;Spain;9/12/2015;0
+Deaths;United Kingdom;9/12/2015;0
+Cases;United Kingdom;9/12/2015;1
+Cases;United States of America;9/12/2015;4
+Deaths;United States of America;9/12/2015;1
+Deaths;Senegal;9/12/2015;0
+Cases;Senegal;10/12/2015;1
+Cases;Guinea;10/12/2015;3804
+Deaths;Guinea;10/12/2015;2536
+Deaths;Italy;10/12/2015;0
+Cases;Italy;10/12/2015;1
+Cases;Liberia;10/12/2015;10666
+Deaths;Liberia;10/12/2015;4806
+Cases;Liberia 2;10/12/2015;9
+Deaths;Liberia 2;10/12/2015;3
+Deaths;Mali;10/12/2015;6
+Cases;Mali;10/12/2015;8
+Cases;Nigeria;10/12/2015;20
+Deaths;Nigeria;10/12/2015;8
+Cases;Sierra Leone;10/12/2015;14122
+Deaths;Sierra Leone;10/12/2015;3955
+Cases;Spain;10/12/2015;1
+Deaths;Spain;10/12/2015;0
+Deaths;United Kingdom;10/12/2015;0
+Cases;United Kingdom;10/12/2015;1
+Cases;United States of America;10/12/2015;4
+Deaths;United States of America;10/12/2015;1
+Deaths;Senegal;10/12/2015;0
+Cases;Senegal;11/12/2015;1
+Cases;Guinea;11/12/2015;3804
+Deaths;Guinea;11/12/2015;2536
+Deaths;Italy;11/12/2015;0
+Cases;Italy;11/12/2015;1
+Deaths;Liberia;11/12/2015;4806
+Cases;Liberia;11/12/2015;10666
+Cases;Liberia 2;11/12/2015;9
+Deaths;Liberia 2;11/12/2015;3
+Deaths;Mali;11/12/2015;6
+Cases;Mali;11/12/2015;8
+Cases;Nigeria;11/12/2015;20
+Deaths;Nigeria;11/12/2015;8
+Deaths;Sierra Leone;11/12/2015;3955
+Cases;Sierra Leone;11/12/2015;14122
+Cases;Spain;11/12/2015;1
+Deaths;Spain;11/12/2015;0
+Deaths;United Kingdom;11/12/2015;0
+Cases;United Kingdom;11/12/2015;1
+Cases;United States of America;11/12/2015;4
+Deaths;United States of America;11/12/2015;1
+Deaths;Senegal;11/12/2015;0
+Cases;Senegal;15/12/2015;1
+Cases;Guinea;15/12/2015;3807
+Deaths;Guinea;15/12/2015;2536
+Deaths;Italy;15/12/2015;0
+Cases;Italy;15/12/2015;1
+Cases;Liberia;15/12/2015;10666
+Deaths;Liberia;15/12/2015;4806
+Cases;Liberia 2;15/12/2015;9
+Deaths;Liberia 2;15/12/2015;3
+Deaths;Mali;15/12/2015;6
+Cases;Mali;15/12/2015;8
+Cases;Nigeria;15/12/2015;20
+Deaths;Nigeria;15/12/2015;8
+Cases;Sierra Leone;15/12/2015;14122
+Deaths;Sierra Leone;15/12/2015;3955
+Cases;Spain;15/12/2015;1
+Deaths;Spain;15/12/2015;0
+Deaths;United Kingdom;15/12/2015;0
+Cases;United Kingdom;15/12/2015;1
+Cases;United States of America;15/12/2015;4
+Deaths;United States of America;15/12/2015;1
+Deaths;Senegal;15/12/2015;0
+Cases;Senegal;16/12/2015;1
+Deaths;Guinea;16/12/2015;2536
+Cases;Guinea;16/12/2015;3807
+Deaths;Italy;16/12/2015;0
+Cases;Italy;16/12/2015;1
+Cases;Liberia;16/12/2015;10666
+Deaths;Liberia;16/12/2015;4806
+Cases;Liberia 2;16/12/2015;9
+Deaths;Liberia 2;16/12/2015;3
+Deaths;Mali;16/12/2015;6
+Cases;Mali;16/12/2015;8
+Cases;Nigeria;16/12/2015;20
+Deaths;Nigeria;16/12/2015;8
+Deaths;Sierra Leone;16/12/2015;3955
+Cases;Sierra Leone;16/12/2015;14122
+Cases;Spain;16/12/2015;1
+Deaths;Spain;16/12/2015;0
+Deaths;United Kingdom;16/12/2015;0
+Cases;United Kingdom;16/12/2015;1
+Cases;United States of America;16/12/2015;4
+Deaths;United States of America;16/12/2015;1
+Deaths;Senegal;16/12/2015;0
+Cases;Senegal;17/12/2015;1
+Deaths;Guinea;17/12/2015;2536
+Cases;Guinea;17/12/2015;3805
+Deaths;Italy;17/12/2015;0
+Cases;Italy;17/12/2015;1
+Deaths;Liberia;17/12/2015;4806
+Cases;Liberia;17/12/2015;10666
+Deaths;Liberia 2;17/12/2015;3
+Cases;Liberia 2;17/12/2015;9
+Deaths;Mali;17/12/2015;6
+Cases;Mali;17/12/2015;8
+Cases;Nigeria;17/12/2015;20
+Deaths;Nigeria;17/12/2015;8
+Deaths;Sierra Leone;17/12/2015;3955
+Cases;Sierra Leone;17/12/2015;14122
+Cases;Spain;17/12/2015;1
+Deaths;Spain;17/12/2015;0
+Deaths;United Kingdom;17/12/2015;0
+Cases;United Kingdom;17/12/2015;1
+Cases;United States of America;17/12/2015;4
+Deaths;United States of America;17/12/2015;1
+Deaths;Senegal;17/12/2015;0
+Cases;Senegal;22/12/2015;1
+Cases;Guinea;22/12/2015;3804
+Deaths;Guinea;22/12/2015;2536
+Deaths;Italy;22/12/2015;0
+Cases;Italy;22/12/2015;1
+Deaths;Liberia;22/12/2015;4806
+Cases;Liberia;22/12/2015;10666
+Cases;Liberia 2;22/12/2015;9
+Deaths;Liberia 2;22/12/2015;3
+Deaths;Mali;22/12/2015;6
+Cases;Mali;22/12/2015;8
+Cases;Nigeria;22/12/2015;20
+Deaths;Nigeria;22/12/2015;8
+Deaths;Sierra Leone;22/12/2015;3955
+Cases;Sierra Leone;22/12/2015;14122
+Cases;Spain;22/12/2015;1
+Deaths;Spain;22/12/2015;0
+Deaths;United Kingdom;22/12/2015;0
+Cases;United Kingdom;22/12/2015;1
+Cases;United States of America;22/12/2015;4
+Deaths;United States of America;22/12/2015;1
+Deaths;Senegal;22/12/2015;0
+Cases;Senegal;23/12/2015;1
+Deaths;Guinea;23/12/2015;2536
+Cases;Guinea;23/12/2015;3804
+Deaths;Italy;23/12/2015;0
+Cases;Italy;23/12/2015;1
+Deaths;Liberia;23/12/2015;4806
+Cases;Liberia;23/12/2015;10666
+Cases;Liberia 2;23/12/2015;9
+Deaths;Liberia 2;23/12/2015;3
+Deaths;Mali;23/12/2015;6
+Cases;Mali;23/12/2015;8
+Cases;Nigeria;23/12/2015;20
+Deaths;Nigeria;23/12/2015;8
+Deaths;Sierra Leone;23/12/2015;3955
+Cases;Sierra Leone;23/12/2015;14122
+Cases;Spain;23/12/2015;1
+Deaths;Spain;23/12/2015;0
+Deaths;United Kingdom;23/12/2015;0
+Cases;United Kingdom;23/12/2015;1
+Cases;United States of America;23/12/2015;4
+Deaths;United States of America;23/12/2015;1
+Deaths;Senegal;23/12/2015;0
+Cases;Senegal;29/12/2015;1
+Deaths;Guinea;29/12/2015;2536
+Cases;Guinea;29/12/2015;3804
+Deaths;Italy;29/12/2015;0
+Cases;Italy;29/12/2015;1
+Cases;Liberia;29/12/2015;10666
+Deaths;Liberia;29/12/2015;4806
+Deaths;Liberia 2;29/12/2015;3
+Cases;Liberia 2;29/12/2015;9
+Deaths;Mali;29/12/2015;6
+Cases;Mali;29/12/2015;8
+Cases;Nigeria;29/12/2015;20
+Deaths;Nigeria;29/12/2015;8
+Cases;Sierra Leone;29/12/2015;14122
+Deaths;Sierra Leone;29/12/2015;3955
+Cases;Spain;29/12/2015;1
+Deaths;Spain;29/12/2015;0
+Deaths;United Kingdom;29/12/2015;0
+Cases;United Kingdom;29/12/2015;1
+Cases;United States of America;29/12/2015;4
+Deaths;United States of America;29/12/2015;1
+Deaths;Senegal;29/12/2015;0
+Cases;Senegal;23/03/2016;1
+Cases;Guinea;23/03/2016;3804
+Deaths;Guinea;23/03/2016;2536
+Cases;Guinea 2;23/03/2016;5
+Deaths;Guinea 2;23/03/2016;4
+Deaths;Italy;23/03/2016;0
+Cases;Italy;23/03/2016;1
+Cases;Liberia;23/03/2016;10666
+Deaths;Liberia;23/03/2016;4806
+Cases;Liberia 2;23/03/2016;9
+Deaths;Liberia 2;23/03/2016;3
+Deaths;Mali;23/03/2016;6
+Cases;Mali;23/03/2016;8
+Cases;Nigeria;23/03/2016;20
+Deaths;Nigeria;23/03/2016;8
+Deaths;Senegal;23/03/2016;0
+Cases;Sierra Leone;23/03/2016;14122
+Deaths;Sierra Leone;23/03/2016;3955
+Cases;Spain;23/03/2016;1
+Deaths;Spain;23/03/2016;0
+Deaths;United Kingdom;23/03/2016;0
+Cases;United Kingdom;23/03/2016;1
+Cases;United States of America;23/03/2016;4
+Deaths;United States of America;23/03/2016;1
